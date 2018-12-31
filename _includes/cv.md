@@ -24,8 +24,11 @@ I am a researcher in computational biology. More specifically, I work with DNA a
 
 ## ![ ](line.png) Skills
 <strong> Programming: </strong> More competent: Python, Java, Matlab, UNIX shell, bash. Less competent: R, C++, JavaScript, HTML, CSS.
+
 <strong> Common packages used: </strong> numpy, scipy, pandas, scikit-learn, tensorflow, openCV, Bioconductor
+
 <strong> Engineering: </strong> Arduino, Raspberry Pi, SolidWords, AutoCAD, Agile & Scrum, Project management
+
 <strong> Laboratory: </strong> PCR, Molecular cloning, Transformation, Transfection, RNA/DNA extraction, Protein assay, SDS-PAGE, Electrophoresis, Western blotting, Anaerobic chamber, Cell culture, Microscopy, SEM, HPLC, Rheology.
 
 ## ![ ](line.png) Highlighted Projects
