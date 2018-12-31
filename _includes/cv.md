@@ -2,6 +2,8 @@ I am a researcher in computational biology. More specifically, I work with DNA a
 
 <strong> I am currently looking for internship opportunities in bioinformatics / computational biology / data science.</strong>
 
+(This personal website is currently under construction)
+
 <!-- ## <i class="fa fa-chevron-right"></i> Education -->
 ## ![ ](line.png) Education
 
