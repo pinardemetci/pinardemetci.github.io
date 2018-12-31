@@ -1,6 +1,5 @@
 ---
 layout: singlePage
-permalink: /projects.md
 title: "Projects"
 ---
 

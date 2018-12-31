@@ -1,6 +1,5 @@
 ---
 layout: singlePage
-permalink: /contact.md
 title: "Contact"
 ---
 
