@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pinardemetci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pinardemetci.github.io
+  * I am pinardemetci (https://keybase.io/pinardemetci) on keybase.
+  * I have a public key ASA3ZBK6hWEcPhP8vbarSBFvNW7CosFGv_OErzH7cbolDwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120376412ba85611c3e13fcbdb6ab48116f356ec2a2c146bff384af31fb71ba250f0a",
+      "host": "keybase.io",
+      "kid": "0120376412ba85611c3e13fcbdb6ab48116f356ec2a2c146bff384af31fb71ba250f0a",
+      "uid": "b770a5418c5424741cf5213fdf61b319",
+      "username": "pinardemetci"
+    },
+    "merkle_root": {
+      "ctime": 1541632598,
+      "hash": "f79b696b3586f76a4343834967d92b24d328c211c41c6b69264cf6360fb869630bede45189d406eb786c9fabe9e061ecfb6cb114aab44cd61fadfead4be04c91",
+      "hash_meta": "31ebe1985545000f4e2398656cf7dc6cefb2454f8da32b5956ddc6b4991583e1",
+      "seqno": 3918029
+    },
+    "service": {
+      "entropy": "0tNlZ6bImNVplQ++O1RM3j33",
+      "hostname": "pinardemetci.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1541632629,
+  "expire_in": 504576000,
+  "prev": "24d6b3d473cc074f747183fee769a6ec61017e369d3aec2a8d04db8c8eb19aa1",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgN2QSuoVhHD4T/L22q0gRbzVuwqLBRr/zhK8x+3G6JQ8Kp3BheWxvYWTESpcCBsQgJNaz1HPMB090cYP+52mm7GEBfjadOuwqjQTbjI6xmqHEIChLQ1Wrb/Ojg0C5m9JnyAAjF1rxJkVA0ULgecNW9b24AgHCo3NpZ8RArlTqEaN1f3abrh7Y785BDsklukBWMUZDBbw6uOfWyJbP6DbnsUlDO1EdBAXXwwBflJPdxFkWPNIElhq5gkEzCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOUu+4HOTNrrru/52vyeCpmq56z/t3SrvOxZM7dPR4v0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pinardemetci
+
+==================================================================

@@ -1,0 +1,1 @@
+Pinar Demetci is an aspiring computational biologist. Particular research interests are in functional genomics, DNA algorithms, and advanced statistical methods and machine learning in computational biology. She obtained a B.S. in Engineering with a concentration in Bioengineering from Olin College of Engineering in May 2017. 
