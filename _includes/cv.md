@@ -1,4 +1,4 @@
-OK,I am a researcher in computational biology. More specifically, I work with DNA algorithms, population genomics, statistical methods and machine learning techniques for large-scale human genomic sequence analysis. My past research experience involves quantitative microbiology and microbial bioinformatics.
+I am a researcher in computational biology. More specifically, I work with DNA algorithms, population genomics, statistical methods and machine learning techniques for large-scale human genomic sequence analysis. My past research experience involves quantitative microbiology and microbial bioinformatics.
 
 <strong> I am currently looking for internship opportunities in bioinformatics / computational biology / data science.</strong>
 
