@@ -40,7 +40,7 @@
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Experience
+## <i class="fa fa-chevron-right"></i> Professional Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
@@ -53,11 +53,15 @@
   <td><strong>Massachusetts Institute of Technology</strong>, Research Associate</td>
 </tr>
 <tr>
+  <td class='col-md-3'>May 2017 - Sept 2018</td>
+  <td><strong>Daktari Diagnostics</strong>, Student Engineer</td>
+</tr>
+<tr>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Research Projects <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> Research Projects and Publications <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
@@ -91,12 +95,12 @@ We investigated the regulatory network rewiring in single gene knockout strains 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2017</td>
-  <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820), TA</td>
+  <td class='col-md-1'>S2019</td>
+  <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.), Teaching Assistant</td>
 </tr>
 <tr>
-  <td class='col-md-1'>S2016</td>
-  <td><strong>Modern Biology: Drug Design</strong> (BIOL ... ), TA</td>
+  <td class='col-md-1'>F2016</td>
+  <td><strong>Designing Better Drugs </strong> (SCI1240 @ Olin College), Teaching Assistant and Laboratory Assistant</td>
 </tr>
 </table>
 
@@ -104,16 +108,39 @@ We investigated the regulatory network rewiring in single gene knockout strains 
 ## <i class="fa fa-chevron-right"></i> Honors & Awards
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>2016 - 2019</td>
+  <td class='col-md-2'>2018 - 2020</td>
   <td>
-   Meritorius Winner: 
+    Brown Graduate Fellowship
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2011 - 2014</td>
+  <td class='col-md-2'>2016</td>
   <td>
-   Undergrad Scholarships
+    Meritorius Winner: 2016 MCM Interdisciplinary Contest in Mathematical Modeling
+   2013-2017 Sunlin Chou Scholarship
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2013 - 2017</td>
+  <td>
+    Sunlin Chou International Scholarship
+    <!--  -->
+  </td>
+    <td>
+    Olin Merit Scholarship
+    <!--  -->
+  </td>
+    <td>
+    Olin Alumni Scholarship
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2013</td>
+  <td>
+    Honorable Mention: First Step to Nobel Prize in Physics
     <!--  -->
   </td>
 </tr>
