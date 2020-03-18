@@ -65,9 +65,9 @@
 
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf' target='_blank'><img src="images/publications/amos2019differentiable3.png"/></a> </td>
+<td class="col-md-3"><a href='http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf' target='_blank'><img src="images/publications/ecoli.png"/></a> </td>
 <td>
-    <strong>Differentiable Convex Optimization Layers</strong><br>
+    <strong>Rapid accumulation of motility-activating mutations in resting liquid culture of Escherichia coli</strong><br>
     D. Parker*, <strong>P.Demetci*</strong>, and G.W. Li <br>
      *Equal Contribution<br>
     Journal of Bacteriology, 2019<br>
@@ -167,7 +167,7 @@ VCFtools, BEDtools
 
 ## <i class="fa fa-chevron-right"></i> Publications <a href="https://github.com/bamos/cv/blob/master/publications/all.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
-<a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" class="btn btn-primary" style="padding: 0.3em;">
+<a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
@@ -176,16 +176,16 @@ VCFtools, BEDtools
 
 <tr>
 <td>
-    <strong>Differentiable Convex Optimization Layers</strong><br>
-    A. Agrawal*, <strong>B. Amos*</strong>, S. Barratt*, S. Boyd*, S. Diamond*, and J. Z. Kolter*<br>
-    NeurIPS 2019<br>
-    
-    [1] 
+    <strong>Rapid accumulation of motility-activating mutations in resting liquid culture of Escherichia coli</strong><br>
+    D. Parker*, <strong>P.Demetci*</strong>, and G.W. Li <br>
+     *Equal Contribution<br>
+    Journal of Bacteriology, 2019<br>
 [<a href='javascript:;'
     onclick='$("#abs_amos2019differentiable3_all_bib").toggle()'>abs</a>] [<a href='http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/cvxgrp/cvxpylayers' target='_blank'>code</a>] <br>
     
 <div id="abs_amos2019differentiable3_all_bib" style="text-align: justify; display: none" markdown="1">
-Recent work has shown how to embed differentiable optimization problems (that is, problems whose solutions can be backpropagated through) as layers within deep learning architectures. This method provides a useful inductive bias for certain problems, but existing software for differentiable optimization layers is rigid and difficult to apply to new settings. In this paper, we propose an approach to differentiating through disciplined convex programs, a subclass of convex optimization problems used by domain-specific languages (DSLs) for convex optimization. We introduce disciplined parametrized programming, a subset of disciplined convex programming, and we show that every disciplined parametrized program can be represented as the composition of an affine map from parameters to problem data, a solver, and an affine map from the solver’s solution to a solution of the original problem (a new form we refer to as affine-solver-affine form). We then demonstrate how to efficiently differentiate through each of these components, allowing for end-to-end analytical differentiation through the entire convex program. We implement our methodology in version 1.1 of CVXPY, a popular Python-embedded DSL for convex optimization, and additionally implement differentiable layers for disciplined convex programs in PyTorch and TensorFlow 2.0. Our implementation significantly lowers the barrier to using convex optimization problems in differentiable programs. We present applications in linear machine learning models and in stochastic control, and we show that our layer is competitive (in execution time) compared to specialized differentiable solvers from past work.
+We investigated the regulatory network rewiring in single gene knockout strains in E.coli and found that a few different types of mutations (IS element insertions and point mutations in lrhA and fklB) were common in Keio collection. These secondary mutations were accumulated when overnight cultures were not shaken.
+
 </div>
 
 </td>
