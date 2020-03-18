@@ -26,7 +26,7 @@ h3 {
 .vcenter {
     display: inline-block;
     vertical-align: middle;
-    float: left;
+    float: none;
 }
 
 .image-wrapper {
@@ -40,20 +40,19 @@ h3 {
 }
 
 img {
-    margin: 1px;
-    padding: 1px;
+    margin: 3px;
+    padding: 3px;
+    border: 2px solid #eeeeee;
     max-width: 100%;
 }
 
 .idxHdr {
     text-align: center;
     line-height: 1;
-    color: #4EA24E;
 }
 
 .navbar-brand div {
     height: 100%;
-    color: #4EA24E;
 }
 
 .navbar-brand img {
@@ -61,7 +60,6 @@ img {
     padding: 0px;
     height: 100%;
     border: none;
-    color: #4EA24E;
 }
 
 @media (max-width: 767px) {

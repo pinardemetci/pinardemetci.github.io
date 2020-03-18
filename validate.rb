@@ -2,7 +2,9 @@
 #
 # Original accessed in July 2015 by Simon Sigurdhsson.
 # https://github.com/urdh/blog/blob/gh-pages/validate.rb
-# Modified later.
+#
+# Modifications in March 2020 by Pinar Demetci <http://pinardemetci.github.io>.
+# https://github.com/pinardemetci/pinardemetci.github.io/blob/master/validate.rb
 
 require 'rubygems'
 require 'nokogiri'

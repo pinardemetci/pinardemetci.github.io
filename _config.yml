@@ -1,7 +1,7 @@
 name: Pinar Demetci
 url: http://pinardemetci.github.io
 destination: ./_site
-twitter: pinardemetci
+twitter: spinar_d
 lsi: false
 port: 4000
 markdown: kramdown
