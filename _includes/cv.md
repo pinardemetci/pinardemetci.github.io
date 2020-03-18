@@ -198,24 +198,4 @@ VCFtools, BEDtools
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
-<h2>2019</h2>
-<table class="table table-hover">
-
-<tr>
-<td>
-    <strong>Rapid accumulation of motility-activating mutations in resting liquid culture of Escherichia coli</strong><br>
-    D. Parker*, <strong>P.Demetci*</strong>, and G.W. Li <br>
-     *Equal Contribution<br>
-    Journal of Bacteriology, 2019<br>
-[<a href='javascript:;'
-    onclick='$("#abs_amos2019differentiable3_all_bib").toggle()'>abs</a>] [<a href='http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/cvxgrp/cvxpylayers' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2019differentiable3_all_bib" style="text-align: justify; display: none" markdown="1">
-We investigated the regulatory network rewiring in single gene knockout strains in E.coli and found that a few different types of mutations (IS element insertions and point mutations in lrhA and fklB) were common in Keio collection. These secondary mutations were accumulated when overnight cultures were not shaken.
-
-</div>
-
-</td>
-</tr>
-
 </table>
