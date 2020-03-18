@@ -10,31 +10,31 @@
         <strong>Ph.D. in Computer Science and Computational Biology</strong>
           (0.00/0.00)
         <br>
-      Brown University
+      Brown University (Providence, RI)
     </td>
   </tr>
   <tr>
     <td class="col-md-3">September 2018 - May 2020</td>
     <td>
         <strong>M.S. in Computer Science</strong>
-          (0.00/0.00)
+          (4.00/4.00)
         <br>
-      Brown University
+      Brown University (Providence, RI)
     </td>
   </tr>
   <tr>
     <td class="col-md-3">September 2013 - May 2017</td>
     <td>
         <strong>B.S. in Bioengineering</strong>
-          (3.99/4.00)
+          (3.67/4.00)
         <br>
-      Olin College of Engineering
+      Olin College of Engineering (Needham, MA)
     </td>
   </tr>
   <tr>
     <td class="col-md-3">September 2008 - June 2013</td>
     <td>
-      TEVITOL High School for Gifted + IB Diploma (Roanoke, Virginia)
+      TEVITOL High School for Gifted + IB Diploma (Gebze, Turkey)
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <i class="fa fa-chevron-right"></i> Research Projects <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
@@ -83,354 +83,6 @@ Recent work has shown how to embed differentiable optimization problems (that is
 </tr>
 
 
-<tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2019differentiable2.png"/></a> </td>
-<td>
-    <strong>The Differentiable Cross-Entropy Method</strong><br>
-    <strong>B. Amos</strong> and D. Yarats<br>
-    arXiv 2019<br>
-    
-    [2] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2019differentiable2").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_amos2019differentiable2" style="text-align: justify; display: none" markdown="1">
-We study the Cross-Entropy Method (CEM) for the non-convex
-optimization of a continuous and parameterized
-objective function and introduce a differentiable
-variant (DCEM) that enables us to differentiate the
-output of CEM with respect to the objective
-function's parameters. In the machine learning
-setting this brings CEM inside of the end-to-end
-learning pipeline where this has otherwise been
-impossible. We show applications in a synthetic
-energy-based structured prediction task and in
-non-convex continuous control. In the control
-setting we show on the simulated cheetah and walker
-tasks that we can embed their optimal action
-sequences with DCEM and then use policy optimization
-to fine-tune components of the controller as a step
-towards combining model-based and model-free RL.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/1906.08707' target='_blank'><img src="images/publications/amos2019limited.png"/></a> </td>
-<td>
-    <strong>The Limited Multi-Label Projection Layer</strong><br>
-    <strong>B. Amos</strong>, V. Koltun, and J. Z. Kolter<br>
-    arXiv 2019<br>
-    
-    [3] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2019limited").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1906.08707' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/lml' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2019limited" style="text-align: justify; display: none" markdown="1">
-We propose the Limited Multi-Label (LML) projection layer as a new
-primitive operation for end-to-end learning systems. The LML layer
-provides a probabilistic way of modeling multi-label predictions
-limited to having exactly k labels. We derive efficient forward and
-backward passes for this layer and show how the layer can be used to
-optimize the top-k recall for multi-label tasks with incomplete label
-information. We evaluate LML layers on top-k CIFAR-100 classification
-and scene graph generation. We show that LML layers add a negligible
-amount of computational overhead, strictly improve the model's
-representational capacity, and improve accuracy. We also revisit the
-truncated top-k entropy method as a competitive baseline for top-k
-classification.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='https://github.com/bamos/thesis/raw/master/bamos_thesis.pdf' target='_blank'><img src="images/publications/amos2019differentiable.png"/></a> </td>
-<td>
-    <strong>Differentiable Optimization-Based Modeling for Machine Learning</strong><br>
-    <strong>B. Amos</strong><br>
-    Ph.D. Thesis 2019<br>
-    
-    [4] [<a href='https://github.com/bamos/thesis/raw/master/bamos_thesis.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/bamos/thesis' target='_blank'>code</a>] <br>
-    
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/1810.13400' target='_blank'><img src="images/publications/amos2018end.png"/></a> </td>
-<td>
-    <strong>Differentiable MPC for End-to-end Planning and Control</strong><br>
-    <strong>B. Amos</strong>, I. Rodriguez, J. Sacks, B. Boots, and J. Z. Kolter<br>
-    NeurIPS 2018<br>
-    
-    [5] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2018end").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1810.13400' target='_blank'>pdf</a>]  [<a href='https://locuslab.github.io/mpc.pytorch/' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2018end" style="text-align: justify; display: none" markdown="1">
-We present foundations for using Model Predictive Control (MPC) as a differentiable policy class for reinforcement learning in continuous state and action spaces. This provides one way of leveraging and combining the advantages of model-free and model-based approaches. Specifically, we differentiate through MPC by using the KKT conditions of the convex approximation at a fixed point of the controller. Using this strategy, we are able to learn the cost and dynamics of a controller via end-to-end learning. Our experiments focus on imitation learning in the pendulum and cartpole domains, where we learn the cost and dynamics terms of an MPC policy class. We show that our MPC policies are significantly more data-efficient than a generic neural network and that our method is superior to traditional system identification in a setting where the expert is unrealizable.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1805.08195' target='_blank'><img src="images/publications/brown2018depth.png"/></a> </td>
-<td>
-    <strong>Depth-Limited Solving for Imperfect-Information Games</strong><br>
-    N. Brown, T. Sandholm, and <strong>B. Amos</strong><br>
-    NeurIPS 2018<br>
-    
-    [6] 
-[<a href='javascript:;'
-    onclick='$("#abs_brown2018depth").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1805.08195' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_brown2018depth" style="text-align: justify; display: none" markdown="1">
-A fundamental challenge in imperfect-information games is that states do not have well-defined values. As a result, depth-limited search algorithms used in single-agent settings and perfect-information games do not apply. This paper introduces a principled way to conduct depth-limited solving in imperfect-information games by allowing the opponent to choose among a number of strategies for the remainder of the game at the depth limit. Each one of these strategies results in a different set of values for leaf nodes. This forces an agent to be robust to the different strategies an opponent may employ. We demonstrate the effectiveness of this approach by building a master-level heads-up no-limit Texas hold'em poker AI that defeats two prior top agents using only a 4-core CPU and 16 GB of memory. Developing such a powerful agent would have previously required a supercomputer.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='https://openreview.net/forum?id=r1HhRfWRZ' target='_blank'><img src="images/publications/amos2018learning.png"/></a> </td>
-<td>
-    <strong>Learning Awareness Models</strong><br>
-    <strong>B. Amos</strong>, L. Dinh, S. Cabi, T. Roth&ouml;rl, S. Colmenarejo, A. Muldal, T. Erez, Y. Tassa, N. de Freitas, and M. Denil<br>
-    ICLR 2018<br>
-    
-    [7] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2018learning").toggle()'>abs</a>] [<a href='https://openreview.net/forum?id=r1HhRfWRZ' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_amos2018learning" style="text-align: justify; display: none" markdown="1">
-We consider the setting of an agent with a fixed body interacting with an
-unknown and uncertain external world. We show that models
-trained to predict proprioceptive information about the
-agent's body come to represent objects in the external world.
-In spite of being trained with only internally available
-signals, these dynamic body models come to represent external
-objects through the necessity of predicting their effects on
-the agent's own body. That is, the model learns holistic
-persistent representations of objects in the world, even
-though the only training signals are body signals. Our
-dynamics model is able to successfully predict distributions
-over 132 sensor readings over 100 steps into the future and we
-demonstrate that even when the body is no longer in contact
-with an object, the latent variables of the dynamics model
-continue to represent its shape. We show that active data
-collection by maximizing the entropy of predictions about the
-body-touch sensors, proprioception and vestibular
-information-leads to learning of dynamic models that show
-superior performance when used for control. We also collect
-data from a real robotic hand and show that the same models
-can be used to answer questions about properties of objects in
-the real world. Videos with qualitative results of our models
-are available <a href="https://goo.gl/mZuqAV">here</a>.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1703.04529' target='_blank'><img src="images/publications/donti2017task.png"/></a> </td>
-<td>
-    <strong>Task-based End-to-end Model Learning</strong><br>
-    P. Donti, <strong>B. Amos</strong>, and J. Z. Kolter<br>
-    NeurIPS 2017<br>
-    
-    [8] 
-[<a href='javascript:;'
-    onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
-    
-<div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
-As machine learning techniques have become more ubiquitous, it has
-become common to see machine learning prediction algorithms operating
-within some larger process. However, the criteria by which we train
-machine learning algorithms often differ from the ultimate criteria on
-which we evaluate them. This paper proposes an end-to-end approach for
-learning probabilistic machine learning models within the context of
-stochastic programming, in a manner that directly captures the
-ultimate task-based objective for which they will be used. We then
-present two experimental evaluations of the proposed approach, one as
-applied to a generic inventory stock problem and the second to a
-real-world electrical grid scheduling task. In both cases, we show
-that the proposed approach can outperform both a traditional modeling
-approach and a purely black-box policy optimization approach.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1703.00443' target='_blank'><img src="images/publications/amos2017optnet.png"/></a> </td>
-<td>
-    <strong>OptNet: Differentiable Optimization as a Layer in Neural Networks</strong><br>
-    <strong>B. Amos</strong> and J. Z. Kolter<br>
-    ICML 2017<br>
-    
-    [9] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.00443' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/optnet' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2017optnet" style="text-align: justify; display: none" markdown="1">
-This paper presents OptNet, a network architecture that integrates
-optimization problems (here, specifically in the form of quadratic programs)
-as individual layers in larger end-to-end trainable deep networks.
-These layers encode constraints and complex dependencies
-between the hidden states that traditional convolutional and
-fully-connected layers often cannot capture.
-In this paper, we explore the foundations for such an architecture:
-we show how techniques from sensitivity analysis, bilevel
-optimization, and implicit differentiation can be used to
-exactly differentiate through these layers and with respect
-to layer parameters;
-we develop a highly efficient solver for these layers that exploits fast
-GPU-based batch solves within a primal-dual interior point method, and which
-provides backpropagation gradients with virtually no additional cost on top of
-the solve;
-and we highlight the application of these approaches in several problems.
-In one notable example, we show that the method is
-capable of learning to play mini-Sudoku (4x4) given just input and output games, with no a priori information about the rules of the game;
-this highlights the ability of our architecture to learn hard
-constraints better than other neural architectures.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1609.07152' target='_blank'><img src="images/publications/amos2017input.png"/></a> </td>
-<td>
-    <strong>Input Convex Neural Networks</strong><br>
-    <strong>B. Amos</strong>, L. Xu, and J. Z. Kolter<br>
-    ICML 2017<br>
-    
-    [10] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2017input").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1609.07152' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/icnn' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2017input" style="text-align: justify; display: none" markdown="1">
-This paper presents the input convex neural network
-architecture. These are scalar-valued (potentially deep) neural
-networks with constraints on the network parameters such that the
-output of the network is a convex function of (some of) the inputs.
-The networks allow for efficient inference via optimization over some
-inputs to the network given others, and can be applied to settings
-including structured prediction, data imputation, reinforcement
-learning, and others. In this paper we lay the basic groundwork for
-these models, proposing methods for inference, optimization and
-learning, and analyze their representational power. We show that many
-existing neural network architectures can be made input-convex with
-a minor modification, and develop specialized optimization
-algorithms tailored to this setting. Finally, we highlight the
-performance of the methods on multi-label prediction, image
-completion, and reinforcement learning problems, where we show
-improvement over the existing state of the art in many cases.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'><img src="images/publications/zhao2016collapsed.png"/></a> </td>
-<td>
-    <strong>Collapsed Variational Inference for Sum-Product Networks</strong><br>
-    H. Zhao, T. Adel, G. Gordon, and <strong>B. Amos</strong><br>
-    ICML 2016<br>
-    
-    [11] 
-[<a href='javascript:;'
-    onclick='$("#abs_zhao2016collapsed").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_zhao2016collapsed" style="text-align: justify; display: none" markdown="1">
-Sum-Product Networks (SPNs) are probabilistic inference machines that admit
-exact inference in linear time in the size of the network. Existing
-parameter learning approaches for SPNs are largely based on the maximum
-likelihood principle and hence are subject to overfitting compared to
-more Bayesian approaches. Exact Bayesian posterior inference for SPNs is
-computationally intractable. Both standard variational inference and
-posterior sampling for SPNs are computationally infeasible even for
-networks of moderate size due to the large number of local latent
-variables per instance. In this work, we propose a novel deterministic
-collapsed variational inference algorithm for SPNs that is
-computationally efficient, easy to implement and at the same time allows
-us to incorporate prior information into the optimization formulation.
-Extensive experiments show a significant improvement in accuracy compared
-with a maximum likelihood based approach.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'><img src="images/publications/amos2016openface.png"/></a> </td>
-<td>
-    <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
-    <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
-    CMU 2016<br>
-    
-    [12] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2016openface").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-    
-<div id="abs_amos2016openface" style="text-align: justify; display: none" markdown="1">
-Cameras are becoming ubiquitous in the Internet of Things (IoT) and
-can use face recognition technology to improve context. There is a
-large accuracy gap between today's publicly available face recognition
-systems and the state-of-the-art private face recognition
-systems. This paper presents our OpenFace face recognition library
-that bridges this accuracy gap. We show that OpenFace provides
-near-human accuracy on the LFW benchmark and present a new
-classification benchmark for mobile scenarios. This paper is intended
-for non-experts interested in using OpenFace and provides a light
-introduction to the deep neural network techniques we use.
-
-We released OpenFace in October 2015 as an open source library under
-the Apache 2.0 license. It is available at:
-<http://cmusatyalab.github.io/openface/>
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'><img src="images/publications/amos2014QNSTOP.png"/></a> </td>
-<td>
-    <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
-    <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
-    VT 2014<br>
-    
-    [13] 
-[<a href='javascript:;'
-    onclick='$("#abs_amos2014QNSTOP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
-    
-<div id="abs_amos2014QNSTOP" style="text-align: justify; display: none" markdown="1">
-QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
-quasi-Newton stochastic optimization method of Castle and Trosset. For
-stochastic problems, convergence theory exists for the particular
-algorithmic choices and parameter values used in QNSTOP. Both the parallel
-driver subroutine, which offers several parallel decomposition strategies, and the serial driver subroutine can be used for stochastic optimization or
-deterministic global optimization, based on an input switch. QNSTOP is
-particularly effective for “noisy” deterministic problems, using only
-objective function values. Some performance data for computational systems
-biology problems is given.
-</div>
-
-</td>
-</tr>
 
 </table>
 
