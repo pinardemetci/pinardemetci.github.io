@@ -1,40 +1,40 @@
- I am a research scientist at <b>Facebook AI (FAIR)</b> in NYC and broadly study foundational topics and applications in <b>machine learning</b> (sometimes deep) and <b>optimization</b> (sometimes convex), including reinforcement learning, computer vision, language, statistics, and theory. I have a Ph.D. from <b>Carnegie Mellon University</b> and was advised by [Zico Kolter](http://zicokolter.com/) and supported by an <b>NSF graduate research fellowship.</b> My thesis is on [Differentiable Optimization-Based Modeling for Machine Learning](https://github.com/bamos/thesis). My publications are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=d8gdZR4AAAAJ) and my open source contributions can be found on [my Github profile](https://github.com/bamos). I have also worked on <b>reinforcement learning</b> during an internship with [Nando de Freitas](https://www.cs.ubc.ca/~nando/) and [Misha Denil](http://mdenil.com/) at <b>DeepMind</b> in 2017 and on vision with [Vladlen Koltun](http://vladlen.info) at <b>Intel Labs</b> in 2018. <br><br>
+ I am a computational biologist. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2019</td>
+    <td class="col-md-3">September 2018 - May 2023</td>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
+        <strong>Ph.D. in Computer Science and Computational Biology</strong>
           (0.00/0.00)
         <br>
-      Carnegie Mellon University
+      Brown University
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2016</td>
+    <td class="col-md-3">September 2018 - May 2020</td>
     <td>
         <strong>M.S. in Computer Science</strong>
           (0.00/0.00)
         <br>
-      Carnegie Mellon University
+      Brown University
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2011 - May 2014</td>
+    <td class="col-md-3">September 2013 - May 2017</td>
     <td>
-        <strong>B.S. in Computer Science</strong>
+        <strong>B.S. in Bioengineering</strong>
           (3.99/4.00)
         <br>
-      Virginia Tech
+      Olin College of Engineering
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2007 - May 2011</td>
+    <td class="col-md-3">September 2008 - June 2013</td>
     <td>
-      Northside High School (Roanoke, Virginia)
+      TEVITOL High School for Gifted + IB Diploma (Roanoke, Virginia)
     </td>
   </tr>
 </table>
@@ -43,50 +43,14 @@
 ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>May 2019 - Present</td>
-  <td><strong>Facebook AI</strong>, Research Scientist</td>
+  <td class='col-md-3'>June 2020 - Sep 2020</td>
+  <td><strong>Microsoft Research: Genomics</strong>, Research Intern</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>June 2018 - Sept 2018</td>
-  <td><strong>Intel Labs</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
-  <td><strong>Google DeepMind</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2014 - Aug 2014</td>
-  <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
+  <td class='col-md-3'>May 2017 - Sept 2018</td>
+  <td><strong>Massachusetts Institute of Technology</strong>, Research Associate</td>
 </tr>
 <tr>
 </tr>
