@@ -103,11 +103,8 @@ We show that variant and haplotype features selected by HAPLEXR are smaller in s
 <div id="abs_parkerdemetci" style="text-align: justify; display: none" markdown="1">
 Expression of motility genes is a potentially beneficial but costly process in bacteria. Interestingly, many isolate strains of _Escherichia coli_ possess motility genes but have lost the ability to activate them in conditions in which motility is advantageous, raising the question of how they respond to these situations. Through transcriptome profiling of strains in the _E. coli_ single-gene knockout Keio collection, we noticed drastic upregulation of motility genes in many of the deletion strains as compared to its weakly motile parent strain (BW25113). We show that this switch to a motile phenotype is not a direct consequence of the genes deletec, but is instead due to a variety of secondary mutations that increase the expression of the major motility regulator, FlhDC. Importantly, we find that this switch can be reproduced by growing poorly motile _E. coli_ strains in non-shaking liquid medium overnight but not in shaking liquid medium. Individual isolates after the non-shaking overnight incubations acquired distinct mutations upstream of the _flhDC_ operon, including different insertion sequence (IS) elements and, to a lesser extent, point mutations. The rapid sweep in the non-shaking population shows that poorly motile strains can quickly adapt to a motile lifestyle by genetic rewiring. 
 </div>
-
 </td>
 </tr>
-
-
 
 </table>
 
@@ -172,67 +169,73 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-
 ## <i class="fa fa-chevron-right"></i> Membership, Community, Professional Service
 <table class="table table-hover">
-<tr>
-  <td class='col-md-2'>Member</td>
-  <td markdown="1">
-    International Society for Computational Biology (ISCB)
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Member</td>
-  <td markdown="1">
-    Models, Inference, and Algorithms (MIA) at Broad Institute
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Member</td>
-  <td markdown="1">
-    Graduate Women in Science and Engineering @ Brown University
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Volunteer</td>
-  <td markdown="1">
-    U.S. Digital Response (COVID-19 Data Science Volunteer)
-  </td>
-</tr>
+  <tr>
+    <td class='col-md-2'>Member</td>
+    <td>
+      International Society for Computational Biology (ISCB)
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>Member</td>
+    <td>
+      Models, Inference, and Algorithms (MIA) at Broad Institute
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>Member</td>
+    <td>
+      Graduate Women in Science and Engineering @ Brown University
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>Member</td>
+    <td>
+      U.S. Digital Response (COVID-19 Data Science Volunteer)
+      <!--  -->
+    </td>
+  </tr>
 </table>
-
 
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
-<tr>
-  <td class='col-md-2'>Programming Languages</td>
-  <td markdown="1">
-    Python, R, Java, C++ </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Frameworks</td>
-  <td markdown="1">
-    NumPy, Pandas, PyTorch, SciPy, TensorFlow, HDF5, Bioconductor
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Systems</td>
-  <td markdown="1">
-    Linux, OSX
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Bioinformatics Tools</td>
-  <td markdown="1">
-    VCFtools, BEDtools, PLINK, Cytoscape, QIIME, VAMPS, JGI
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>Natural Languages</td>
-  <td markdown="1">
-    English (proficient - TOEFL: 115/120), Turkish (native language), French (A2) 
-  </td>
-</tr>
-</table>
-
+  <tr>
+    <td class='col-md-2'>Programming Languages</td>
+    <td>
+      Python, R, Java, C++ 
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Frameworks</td>
+    <td>
+      NumPy, Pandas, PyTorch, SciPy, TensorFlow, HDF5, Bioconductor
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Systems</td>
+    <td>
+      Linux, OSX
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Bioinformatics Tools</td>
+    <td>
+      VCFtools, BEDtools, PLINK, Cytoscape, QIIME, VAMPS, JGI
+      <!--  -->
+    </td>
+  </tr>
+      <tr>
+    <td class='col-md-2'>Natural Languages</td>
+    <td>
+      English (proficient - TOEFL: 115/120), Turkish (native language), French (A2)
+      <!--  -->
+    </td>
+  </tr>
 </table>
