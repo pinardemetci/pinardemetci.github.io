@@ -1,4 +1,5 @@
- I am a computational biologist, working towards my Ph.D. with Lorin Crawford, Ph.D. and I also collaborate with Ritambhara Singh, Ph.D. My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
+ I am a computational biologist, working towards my doctoral degree with Lorin Crawford, Ph.D. and I also collaborate with Ritambhara Singh, Ph.D.  
+My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -34,7 +35,7 @@
   <tr>
     <td class="col-md-3">September 2008 - June 2013</td>
     <td>
-      TEVITOL High School for Gifted + IB Diploma (Gebze, Turkey)
+      TEVITOL High School + IB Diploma (Gebze, Turkey)
     </td>
   </tr>
 </table>
@@ -44,16 +45,16 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
-  <td><strong>Microsoft Research: Genomics</strong>, Research Intern (Redmond, WA)</td>
+  <td><strong>Microsoft Research: Genomics</strong>, Incoming Research Intern (Redmond, WA)</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Sept 2018</td>
+  <td class='col-md-3'>May 2017 - Sep 2018</td>
   <td><strong>Massachusetts Institute of Technology</strong>, Research Associate (Cambridge, MA)</td>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Sept 2018</td>
+  <td class='col-md-3'>Jan 2016 - Oct 2016</td>
   <td><strong>Daktari Diagnostics</strong>, Student Engineer (Cambridge, MA)</td>
 </tr>
 <tr>
