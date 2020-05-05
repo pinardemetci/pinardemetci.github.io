@@ -193,13 +193,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
       <!--  -->
     </td>
   </tr>
-  <tr>
-    <td class='col-md-2'>Member</td>
-    <td>
-      U.S. Digital Response (COVID-19 Data Science Volunteer)
-      <!--  -->
-    </td>
-  </tr>
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Skills
