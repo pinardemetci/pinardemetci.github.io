@@ -135,24 +135,28 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB 2020 Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence</td>
-  <td>Berk Alpay, Pinar Demetci, Sorin Istrail, Derek Aguiar</td>
+  <td><strong>ISMB 2020 Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  
+  Berk Alpay*, Pinar Demetci*, Sorin Istrail, Derek Aguiar, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB 2020 (Oral Presentation)</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>
+  <td><strong>ISMB 2020 (Oral Presentation)</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  
+  Pinar Demetci*, Rebecca Santorella*, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
-  <td><strong>CCV-Con 2019 (Invited Talk) </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery </td>
+  <td><strong>CCV-Con 2019 (Invited Talk) </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery   
+  Pinar Demetci, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
-  <td><strong>NEMPET 2016 (Poster Presentation) </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen </td>
+  <td><strong>NEMPET 2016 (Poster Presentation) </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  
+  Pinar Demetci, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
 </tr>
 <tr>
   <td class='col-md-1'>2015</td>
-  <td><strong>Closing the Gap 2015 (Oral Presentation) </strong> Project EyeHelper: Assistive Navigation for Blind Shopping </td>
+  <td><strong>Closing the Gap 2015 (Oral Presentation) </strong> Project EyeHelper: Assistive Navigation for Blind Shopping  
+  Pinar Demetci, Anders Johnnson, Matthew Ruehle, Paul Ruvolo</td>
 </tr>
 </table>
 
