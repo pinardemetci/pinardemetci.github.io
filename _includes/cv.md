@@ -70,6 +70,28 @@ My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
 
 <table class="table table-hover">
 <tr>
+<td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'><img src="images/publications/HAPLEX.png"/></a> </td>
+<td>
+    <strong>Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</strong><br>
+    <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
+     *Equal Contribution, #Corresponding Author<br>
+    bioRxiv, 2020<br>
+    
+    [1] 
+[<a href='javascript:;'
+    onclick='$("#abs_alpaydemetci").toggle()'>abs</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>pdf</a>] <br>
+    
+<div id="abs_alpaydemetci" style="text-align: justify; display: none" markdown="1">
+Data integration of single-cell measurements is critical for our understanding of cell development and disease, but the lack of correspondence between different types of single-cell measurements makes such efforts challenging. Several unsupervised algorithms are capable of aligning heterogeneous types of single-cell measurements in a shared space, enabling the creation of mappings between single cells in different data modalities.
+We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised learning algorithm that uses Gromov Wasserstein-based optimal transport to align single-cell multi-omics datasets. SCOT calculates a probabilistic coupling matrix that matches cells across two datasets. The optimization uses k-nearest neighbor graphs, thus preserving the local geometry of the data. We use the resulting coupling matrix to project one single-cell dataset onto another via a barycentric projection.  We compare the alignment performance of SCOT with state-of-the-art algorithms on three simulated and two real datasets. Our results demonstrate that SCOT yields results that are comparable in quality to those of competing methods, but SCOT is significantly faster and requires tuning fewer hyperparameters. The code is available at <a href='https://github.com/rsinghlab/SCOT' target='_blank'>https://github.com/rsinghlab/SCOT</a>
+</div>
+
+</td>
+</tr>
+
+
+
+<tr>
 <td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/HAPLEX.png"/></a> </td>
 <td>
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
