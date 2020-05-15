@@ -92,7 +92,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 
 
 <tr>
-<td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/HAPLEX.png"/></a> </td>
+<td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/SCOT.png"/></a> </td>
 <td>
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
