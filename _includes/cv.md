@@ -134,12 +134,24 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Invited Talks, Conference Proceedings, Poster Presentations
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2019</td>
-  <td><strong>TBD</strong> TBD</td>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ISMB 2020 Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence</td>
 </tr>
 <tr>
-  <td class='col-md-1'>F2016</td>
-  <td><strong>TBD</strong> TBD</td>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ISMB 2020 Oral Presentation</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2019</td>
+  <td><strong>CCV-Con 2019 Oral Presentation </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery </td>
+</tr>
+<tr>
+  <td class='col-md-1'>2016</td>
+  <td><strong>NEMPET 2016 Poster Presentation </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen </td>
+</tr>
+<tr>
+  <td class='col-md-1'>2015</td>
+  <td><strong>Closing the Gap 2015 Oral Presentation </strong> Project EyeHelper: Assistive Navigation for Blind Shopping </td>
 </tr>
 </table>
 
@@ -147,11 +159,11 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2019</td>
+  <td class='col-md-1'>Spring 2019</td>
   <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.), Teaching Assistant</td>
 </tr>
 <tr>
-  <td class='col-md-1'>F2016</td>
+  <td class='col-md-1'>Fall 2016</td>
   <td><strong>Designing Better Drugs </strong> (SCI1240 @ Olin College), Teaching Assistant and Laboratory Assistant</td>
 </tr>
 </table>
