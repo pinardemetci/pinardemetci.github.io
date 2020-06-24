@@ -103,7 +103,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
     <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
     R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
-    ACM-BCB, 2020<br>
+    bioRxiv, 2020<br>
     
     [4] 
 [<a href='javascript:;'
@@ -123,6 +123,7 @@ Integrating single-cell measurements that capture different properties of the ge
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
      *Equal Contribution, #Corresponding Author<br>
+     Bioinformatics (Oxford Press), 2020 <br>
     ISMB Proceedings, 2020<br>
     
     [3] 
