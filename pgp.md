@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  PGP
 ---
@@ -18,3 +18,4 @@ For more information on PGP, I recommend the following pages.
  + [Phil Dibowitz's Docs](http://www.phildev.net/pgp/)
  + [Phil Zimmermann's Essay](http://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
  + [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+ -->
