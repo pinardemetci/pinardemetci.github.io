@@ -101,7 +101,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.06.13.149195v1' target='_blank'><img src="images/publications/alignment.png"/></a> </td>
 <td>
     <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
-    R. Singh#<strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
+    R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
     ACM-BCB, 2020<br>
     
@@ -175,7 +175,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
-*Presenters* emphasized,  Equal contribution:*
+*Presenters* emphasized/italicized,  Equal contribution denoted with: *
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
