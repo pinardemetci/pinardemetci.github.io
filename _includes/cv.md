@@ -1,8 +1,10 @@
-I am a computational biologist, working towards my doctoral degree with [Lorin Crawford, Ph.D.](lcrawlab.com) and I also closely collaborate with [Ritambhara Singh, Ph.D. ](rsinghlab.org). My masters degree advisor was [Sorin Istrail, Ph.D.](vivo.brown.edu/display/sistrail). Types of research problems I currently work on include (1) manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and (2) Bayesian machine learning models for multi-scale genomic association discovery. <br>  
+I am a computational biologist, working towards my doctoral degree with [Lorin Crawford, Ph.D.](http://lcrawlab.com) and I also closely collaborate with [Ritambhara Singh, Ph.D. ](http://rsinghlab.org). My masters degree advisor was [Sorin Istrail, Ph.D.](http://vivo.brown.edu/display/sistrail). Types of research problems I currently work on include (1) manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and (2) Bayesian machine learning models for multi-scale genomic association discovery. <br>  
 
-Before joining Brown University for my Ph.D., I received my bachelor’s degree in bioengineering from [Olin College of Engineering](http://www.olin.edu/). There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on mathematical models and bioinformatic analyses of environmental microbial communities. Then, I spent a year in [Li Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at <a href="https://www.mit.edu/"> Massachusetts Institute of Technology (MIT) <\a>, working as a research support associate and lab manager under the supervision of <a href="https://biology.mit.edu/profile/gene-wei-li/"> Gene-Wei Li, Ph.D. <\a> My work there mostly involved investigating regulatory network rewiring in E.coli gene knock-out strains, as well as assissting graduate students with various quantitative biology research projects. <br>
+Before joining Brown University Center for Computational Molecular Biology for my Ph.D., I received my bachelor’s degree in bioengineering from [Olin College of Engineering](http://www.olin.edu/). There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on mathematical models and bioinformatic analyses of environmental microbial communities. Then, I spent a year in [Li Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), working as a research support associate and lab manager under the supervision of [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) My work there mostly involved investigating regulatory network rewiring in different gene knock-out strains of bacteria, as well as assissting graduate students with various quantitative biology research projects. <br>
 
-Currently, I am working in <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent"> the Genomics team <\a> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/"> Microsoft Research (Redmond, WA) <\a>  as a research intern and I am really enjoying it! <br>
+Currently, I am working in the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at [Microsoft Research (Redmond, WA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a research intern and I am really enjoying it! <br>
+
+Apart from computational biology, I have had the pleasure of working on different engineering, bioengineering, biology, and education research projects, which can be found here. Outside of work, I enjoy holding boardgame nights with friends, identifying bird species, playing ukulele and violin, and swimming (hopefully post COVID-19!).
 My e-mail is pinardemetci at gmail dot com if you'd like to talk. <br>
 
 
@@ -106,7 +108,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abs</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>pdf</a>] <br>
     
-<div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
+<div id="abs_singhdemetci" style="text-align: justify; display: none" markdown="1">
 Integrating single-cell measurements that capture different properties of the genome is vital to extending our understanding of genome biology.This task is challenging due to the lack of a shared axis across datasets obtained from different types of single-cell experiments. For most such datasets, we lack corresponding information among the cells (samples) and the measurements (features). In this scenario, unsupervised algorithms that are capable of aligning single-cell experiments are critical to learning an in silico co-assay that can help draw correspondences among the cells.Maximum mean discrepancy-based manifold alignment (MMD-MA) is such an unsupervised algorithm. Without requiring correspondence information, it can align single-cell datasets from different modalities in a common shared latent space, showing promising results on simulations and a small-scale single-cell experiment with 61 cells.However, it is essential to explore the applicability of this method to larger single-cell experiments with thousands of cells so that it can be of practical interest to the community.In this paper, we apply MMD-MA to two recent datasets that measure transcriptome and chromatin accessibility in ~2000 single cells. To scale the runtime of MMD-MA to a more substantial number of cells, we extend the original implementation to run on GPUs. We also introduce a method to automatically select one of the user-defined parameters, thus reducing the hyperparameter search space. We demonstrate that the proposed extensions allow MMD-MA to accurately align state-of-the-art single-cell experiments.
 </div>
 
@@ -173,9 +175,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
 <table class="table table-hover">
+  <tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ICML Workshop in Computational Biology (Poster & Spotlight Presentation) </strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  Pinar Demetci*, Rebecca Santorella*, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+</tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
+  <td><strong>ISMB Proceedings (Oral Presentation) </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
   Berk Alpay*, Pinar Demetci*, Sorin Istrail, Derek Aguiar, *Equal contribution</td>
 </tr>
 <tr>
