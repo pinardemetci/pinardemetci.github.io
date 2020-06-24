@@ -1,5 +1,9 @@
- I am a computational biologist, working towards my doctoral degree with Lorin Crawford, Ph.D. and I also collaborate with Ritambhara Singh, Ph.D.  
-My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
+ I am a computational biologist, working towards my doctoral degree with <a href="lcrawlab.com"> Lorin Crawford, Ph.D. </a>  and I also closely collaborate with <a href="rsinghlab.org"> Ritambhara Singh, Ph.D. </a>  My masters degree advisor was <a href="vivo.brown.edu/display/sistrail">Sorin Istrail, Ph.D. </a> Types of research problems I currently work on include (1) manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and (2) Bayesian machine learning models for multi-scale genomic association discovery. <br>  
+
+ Before joining Brown University for my Ph.D., I received my bachelor’s degree in bioengineering from <a href="http://www.olin.edu/"> Olin College of Engineering <\a>. There, I worked with <a href="http://www.olin.edu/faculty/profile/jean-j-huang/"> Jean J. Huang, Ph.D. <\a> and <a href="http://www.olin.edu/faculty/profile/john-b-geddes"> John Geddes, Ph.D. <\a> on mathematical modeling and bioinformatic analyses for microbiology research. Then, I spent a year in <a href="http://gwli.scripts.mit.edu/group/?p=737"> Li Quantitative Biology Lab <\a> at <a href="https://www.mit.edu/"> Massachusetts Institute of Technology (MIT) <\a>, working as a research support associate and lab manager under the supervision of <a href="https://biology.mit.edu/profile/gene-wei-li/"> Gene-Wei Li, Ph.D. <\a> My work there mostly involved investigating regulatory network rewiring in E.coli gene knock-out strains, as well as assissting graduate students with various quantitative biology research projects. <br>
+
+ Currently, I am working in <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent"> the Genomics team <\a> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/"> Microsoft Research (Redmond, WA) <\a>  as a research intern and I am really enjoying it! <br>
+ My e-mail is pinardemetci at gmail dot com if you'd like to talk. <br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -9,7 +13,7 @@ My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
     <td class="col-md-3">September 2018 - May 2023</td>
     <td>
         <strong>Ph.D. in Computer Science and Computational Biology</strong>
-          (0.00/0.00)
+          (3.90/4.00)
         <br>
       Brown University (Providence, RI)
     </td>
@@ -45,13 +49,13 @@ My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
-  <td><strong>Microsoft Research: Genomics</strong>, Incoming Research Intern (Redmond, WA)</td>
+  <td><strong>Microsoft Research: Genomics</strong>, Research Intern (Redmond, WA)</td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'>May 2017 - Sep 2018</td>
-  <td><strong>Massachusetts Institute of Technology</strong>, Research Associate (Cambridge, MA)</td>
+  <td><strong>Massachusetts Institute of Technology</strong>, Research Support Associate (Cambridge, MA)</td>
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2016 - Oct 2016</td>
@@ -77,7 +81,7 @@ My masters degree advisor was Sorin Istrail, Ph.D. <br><br>
      *Equal Contribution, #Corresponding Author<br>
     bioRxiv, 2020<br>
     
-    [1] 
+    [4] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abs</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>pdf</a>] <br>
     
@@ -90,6 +94,25 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 </tr>
 
 
+<tr>
+<td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'><img src="images/publications/SCOT.png"/></a> </td>
+<td>
+    <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
+    R. Singh#<strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
+     #Corresponding Authors<br>
+    ACM-BCB, 2020<br>
+    
+    [4] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetcisantorella").toggle()'>abs</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>pdf</a>] <br>
+    
+<div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
+Integrating single-cell measurements that capture different properties of the genome is vital to extending our understanding of genome biology.This task is challenging due to the lack of a shared axis across datasets obtained from different types of single-cell experiments. For most such datasets, we lack corresponding information among the cells (samples) and the measurements (features). In this scenario, unsupervised algorithms that are capable of aligning single-cell experiments are critical to learning an in silico co-assay that can help draw correspondences among the cells.Maximum mean discrepancy-based manifold alignment (MMD-MA) is such an unsupervised algorithm. Without requiring correspondence information, it can align single-cell datasets from different modalities in a common shared latent space, showing promising results on simulations and a small-scale single-cell experiment with 61 cells.However, it is essential to explore the applicability of this method to larger single-cell experiments with thousands of cells so that it can be of practical interest to the community.In this paper, we apply MMD-MA to two recent datasets that measure transcriptome and chromatin accessibility in ~2000 single cells. To scale the runtime of MMD-MA to a more substantial number of cells, we extend the original implementation to run on GPUs. We also introduce a method to automatically select one of the user-defined parameters, thus reducing the hyperparameter search space. We demonstrate that the proposed extensions allow MMD-MA to accurately align state-of-the-art single-cell experiments.
+</div>
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/HAPLEX.png"/></a> </td>
@@ -99,7 +122,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
      *Equal Contribution, #Corresponding Author<br>
     ISMB Proceedings, 2020<br>
     
-    [1] 
+    [3] 
 [<a href='javascript:;'
     onclick='$("#abs_alpaydemetci").toggle()'>abs</a>] [<a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'>pdf</a>] <br>
     
@@ -119,7 +142,7 @@ We show that variant and haplotype features selected by HAPLEXR are smaller in s
      *Equal Contribution,  #Corresponding Author<br>
     Journal of Bacteriology, 2019<br>
     
-    [1] 
+    [2] 
 [<a href='javascript:;'
     onclick='$("#abs_parkerdemetci").toggle()'>abs</a>] [<a href='https://jb.asm.org/content/early/2019/07/03/JB.00259-19/figures-only?versioned=true' target='_blank'>pdf</a>] <br>
     
@@ -129,33 +152,55 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </td>
 </tr>
 
+<tr>
+<td class="col-md-3"><a href='https://ieeexplore.ieee.org/abstract/document/7757463' target='_blank'><img src="images/publications/ecoli.png"/></a> </td>
+<td>
+    <strong>Internalization and externalization in the classroom: How do they emerge and why is it important?</strong><br>
+     <strong>P.Demetci</strong>, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.<br>
+    IEEE, 2016<br>
+    FIE Conference, 2016<br>
+    
+    [1] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetcinichols").toggle()'>abs</a>] [<a href='https://ieeexplore.ieee.org/abstract/document/7757463'  target='_blank'>pdf</a>] <br>  
+<div id="abs_demetcinichols" style="text-align: justify; display: none" markdown="1">
+“I felt so dumb, and it's not fair that I cannot grasp this information to save my life, and other people can with no problem.” Why do some students feel empowered in the classroom, and feel they have control over their own learning, while others do not? Our qualitative investigation is a part of a larger mixed-methods study about students' situational motivations in introductory STEM courses. We used grounded theory to analyze students' responses to surveys about emotion, course relevance, and motivation. We investigated two emergent phenomena we called “internalization” and “externalization.” Our definitions of these are based on a student's perception of who or what influences the outcomes of their activities: the students themselves, or external factors such as the instructor, peers, or the educational system as a whole. Our findings indicate that (1) internalization correlates with cognitive autonomy, students' perception of course content having high personal relevance, and group projects in project-based learning environments; and (2) externalization correlates with lecture-based environments and students' perceptions of lack of personal relevance in the course content. Our analyses suggest that project-based learning environments may serve to empower students, but only when course content is found to be relevant.
+</div>
+</td>
+</tr>
+
 </table>
 
-## <i class="fa fa-chevron-right"></i> Invited Talks, Conference Proceedings, Poster Presentations
+## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB 2020 Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  
+  <td><strong>ISMB Proceedings </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
   Berk Alpay*, Pinar Demetci*, Sorin Istrail, Derek Aguiar, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB 2020 (Oral Presentation)</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  
+  <td><strong>ISMB (Oral & Poster Presentation)</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
   Pinar Demetci*, Rebecca Santorella*, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
-  <td><strong>CCV-Con 2019 (Invited Talk) </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery   
+  <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
   Pinar Demetci, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
-  <td><strong>NEMPET 2016 (Poster Presentation) </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  
+  <td><strong>FIE (Oral Presentation) </strong> Internalization and externalization: How do they emerge and why is it important?  <br>
+  P.Demetci, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2016</td>
+  <td><strong>NEMPET (Poster Presentation) </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
   Pinar Demetci, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
 </tr>
 <tr>
   <td class='col-md-1'>2015</td>
-  <td><strong>Closing the Gap 2015 (Oral Presentation) </strong> Project EyeHelper: Assistive Navigation for Blind Shopping  
+  <td><strong>Closing the Gap (Oral Presentation) </strong> Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
   Pinar Demetci, Anders Johnnson, Matthew Ruehle, Paul Ruvolo</td>
 </tr>
 </table>
@@ -221,7 +266,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Membership, Community, Professional Service
+## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
   <tr>
     <td class='col-md-2'>Member</td>
@@ -280,6 +325,13 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <td class='col-md-2'>Natural Languages</td>
     <td>
       English (proficient - TOEFL: 115/120), Turkish (native language), French (A2)
+      <!--  -->
+    </td>
+  </tr>
+        <tr>
+    <td class='col-md-2'>Laboratory</td>
+    <td>
+      DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, 
       <!--  -->
     </td>
   </tr>
