@@ -181,43 +181,43 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop in Computational Biology (Poster & Spotlight Presentation) </strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <bold><em>Pinar Demetci*</em></bold>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+  <strong><em>Pinar Demetci*</em></strong>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB Proceedings (Oral Presentation) </strong><br>
    Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
-  <em>Berk Alpay*</em>, <bold>Pinar Demetci*</bold>, Sorin Istrail, Derek Aguiar</td>
+  <em>Berk Alpay*</em>, <strong>Pinar Demetci*</strong>, Sorin Istrail, Derek Aguiar</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB (Oral & Poster Presentation)</strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
- <em><bold>Pinar Demetci*</bold></em>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+ <em><strong>Pinar Demetci*</strong></em>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
   <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> <br>
     Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
-  <em><bold>Pinar Demetci</bold></em>, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
+  <em><strong>Pinar Demetci</strong></em>, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>FIE (Oral Presentation) </strong> <br>
     Internalization and externalization: How do they emerge and why is it important?  <br>
-  <em><bold>P.Demetci</bold></em>, <em>C. Nichols</em>, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
+  <em><strong>P.Demetci</strong></em>, <em>C. Nichols</em>, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>NEMPET (Poster Presentation) </strong> <br>
     Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
-  <em><bold>Pinar Demetci</bold></em>, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
+  <em><strong>Pinar Demetci</strong></em>, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
 </tr>
 <tr>
   <td class='col-md-1'>2015</td>
   <td><strong>Closing the Gap (Oral Presentation) </strong> <br>
     Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
-  <em><bold>Pinar Demetci</bold>, Anders Johnnson, Matthew Ruehle</em>, Paul Ruvolo</td>
+  <em><strong>Pinar Demetci</strong>, Anders Johnnson, Matthew Ruehle</em>, Paul Ruvolo</td>
 </tr>
 </table>
 
@@ -328,7 +328,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <tr>
     <td class='col-md-2'>Systems</td>
     <td>
-      Linux, OSX
+      Linux, OSX, slurm, GCP, Azure
       <!--  -->
     </td>
   </tr>
