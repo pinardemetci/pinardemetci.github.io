@@ -1,11 +1,11 @@
-I am a computational biologist, working towards my doctoral degree with [Lorin Crawford, Ph.D.](http://lcrawlab.com) and I also closely collaborate with [Ritambhara Singh, Ph.D. ](http://rsinghlab.org). My masters degree advisor was [Sorin Istrail, Ph.D.](http://vivo.brown.edu/display/sistrail). Types of research problems I currently work on include (1) manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and (2) Bayesian machine learning models for multi-scale genomic association discovery. <br>  
+I am a computational biologist, working towards my doctoral degree with [Lorin Crawford, Ph.D.](http://lcrawlab.com) and I also closely collaborate with [Ritambhara Singh, Ph.D. ](http://rsinghlab.org) My masters degree advisor was [Sorin Istrail, Ph.D.](http://vivo.brown.edu/display/sistrail) Types of research problems I currently work on include **(1)** manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and **(2)** Bayesian machine learning models for multi-scale genomic association discovery. My research is at the intersection of applied mathematics, computer science, and molecular biology and genetics.<br>  
 
-Before joining Brown University Center for Computational Molecular Biology for my Ph.D., I received my bachelor’s degree in bioengineering from [Olin College of Engineering](http://www.olin.edu/). There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on mathematical models and bioinformatic analyses of environmental microbial communities. Then, I spent a year in [Li Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), working as a research support associate and lab manager under the supervision of [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) My work there mostly involved investigating regulatory network rewiring in different gene knock-out strains of bacteria, as well as assissting graduate students with various quantitative biology research projects. <br>
+Before joining **Brown University** for my Ph.D., I received my bachelor’s degree in bioengineering from [**Olin College of Engineering**](http://www.olin.edu/). There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on mathematical models and bioinformatic analyses of environmental microbial communities. Then, I spent a year in [Gene-Wei Li's Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at **Massachusetts Institute of Technology (MIT)**, working as a research support associate and lab manager. My work there mostly involved investigating gene expression regulatory network rewiring in bacteria. <br>
 
-Currently, I am working in the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at [Microsoft Research (Redmond, WA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a research intern and I am really enjoying it! <br>
+Currently, I am working in the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at [**Microsoft Research (Redmond, WA)**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a research intern and I am really enjoying it! <br>
 
-Apart from computational biology, I have had the pleasure of working on different engineering, bioengineering, biology, and education research projects, which can be found here. Outside of work, I enjoy holding boardgame nights with friends, identifying bird species, playing ukulele and violin, and swimming (hopefully post COVID-19!).
-My e-mail is pinardemetci at gmail dot com if you'd like to talk. <br>
+Apart from computational biology, I have had the pleasure of working on different modeling, engineering, bioengineering, biology, and education research projects, which can be found **here**. Outside of work, I enjoy holding boardgame nights with friends, identifying bird species (and feeding them), playing ukulele and violin, and swimming (hopefully post COVID-19!).<br>
+My e-mail is [pinardemetci@gmail.com](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -174,41 +174,42 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
+*Presenters* emphasized,  Equal contribution:*
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop in Computational Biology (Poster & Spotlight Presentation) </strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  Pinar Demetci*, Rebecca Santorella*, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+  **<em>Pinar Demetci*</em>**, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB Proceedings (Oral Presentation) </strong> Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
-  Berk Alpay*, Pinar Demetci*, Sorin Istrail, Derek Aguiar, *Equal contribution</td>
+  <em>Berk Alpay*</em>, <bold>Pinar Demetci*</bold>, Sorin Istrail, Derek Aguiar</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB (Oral & Poster Presentation)</strong> Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  Pinar Demetci*, Rebecca Santorella*, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+ <em><bold>Pinar Demetci*</bold></em>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
   <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
-  Pinar Demetci, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
+  <em>**Pinar Demetci**</em>, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>FIE (Oral Presentation) </strong> Internalization and externalization: How do they emerge and why is it important?  <br>
-  P.Demetci, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
+  <em>**P.Demetci**</em>, <em>C. Nichols</em>, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>NEMPET (Poster Presentation) </strong> Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
-  Pinar Demetci, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
+  <em>**Pinar Demetci**</em>, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
 </tr>
 <tr>
   <td class='col-md-1'>2015</td>
   <td><strong>Closing the Gap (Oral Presentation) </strong> Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
-  Pinar Demetci, Anders Johnnson, Matthew Ruehle, Paul Ruvolo</td>
+  <em>**Pinar Demetci**, Anders Johnnson, Matthew Ruehle</em>, Paul Ruvolo</td>
 </tr>
 </table>
 
