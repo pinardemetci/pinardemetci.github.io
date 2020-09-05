@@ -1,19 +1,16 @@
-I am a **computational biologist**, working towards my doctoral degree with [Lorin Crawford, Ph.D.](http://lcrawlab.com) and I also closely collaborate with [Ritambhara Singh, Ph.D. ](http://rsinghlab.org) My masters degree advisor was [Sorin Istrail, Ph.D.](http://vivo.brown.edu/display/sistrail) Types of research problems I currently work on include **(1)** manifold alignment and optimal transport algorithms for single-cell multi-omic data integration, and **(2)** Bayesian machine learning models for multi-scale genomic association discovery. My research is at the intersection of **applied mathematics, computer science, and molecular biology and genetics**.<br>  
+I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at the Department of Computer Science at **Brown University.** My research is at the intersection of **computer science, statistics, and molecular biology**. Types of research problems I currently work on include **(1)** manifold alignment algorithms for single-cell multi-omic data integration, and **(2)** interpretable (sometimes Bayesian) machine learning models for the analysis of genomics data, with a goal to understand regulatory mechanisms.<br>
 
-Before joining **Brown University** for my Ph.D., I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on mathematical models and bioinformatic analyses of environmental microbial communities. Then, I spent a year in [Gene-Wei Li's Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at **Massachusetts Institute of Technology (MIT)**, working as a research support associate and a lab manager. My work there mostly involved investigating gene expression regulatory network rewiring in bacteria. <br>
+Before joining **Brown University**, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various environmental perturbations. Then, I spent a year in [Prof. Gene-Wei Li's Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at **Massachusetts Institute of Technology (MIT)**, working as a research support associate and a lab manager. My work there mostly involved investigating gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at **Microsoft Research (Redmond, WA)** <br>
 
-Currently, I am working in the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at **Microsoft Research (Redmond, WA)** as a research intern and I am really enjoying it! <br>
-
-Apart from computational biology, I have had the pleasure of working on different modeling, engineering, bioengineering, biology, and education research projects, which can be found [**here**](/projects/). [**Outside of research**](/fun/), I enjoy holding boardgame nights with friends, identifying bird species (and feeding them), playing ukulele and violin, and swimming (hopefully post COVID-19).<br>
+Apart from computational biology, I have had the pleasure of working on different modeling, engineering, biology, and STEM education research projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic).<br>
 
 Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
-
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">September 2018 - May 2023</td>
+    <td class="col-md-3"> 2018 - 2022 (Expected) </td>
     <td>
         <strong>Ph.D. in Computer Science and Computational Biology</strong>
           (3.90/4.00)
@@ -22,7 +19,7 @@ Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">September 2018 - May 2020</td>
+    <td class="col-md-3"> 2018 - 2020 (Expected) </td>
     <td>
         <strong>M.Sc. in Computer Science</strong>
           (4.00/4.00)
@@ -31,7 +28,7 @@ Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">September 2013 - May 2017</td>
+    <td class="col-md-3"> 2013 - 2017</td>
     <td>
         <strong>B.Sc. in Bioengineering</strong>
           (3.67/4.00)
@@ -40,7 +37,7 @@ Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">September 2008 - June 2013</td>
+    <td class="col-md-3"> 2008 - 2013</td>
     <td>
       TEVITOL High School + IB Diploma (Gebze, Turkey)
     </td>
@@ -57,8 +54,12 @@ Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Sep 2018</td>
+  <td class='col-md-3'>June 2017 - August 2018</td>
   <td><strong>Massachusetts Institute of Technology</strong>, Research Support Associate (Cambridge, MA)</td>
+</tr>
+<tr>
+  <td class='col-md-3'>Jan 2016 - Oct 2016</td>
+  <td><strong>Design That Matters</strong>, Student Engineer (Salem, MA)</td>
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2016 - Oct 2016</td>
@@ -180,7 +181,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ICML Workshop in Computational Biology (Poster & Spotlight Presentation) </strong> <br>
+  <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
   <strong><em>Pinar Demetci*</em></strong>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
@@ -195,6 +196,12 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <td><strong>ISMB (Oral & Poster Presentation)</strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
  <em><strong>Pinar Demetci*</strong></em>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>[Brown Unconference on Computational Intelligence and Applications](https://unconference.brown.edu/)</strong> <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  <strong><em>Pinar Demetci*</em></strong>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
@@ -238,12 +245,12 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Honors & Awards
+## <i class="fa fa-chevron-right"></i> Awards
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>2018 - 2020</td>
+  <td class='col-md-2'>2020</td>
   <td>
-    Brown Graduate Fellowship
+   ICML WCB Fellowship
     <!--  -->
   </td>
 </tr>
@@ -264,7 +271,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2013-2017</td>
   <td>
-    <a href="http://impact.olin.edu/2017/scholarships#scholarships">Sunlin Chou International Scholarship (50% tuition)</a>
+    <a href="http://impact.olin.edu/2017/scholarships#scholarships">Sunlin Chou International Scholarship</a> (50% tuition)
     <!--  -->
   </td>
 </tr>
@@ -287,15 +294,22 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 ## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
+	<tr>
+    <td class='col-md-2'>2020 - Present </td>
+    <td>
+      Society for Industrial and Applied Mathematics (SIAM)
+      <!--  -->
+    </td>
+  </tr>
   <tr>
-    <td class='col-md-2'>Member</td>
+    <td class='col-md-2'>2018 - Present</td>
     <td>
       International Society for Computational Biology (ISCB)
       <!--  -->
     </td>
   </tr>
   <tr>
-    <td class='col-md-2'>Member</td>
+    <td class='col-md-2'>2018 - Present</td>
     <td>
       Models, Inference, and Algorithms (MIA) at Broad Institute
       <!--  -->
@@ -315,42 +329,42 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <tr>
     <td class='col-md-2'>Programming Languages</td>
     <td>
-      Python, R, Java, C++ 
+      More experienced: Python, R, MATLAB -- Less experienced: Java, C++ 
       <!--  -->
     </td>
   </tr>
     <tr>
     <td class='col-md-2'>Frameworks</td>
     <td>
-      NumPy, Pandas, PyTorch, SciPy, TensorFlow, HDF5, Bioconductor
+      NumPy, Pandas, SciPy, PyTorch, Pyro, TensorFlow, Tensorflow-Probability, HDF5, Bioconductor, Seurat
       <!--  -->
     </td>
   </tr>
     <tr>
     <td class='col-md-2'>Systems</td>
     <td>
-      Linux, OSX, slurm, GCP, Azure
+      Linux, OSX, High Performance Cluster Computing, slurm, Google Cloud Computing, Microsoft Azure
       <!--  -->
     </td>
   </tr>
     <tr>
     <td class='col-md-2'>Bioinformatics Tools</td>
     <td>
-      VCFtools, BEDtools, PLINK, Cytoscape, QIIME, VAMPS, JGI
+     GATK, VCFtools, BCFtools, BEDtools, PLINK, Cromwell, Cytoscape, QIIME, VAMPS, JGI
       <!--  -->
     </td>
   </tr>
       <tr>
     <td class='col-md-2'>Natural Languages</td>
     <td>
-      English (proficient - TOEFL: 115/120), Turkish (native language), French (A2)
+      English (proficient), Turkish (native language), French (A2)
       <!--  -->
     </td>
   </tr>
         <tr>
     <td class='col-md-2'>Laboratory</td>
     <td>
-      DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, 
+      DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
       <!--  -->
     </td>
   </tr>
