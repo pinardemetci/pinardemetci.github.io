@@ -15,7 +15,7 @@ My ICML Presentation (5 min spotlight talk) on optimal transport for single-cell
     });
 </script>
 
-1) My co-first author Berk Alpay's ISMB Proceedings presentation on combinatorial and statistical prediction of gene expression from haplotype sequences (July 2020):
+2) My co-first author Berk Alpay's ISMB Proceedings presentation on combinatorial and statistical prediction of gene expression from haplotype sequences (July 2020):
 ![](https://flash.performedia.com/2020/iscb/ismb2020/pre-recorded-talks/mp4/Berk_Alpay_-_P337_AlpayBerk_VarI.mp4)
 <!-- <script>
     embed = new SlidesLiveEmbed('presentation-embed-38930906', {
