@@ -1,6 +1,6 @@
-I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at the Department of Computer Science at **Brown University.** My research is at the intersection of **computer science, statistics, and molecular biology**. Types of research problems I currently work on include **(1)** manifold alignment algorithms for single-cell multi-omic data integration, and **(2)** interpretable (sometimes Bayesian) machine learning models for the analysis of genomics data, with a goal to understand regulatory mechanisms.<br>
+I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at **Brown University Department of Computer Science** My research is at the intersection of **computer science, statistics, and molecular biology**. Types of research problems I currently work on include **(1)** interpretable (sometimes Bayesian) machine learning models for the analysis of genomics data, with a goal to understand regulatory mechanisms behind complex traits and diseases, and **(2)** manifold alignment algorithms for multi-omic data integration.<br>
 
-Before joining **Brown University**, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various environmental perturbations. Then, I spent a year in [Prof. Gene-Wei Li's Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) at **Massachusetts Institute of Technology (MIT)**, working as a research support associate and a lab manager. My work there mostly involved investigating gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at **Microsoft Research (Redmond, WA)** <br>
+Before joining **Brown University**, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various environmental perturbations. Then, I spent a year in [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) with [Gene-Wei Li. Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at **Massachusetts Institute of Technology (MIT)**, working as a research support associate and lab manager. My work there mostly involved investigating gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent) at **Microsoft Research (Redmond, WA)** <br>
 
 Apart from computational biology, I have had the pleasure of working on different modeling, engineering, biology, and STEM education research projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic).<br>
 
@@ -294,7 +294,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 ## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
-	<tr>
+  <tr>
     <td class='col-md-2'>2020 - Present </td>
     <td>
       Society for Industrial and Applied Mathematics (SIAM)
@@ -354,17 +354,17 @@ Expression of motility genes is a potentially beneficial but costly process in b
       <!--  -->
     </td>
   </tr>
-      <tr>
-    <td class='col-md-2'>Natural Languages</td>
-    <td>
-      English (proficient), Turkish (native language), French (A2)
-      <!--  -->
-    </td>
-  </tr>
-        <tr>
+  <tr>
     <td class='col-md-2'>Laboratory</td>
     <td>
       DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
+      <!--  -->
+    </td>
+  </tr>
+   <tr>
+    <td class='col-md-2'>Natural Languages</td>
+    <td>
+      English (Proficient), Turkish (Native Language), French (A2-Level proficiency)
       <!--  -->
     </td>
   </tr>
