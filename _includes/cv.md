@@ -167,11 +167,11 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </div>
 </td>
 </tr>
-
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
-*Presenters* emphasized/italicized,  Equal contribution denoted with: *
+*Presenters* emphasized/italicized,  Equal contribution denoted with:*
+
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
@@ -229,7 +229,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <em><strong>P Demetci</strong>, A Johnnson, M Ruehle</em>, P Ruvolo</td>
 </tr>
 </table>
-
 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
