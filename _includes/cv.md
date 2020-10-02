@@ -175,51 +175,58 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong> <br>
+  <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><em>Pinar Demetci*</em></strong>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+  <strong><em>P Demetci*</em></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB Proceedings (Oral Presentation) </strong><br>
+  <td><strong>ISMB Proceedings (Oral Presentation) </strong> [Acceptance Rate: 19%]<br>
    Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
-  <em>Berk Alpay*</em>, <strong>Pinar Demetci*</strong>, Sorin Istrail, Derek Aguiar</td>
+  <em>B Alpay*</em>, <strong>P Demetci*</strong>, S Istrail, D Aguiar</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>ISMB (Oral & Poster Presentation)</strong> <br>
+  <td><strong>ISMB (Oral & Poster Presentation)</strong> [Acceptance Rate: 25%] <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
- <em><strong>Pinar Demetci*</strong></em>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+ <em><strong>P Demetci </strong></em>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+<tr>
+  <tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ACM-BCB: Oral Presentation</strong> [Acceptance Rate: 27%] <br>
+    Unsupervised manifold alignment for single-cell multi-omics data <br>
+ <em>R Singh</em>, <strong>P Demetci</strong>, G Bonora, V Ramani, C Lee, H Fang, Z Duan, X Deng, J Shendure, C Disteche, W Stafford Noble.</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
-  <td><strong>[Brown Unconference on Computational Intelligence and Applications](https://unconference.brown.edu/)</strong> <br>
+  <td><strong>Brown Unconference on Computational Intelligence and Applications (Invited Talk)</strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><em>Pinar Demetci*</em></strong>, <em>Rebecca Santorella*</em>, Bjorn Sandstede, William Stafford Noble, Ritambhara Singh, *Equal contribution</td>
+  <strong><em>P Demetci*</em></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
   <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> <br>
     Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
-  <em><strong>Pinar Demetci</strong></em>, Wei Cheng, Greg Darnell, Sohini Ramachandran, Lorin Crawford</td>
+  <em><strong>P Demetci</strong></em>, W Cheng, G Darnell, S Ramachandran, L Crawford</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
-  <td><strong>FIE (Oral Presentation) </strong> <br>
+  <td><strong>FIE (Oral Presentation) </strong> [Acceptance Rate: 48%] <br>
     Internalization and externalization: How do they emerge and why is it important?  <br>
-  <em><strong>P.Demetci</strong></em>, <em>C. Nichols</em>, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.</td>
+  <em><strong>P Demetci</strong></em>, <em>C Nichols</em>, Y V Zastavker, J D Stolk, A Dillon, M D Gross</td>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>NEMPET (Poster Presentation) </strong> <br>
     Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
-  <em><strong>Pinar Demetci</strong></em>, Michael Sheets, Anna Knapp, Linda Amaral-Zettler, Jean Huang</td>
+  <em><strong>P Demetci</strong></em>, M Sheets, A Knapp, Linda Amaral-Zettler, Jean Huang</td>
 </tr>
 <tr>
   <td class='col-md-1'>2015</td>
   <td><strong>Closing the Gap (Oral Presentation) </strong> <br>
     Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
-  <em><strong>Pinar Demetci</strong>, Anders Johnnson, Matthew Ruehle</em>, Paul Ruvolo</td>
+  <em><strong>P Demetci</strong>, A Johnnson, M Ruehle</em>, P Ruvolo</td>
 </tr>
 </table>
 
