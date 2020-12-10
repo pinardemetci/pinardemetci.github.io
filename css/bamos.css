@@ -51,6 +51,11 @@ img {
     line-height: 1;
 }
 
+.navbar {
+    background-color: #4582ec;
+    font-color: #ffffff;
+}
+
 .navbar-brand div {
     height: 100%;
 }
