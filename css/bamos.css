@@ -1,10 +1,8 @@
 body {
     padding-top: 70px;
-    font-family: "Helvetica Neue";
 }
 
 h1 {
-    font-family: "Helvetica Neue";
     font-size: 1.8em;
     margin: 0.1em 0;
 }
@@ -59,10 +57,10 @@ img {
     line-height: 1;
 }
 
-.navbar {
+/* .navbar {
     background-color: #4582ec;
     color: #ffffff;
-}
+} */
 .navbar.h1 {
     color: #ffffff;
 }
