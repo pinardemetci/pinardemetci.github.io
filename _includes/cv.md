@@ -1,16 +1,16 @@
-I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at **Brown University** Department of Computer Science. My research is at the intersection of **computer science, statistics, and molecular biology**. Types of research problems I currently work on include **(1)** interpretable (sometimes Bayesian) machine learning models for the analysis of genomics data, with a goal to understand regulatory mechanisms behind complex traits and diseases, and **(2)** manifold alignment algorithms for multi-omic data integration.<br>
+I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at **Brown University**. My research is at the intersection of **computer science**, **statistics**, and **molecular biology**. The main objective of my dissertation research is to develop computational methods that enable integrated analysis of single-cell multi-omics datasets<br> 
 
-Before joining Brown University, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various environmental perturbations. Then, I worked in [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) with [Gene-Wei Li. Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research** <br>
+Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737)  led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research** <br>
 
-Apart from computational biology, I have had the pleasure of working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic). Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have enjoyed working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic). Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3"> 2018 - 2022 (Expected) </td>
+    <td class="col-md-3"> 2018 - 2023 (Expected) </td>
     <td>
-        <strong>Ph.D. in Computer Science and Computational Biology</strong>
+        <strong>Ph.D. in Computational Biology</strong>
           (3.90/4.00)
         <br>
       Brown University (Providence, RI)
@@ -37,7 +37,7 @@ Apart from computational biology, I have had the pleasure of working on differen
   <tr>
     <td class="col-md-3"> 2008 - 2013</td>
     <td>
-      TEVITOL High School + IB Diploma (Gebze, Turkey)
+      TEVITOL High School with IB Diploma (Gebze, Turkey)
     </td>
   </tr>
 </table>
@@ -59,10 +59,8 @@ Apart from computational biology, I have had the pleasure of working on differen
   <td><strong>Design That Matters</strong>, Student Engineer (Salem, MA)</td>
 </tr>
 <tr>
-  <td class='col-md-3'>Jan 2016 - Oct 2016</td>
+  <td class='col-md-3'>Jan 2016 - Dec 2015</td>
   <td><strong>Daktari Diagnostics</strong>, Student Engineer (Cambridge, MA)</td>
-</tr>
-<tr>
 </tr>
 </table>
 
@@ -169,15 +167,15 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
-*Presenters* emphasized/italicized,  Equal contribution denoted with:*
+## <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
+<ins>Presenters underlined</ins>,  Equal contribution denoted with: *
 
 <table class="table table-hover">
   <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><em>P Demetci*</em></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
+  <strong><ins>P Demetci*</ins></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
