@@ -76,7 +76,7 @@ Apart from computational biology, I have enjoyed working on different STEM proje
     <strong>Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
-    bioRxiv, 2020<br>
+    bioRxiv, 2020 (RECOMB 2021)<br>
     [5] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <br>
