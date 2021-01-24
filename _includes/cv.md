@@ -96,11 +96,11 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
     <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
     R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
-    bioRxiv, 2020<br>
+    Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020)<br>
     
     [4] 
 [<a href='javascript:;'
-    onclick='$("#abs_singhdemetci").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.06.13.149195v1' target='_blank'>paper</a>] <br>
+    onclick='$("#abs_singhdemetci").toggle()'>abstract</a>] [<a href='https://dl.acm.org/doi/10.1145/3388440.3412410' target='_blank'>paper</a>] <br>
     
 <div id="abs_singhdemetci" style="text-align: justify; display: none" markdown="1">
 Integrating single-cell measurements that capture different properties of the genome is vital to extending our understanding of genome biology.This task is challenging due to the lack of a shared axis across datasets obtained from different types of single-cell experiments. For most such datasets, we lack corresponding information among the cells (samples) and the measurements (features). In this scenario, unsupervised algorithms that are capable of aligning single-cell experiments are critical to learning an in silico co-assay that can help draw correspondences among the cells.Maximum mean discrepancy-based manifold alignment (MMD-MA) is such an unsupervised algorithm. Without requiring correspondence information, it can align single-cell datasets from different modalities in a common shared latent space, showing promising results on simulations and a small-scale single-cell experiment with 61 cells.However, it is essential to explore the applicability of this method to larger single-cell experiments with thousands of cells so that it can be of practical interest to the community.In this paper, we apply MMD-MA to two recent datasets that measure transcriptome and chromatin accessibility in ~2000 single cells. To scale the runtime of MMD-MA to a more substantial number of cells, we extend the original implementation to run on GPUs. We also introduce a method to automatically select one of the user-defined parameters, thus reducing the hyperparameter search space. We demonstrate that the proposed extensions allow MMD-MA to accurately align state-of-the-art single-cell experiments.
@@ -116,8 +116,8 @@ Integrating single-cell measurements that capture different properties of the ge
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
      *Equal Contribution, #Corresponding Author<br>
-     Bioinformatics (Oxford Press), 2020 <br>
-    ISMB Proceedings, 2020<br>
+     Bioinformatics (Oxford Press) vol.36, Supplement_1, p:i194-i202. 2020 <br>
+    Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology (ISMB 2020)<br>
     
     [3] 
 [<a href='javascript:;'
