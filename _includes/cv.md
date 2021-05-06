@@ -1,16 +1,16 @@
-I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at **Brown University** Department of Computer Science. My research is at the intersection of **computer science, statistics, and molecular biology**. Types of research problems I currently work on include **(1)** interpretable (sometimes Bayesian) machine learning models for the analysis of genomics data, with a goal to understand regulatory mechanisms behind complex traits and diseases, and **(2)** manifold alignment algorithms for multi-omic data integration.<br>
+I am a third year Ph.D. student in  **computational biology**, working with professors [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) at **Brown University**. My research is at the intersection of **computer science**, **statistics**, and **molecular biology**. The main objective of my dissertation research is to develop computational methods that enable integrated analysis of single-cell multi-omics datasets.<br> 
 
-Before joining Brown University, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various environmental perturbations. Then, I worked in [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737) with [Gene-Wei Li. Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research** <br>
+Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737)  led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
 
-Apart from computational biology, I have had the pleasure of working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic). Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have enjoyed working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic). Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3"> 2018 - 2022 (Expected) </td>
+    <td class="col-md-3"> 2018 - 2023 (Expected) </td>
     <td>
-        <strong>Ph.D. in Computer Science and Computational Biology</strong>
+        <strong>Ph.D. in Computational Biology </strong>
           (3.90/4.00)
         <br>
       Brown University (Providence, RI)
@@ -37,7 +37,7 @@ Apart from computational biology, I have had the pleasure of working on differen
   <tr>
     <td class="col-md-3"> 2008 - 2013</td>
     <td>
-      TEVITOL High School + IB Diploma (Gebze, Turkey)
+      TEVITOL High School with IB Diploma (Gebze, Turkey)
     </td>
   </tr>
 </table>
@@ -59,10 +59,8 @@ Apart from computational biology, I have had the pleasure of working on differen
   <td><strong>Design That Matters</strong>, Student Engineer (Salem, MA)</td>
 </tr>
 <tr>
-  <td class='col-md-3'>Jan 2016 - Oct 2016</td>
+  <td class='col-md-3'>Jan 2016 - Dec 2015</td>
   <td><strong>Daktari Diagnostics</strong>, Student Engineer (Cambridge, MA)</td>
-</tr>
-<tr>
 </tr>
 </table>
 
@@ -78,7 +76,7 @@ Apart from computational biology, I have had the pleasure of working on differen
     <strong>Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
-    bioRxiv, 2020<br>
+    International Conference on Research in Computational Molecular Biology (RECOMB) 2021 <br>
     [5] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <br>
@@ -98,11 +96,11 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
     <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
     R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
-    bioRxiv, 2020<br>
+    Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020)<br>
     
     [4] 
 [<a href='javascript:;'
-    onclick='$("#abs_singhdemetci").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.06.13.149195v1' target='_blank'>paper</a>] <br>
+    onclick='$("#abs_singhdemetci").toggle()'>abstract</a>] [<a href='https://dl.acm.org/doi/10.1145/3388440.3412410' target='_blank'>paper</a>] <br>
     
 <div id="abs_singhdemetci" style="text-align: justify; display: none" markdown="1">
 Integrating single-cell measurements that capture different properties of the genome is vital to extending our understanding of genome biology.This task is challenging due to the lack of a shared axis across datasets obtained from different types of single-cell experiments. For most such datasets, we lack corresponding information among the cells (samples) and the measurements (features). In this scenario, unsupervised algorithms that are capable of aligning single-cell experiments are critical to learning an in silico co-assay that can help draw correspondences among the cells.Maximum mean discrepancy-based manifold alignment (MMD-MA) is such an unsupervised algorithm. Without requiring correspondence information, it can align single-cell datasets from different modalities in a common shared latent space, showing promising results on simulations and a small-scale single-cell experiment with 61 cells.However, it is essential to explore the applicability of this method to larger single-cell experiments with thousands of cells so that it can be of practical interest to the community.In this paper, we apply MMD-MA to two recent datasets that measure transcriptome and chromatin accessibility in ~2000 single cells. To scale the runtime of MMD-MA to a more substantial number of cells, we extend the original implementation to run on GPUs. We also introduce a method to automatically select one of the user-defined parameters, thus reducing the hyperparameter search space. We demonstrate that the proposed extensions allow MMD-MA to accurately align state-of-the-art single-cell experiments.
@@ -118,8 +116,8 @@ Integrating single-cell measurements that capture different properties of the ge
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
      *Equal Contribution, #Corresponding Author<br>
-     Bioinformatics (Oxford Press), 2020 <br>
-    ISMB Proceedings, 2020<br>
+     Bioinformatics (Oxford Press) vol.36, Supplement_1, p:i194-i202. 2020 <br>
+    Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology (ISMB 2020)<br>
     
     [3] 
 [<a href='javascript:;'
@@ -168,82 +166,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </td>
 </tr>
 </table>
-
-## <i class="fa fa-chevron-right"></i> Invited Talks, Conferences, Oral and Poster Presentations
-*Presenters* emphasized/italicized,  Equal contribution denoted with:*
-
-<table class="table table-hover">
-  <tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><em>P Demetci*</em></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>ISMB Proceedings (Oral Presentation) </strong> [Acceptance Rate: 19%]<br>
-   Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
-  <em>B Alpay*</em>, <strong>P Demetci*</strong>, S Istrail, D Aguiar</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>ISMB (Oral & Poster Presentation)</strong> [Acceptance Rate: 25%] <br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
- <em><strong>P Demetci </strong></em>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
-</tr>
-<tr>
-  <tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>ACM-BCB: Oral Presentation</strong> [Acceptance Rate: 27%] <br>
-    Unsupervised manifold alignment for single-cell multi-omics data <br>
- <em>R Singh</em>, <strong>P Demetci</strong>, G Bonora, V Ramani, C Lee, H Fang, Z Duan, X Deng, J Shendure, C Disteche, W Stafford Noble.</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>Brown Unconference on Computational Intelligence and Applications (Invited Talk)</strong> <br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><em>P Demetci*</em></strong>, <em>R Santorella*</em>, B Sandstede, W Stafford Noble, R Singh</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2019</td>
-  <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> <br>
-    Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
-  <em><strong>P Demetci</strong></em>, W Cheng, G Darnell, S Ramachandran, L Crawford</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2016</td>
-  <td><strong>FIE (Oral Presentation) </strong> [Acceptance Rate: 48%] <br>
-    Internalization and externalization: How do they emerge and why is it important?  <br>
-  <em><strong>P Demetci</strong></em>, <em>C Nichols</em>, Y V Zastavker, J D Stolk, A Dillon, M D Gross</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2016</td>
-  <td><strong>NEMPET (Poster Presentation) </strong> <br>
-    Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
-  <em><strong>P Demetci</strong></em>, M Sheets, A Knapp, Linda Amaral-Zettler, Jean Huang</td>
-</tr>
-<tr>
-  <td class='col-md-1'>2015</td>
-  <td><strong>Closing the Gap (Oral Presentation) </strong> <br>
-    Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
-  <em><strong>P Demetci</strong>, A Johnnson, M Ruehle</em>, P Ruvolo</td>
-</tr>
-</table>
-
-## <i class="fa fa-chevron-right"></i> Teaching Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-1'>Spring 2019</td>
-  <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.)<br>
-  Teaching Assistant: wrote and graded assignments, held recitations and office hours, lectured a few times.</td>
-</tr>
-<tr>
-  <td class='col-md-1'>Fall 2016</td>
-  <td><strong>Designing Better Drugs </strong> (SCI1240 @ Olin College)<br>
-   Teaching and Laboratory Assistant: graded assignments, assisted students in the laboratory.</td>
-</tr>
-</table>
-
 
 ## <i class="fa fa-chevron-right"></i> Awards
 <table class="table table-hover">
@@ -295,6 +217,81 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation): First Step to Nobel Prize in Physics</a>
     <!--  -->
   </td>
+</tr>
+</table>
+
+## <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
+<ins>Presenters underlined</ins>,  Equal contribution denoted with: *
+
+<table class="table table-hover">
+  <tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  <strong><ins>P Demetci*</ins></strong> [spotlight], <ins>R Santorella*</ins> [poster], B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ISMB Proceedings (Oral Presentation) </strong> [Acceptance Rate: 19%]<br>
+   Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
+  <ins>B Alpay*</ins>, <strong>P Demetci*</strong>, S Istrail, D Aguiar</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ISMB (Oral & Poster Presentation)</strong> [Acceptance Rate: 25%] <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+    <ins><strong>P Demetci </strong></ins> [poster], <ins>R Santorella*</ins> [oral], B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+<tr>
+  <tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>ACM-BCB: Oral Presentation</strong> [Acceptance Rate: 27%] <br>
+    Unsupervised manifold alignment for single-cell multi-omics data <br>
+ <ins>R Singh</ins>, <strong>P Demetci</strong>, G Bonora, V Ramani, C Lee, H Fang, Z Duan, X Deng, J Shendure, C Disteche, W Stafford Noble.</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>Brown Unconference on Computational Intelligence and Applications (Invited Talk)</strong> <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  <strong><ins>P Demetci*</ins></strong>, R Santorella*, B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2019</td>
+  <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> <br>
+    Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
+  <ins><strong>P Demetci</strong></ins>, W Cheng, G Darnell, S Ramachandran, L Crawford</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2016</td>
+  <td><strong>FIE (Oral Presentation) </strong> [Acceptance Rate: 48%] <br>
+    Internalization and externalization: How do they emerge and why is it important?  <br>
+  <ins><strong>P Demetci</strong></ins>, <ins>C Nichols</ins>, Y V Zastavker, J D Stolk, A Dillon, M D Gross</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2016</td>
+  <td><strong>NEMPET (Poster Presentation) </strong> <br>
+    Bioinformatic Comparison of Phototrophic Communitiesthat Degrade Cellulose and Fix Nitrogen  <br>
+  <ins><strong>P Demetci</strong></ins>, M Sheets, A Knapp, Linda Amaral-Zettler, Jean Huang</td>
+</tr>
+<tr>
+  <td class='col-md-1'>2015</td>
+  <td><strong>Closing the Gap (Oral Presentation) </strong> <br>
+    Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
+  <ins><strong>P Demetci</strong></ins>, <ins>A Johnnson</ins>, <ins>M Ruehle</ins>, P Ruvolo</td>
+</tr>
+</table>
+
+## <i class="fa fa-chevron-right"></i> Teaching Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-1'>Spring 2019</td>
+  <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.)<br>
+  Teaching Assistant: wrote and graded assignments, held recitations and office hours, lectured a few times.</td>
+</tr>
+<tr>
+  <td class='col-md-1'>Fall 2016</td>
+  <td><strong>Designing Better Drugs </strong> (SCI1240 @ Olin College)<br>
+   Teaching and Laboratory Assistant: graded assignments, assisted students in the laboratory.</td>
 </tr>
 </table>
 
