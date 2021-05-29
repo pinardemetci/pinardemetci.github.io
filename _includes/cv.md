@@ -243,13 +243,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <ins><strong>P Demetci </strong></ins> [poster], <ins>R Santorella*</ins> [oral], B Sandstede, W Stafford Noble, R Singh</td>
 </tr>
 <tr>
-  <tr>
-  <td class='col-md-1'>2020</td>
-  <td><strong>ACM-BCB: Oral Presentation</strong> [Acceptance Rate: 27%] <br>
-    Unsupervised manifold alignment for single-cell multi-omics data <br>
- <ins>R Singh</ins>, <strong>P Demetci</strong>, G Bonora, V Ramani, C Lee, H Fang, Z Duan, X Deng, J Shendure, C Disteche, W Stafford Noble.</td>
-</tr>
-<tr>
   <td class='col-md-1'>2020</td>
   <td><strong>Brown Unconference on Computational Intelligence and Applications (Invited Talk)</strong> <br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
@@ -281,7 +274,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience
+<!-- ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>Spring 2019</td>
@@ -372,3 +365,4 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
 </table>
+ -->
