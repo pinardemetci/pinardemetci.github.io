@@ -292,7 +292,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 ## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
-tr>
+<tr>
     <td class='col-md-2'>2020 - Present </td>
     <td>
       Society for Industrial and Applied Mathematics (SIAM)
