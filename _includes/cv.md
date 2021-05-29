@@ -321,3 +321,49 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
 </table>
+
+## <i class="fa fa-chevron-right"></i> Skills
+<table class="table table-hover">
+<tr>
+    <td class='col-md-2'>Programming Languages</td>
+    <td>
+      More experienced: Python, R, MATLAB -- Less experienced: Java, C++ 
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Frameworks</td>
+    <td>
+      NumPy, Pandas, SciPy, PyTorch, Pyro, TensorFlow, Tensorflow-Probability, HDF5, Bioconductor, Seurat
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Systems</td>
+    <td>
+      Linux, OSX, High Performance Cluster Computing, slurm, Google Cloud Computing, Microsoft Azure
+      <!--  -->
+    </td>
+  </tr>
+    <tr>
+    <td class='col-md-2'>Bioinformatics Tools</td>
+    <td>
+     GATK, VCFtools, BCFtools, BEDtools, PLINK, Cromwell, Cytoscape, QIIME, VAMPS, JGI
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>Laboratory</td>
+    <td>
+      DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
+      <!--  -->
+    </td>
+  </tr>
+   <tr>
+    <td class='col-md-2'>Natural Languages</td>
+    <td>
+      English (Proficient), Turkish (Native Language), French (A2-Level proficiency)
+      <!--  -->
+    </td>
+  </tr>
+</table>
