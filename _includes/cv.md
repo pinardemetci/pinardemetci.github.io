@@ -273,3 +273,18 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <ins><strong>P Demetci</strong></ins>, <ins>A Johnnson</ins>, <ins>M Ruehle</ins>, P Ruvolo</td>
 </tr>
 </table>
+
+
+## <i class="fa fa-chevron-right"></i> Teaching Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-1'>Spring 2019</td>
+  <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.)<br>
+  Teaching Assistant: wrote and graded assignments, held recitations and office hours, lectured a few times.</td>
+</tr>
+<tr>
+  <td class='col-md-1'>Fall 2016</td>
+  <td><strong>Designing Better Drugs </strong> (SCI1240 @ Olin College)<br>
+   Teaching and Laboratory Assistant: graded assignments, assisted students in the laboratory.</td>
+</tr>
+</table>
