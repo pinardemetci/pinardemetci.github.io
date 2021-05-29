@@ -288,3 +288,36 @@ Expression of motility genes is a potentially beneficial but costly process in b
    Teaching and Laboratory Assistant: graded assignments, assisted students in the laboratory.</td>
 </tr>
 </table>
+
+
+## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
+<table class="table table-hover">
+tr>
+    <td class='col-md-2'>2020 - Present </td>
+    <td>
+      Society for Industrial and Applied Mathematics (SIAM)
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>2018 - Present</td>
+    <td>
+      International Society for Computational Biology (ISCB)
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>2018 - Present</td>
+    <td>
+      Models, Inference, and Algorithms (MIA) at Broad Institute
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-2'>Member</td>
+    <td>
+      Graduate Women in Science and Engineering @ Brown University
+      <!--  -->
+    </td>
+  </tr>
+</table>
