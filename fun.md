@@ -4,7 +4,11 @@ title: "Fun"
 ---
 
 # Fun and Hobbies
-Coming Soon.
+As we all know, mentorship matters. In my spare time, one of the things I like to do is introduce our foster cats to the world of computational biology.
+
+Here, you can find Wheezy listen to my [labmate Jeremy]() present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper:
+![](images/wheezyLearning.jpeg)
+
 <table class="table table-hover">
   {% for post in site.posts %}
     {% unless post.draft %}

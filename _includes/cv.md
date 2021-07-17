@@ -1,8 +1,8 @@
-I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My research is at the intersection of **molecular biology**, **computer science** and **statistics**. My dissertation work is on **statistical and probabilistic algorithms** for integrated analysis of **single-cell multi-omics data**.<br>
+I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work is on statistical and probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737)  led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
 
-Apart from computational biology, I have enjoyed working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, playing ukulele and violin, and swimming (hopefully post-pandemic). Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have enjoyed working on different STEM projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
@@ -10,7 +10,7 @@ Apart from computational biology, I have enjoyed working on different STEM proje
   <tr>
     <td class="col-md-3"> 2018 - 2023 (Expected) </td>
     <td>
-        <strong>Ph.D. in Computational Biology </strong>
+        <strong>Ph.D. in Computer Science and Computational Biology </strong>
           (3.90/4.00)
         <br>
       Brown University (Providence, RI)

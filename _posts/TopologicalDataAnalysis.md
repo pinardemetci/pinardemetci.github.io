@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take 1"
+title: "Topological Data Analysis and Applications to Genome Organization Study"
 tags: [Linux,Python,mpv]
 ---
 
