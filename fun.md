@@ -14,7 +14,6 @@ Here, you can find Kitty join a virtual [Broad MIA talk](https://www.broadinstit
 Here, you can find Wheezy listen to my [labmate Jeremy](https://rsinghlab.org/) present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper (left), and take (somewhat lukewarm) interest in coding (right):
 
 ![WheezyOT](images/wheezyLearning.jpeg){:height="200px"}
-![WheezyType](images/wheezyType.jpeg){:height="200px"}
 ![WheezySits](images/WheezSits.jpeg){:height="200px"}
 
 
