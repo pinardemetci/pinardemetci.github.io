@@ -4,7 +4,7 @@ title: "Updates"
 ---
 
 # Updates
-#### Upcoming
+##### Upcoming
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>August 2021 </td>
@@ -18,7 +18,7 @@ title: "Updates"
 </tr>
 </table>
 
-#### Past
+##### Past
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 May 2021 </td>
@@ -27,7 +27,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>02 March 2021</td>
-  <td> My Ph.D. co-adviser, Sorin Istrail, Ph.D., has been named <a href="https://www.iscb.org/iscb-news-items/4626-2021-march02-iscb-congratulates-introduces-2021-class-fellows">an International Society for Computational Biology (ISCB) fellow </a> for his "foundational contributions to computational biology, including physical mapping, protein folding, sequencing the human genome, haplotype phasing and assembly, and regulatory genomics, as well as launching the RECOMB conference and Journal of Computational Biology".</td>
+  <td> My Ph.D. co-adviser, Sorin Istrail, Ph.D., has been named <a href="https://www.iscb.org/iscb-news-items/4626-2021-march02-iscb-congratulates-introduces-2021-class-fellows">an International Society for Computational Biology (ISCB) fellow! </a></td>
 </tr>
 <tr>
 </tr>
@@ -51,7 +51,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>24 November 2020</td>
-  <td> I presented our our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. You can find the talk <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
+  <td> I presented our our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> Video <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
 </tr>
 <tr>
 </tr>
