@@ -45,7 +45,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>24 November 2020</td>
-  <td> Presented our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> Video <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
+  <td> Delivered a talk on our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> Video <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
 </tr>
 <tr>
 </tr>
@@ -57,7 +57,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>23 September 2020</td>
-  <td> My Ph.D. adviser, <a href="">Ritambhara Singh, Ph.D.</a> presents our work titled "<a href="https://dl.acm.org/doi/10.1145/3388440.3412410">Unsupervised manifold alignment for single-cell multi-omics data</a>" at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference</a></td>
+  <td> My Ph.D. adviser, <a href="">Ritambhara Singh, Ph.D.</a> presents our work titled "<a href="https://dl.acm.org/doi/10.1145/3388440.3412410">Unsupervised manifold alignment for single-cell multi-omics data</a>" at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
 </tr>
 <tr>
 </tr>
@@ -68,8 +68,32 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
+  <td class='col-md-3'>17 July 2020</td>
+  <td> Received the ICML WCB Fellowship award.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>17 July 2020</td>
+  <td> Spotlight talk (by me) and poster presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work in progress on single-cell multi-omics integration at the ICML WCB 2020. Poster presentation received the Best Poster Award.</td>
+</tr>
+<tr>
+</tr>
+<tr>
   <td class='col-md-3'>15 July 2020</td>
-  <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology - Variant Interpretation Track</a>. Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
+  <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology</a>. Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>14 July 2020</td>
+  <td> Presented our work in progress on single-cell multi-omics integration at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology</a>. Video for poster presentation (by me) is<a href="https://www.youtube.com/watch?v=urN7mwDEkhw">here</a> and the video for talk (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) is <a href="https://www.youtube.com/watch?v=zGDNe-rErJM">here</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>14 July 2020</td>
+  <td> Started my summer internship at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a> with the Genomics Team.</td>
 </tr>
 </table>
 
