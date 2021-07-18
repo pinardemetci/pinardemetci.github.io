@@ -8,10 +8,9 @@ As we all know, mentorship matters. In my spare time, one of the things I like t
 
 Here, you can find Wheezy listen to my [labmate Jeremy](https://rsinghlab.org/) present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper (left), and take (somewhat lukewarm) interest in coding (right):
 
-![One:Wheezy](images/wheezyLearning.jpeg){:height="36px"}
-<img src="images/wheezyLearning.jpeg" alt="Two:Wheezy" width="36"/>
-[<img src="images/wheezyLearning.jpeg" width="36"/>](images/wheezyLearning.jpeg)
-
+![WheezyOT](images/wheezyLearning.jpeg){:height="150px"}
+![WheezyType](images/wheezyType.jpeg){:height="150px"}
+![WheezySits](images/wheezySits.jpeg){:height="150px"}
 
 
 <table class="table table-hover">
