@@ -6,10 +6,10 @@ title: "Fun"
 # Fun and Hobbies
 As we all know, mentorship matters. In my spare time, one of the things I like to do is introduce our foster cats to the world of computational biology. Two of them decided that this is indeed the field for them!
 
-Here, you can find Kitty join a virtual [Broad MIA talk](https://www.broadinstitute.org/talks/spring-2021/mia) with me and learn about the applications of graph neural networks for modeling protein-protein interactions, as presented by the [Marinka Zitnik Lab](https://zitniklab.hms.harvard.edu/):
-![KittyLooks](images/KittyLooks.jpeg){:height="200px"}
-![KittyPPI](images/KittyPPI.jpeg){:height="200px"}
+Here, you can find Kitty join a virtual [Broad MIA talk](https://www.broadinstitute.org/talks/spring-2021/mia) with me and learn about the applications of graph neural networks for modeling protein-protein interactions, as presented by the [Marinka Zitnik Lab](https://zitniklab.hms.harvard.edu/):<br>
 
+![KittyLooks](images/KittyLooks.jpeg){:height="200px"}
+![KittyPPI](images/KittyPPI.jpeg){:height="200px"} <br>
 
 Here, you can find Wheezy listen to my [labmate Jeremy](https://rsinghlab.org/) present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper (left), and take (somewhat lukewarm) interest in coding (right):
 
