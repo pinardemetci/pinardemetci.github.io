@@ -6,9 +6,11 @@ title: "Fun"
 # Fun and Hobbies
 As we all know, mentorship matters. In my spare time, one of the things I like to do is introduce our foster cats to the world of computational biology. Two of them decided that this is indeed the field for them!
 
-Here, you can find Wheezy listen to my [labmate Jeremy](https://rsinghlab.org/) present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper:
+Here, you can find Wheezy listen to my [labmate Jeremy](https://rsinghlab.org/) present the [WaddingtonOT](https://www.cell.com/cell/pdf/S0092-8674(19)30039-X.pdf) paper (left), and take (somewhat lukewarm) interest in coding (right):
 
-![](./images/wheezyLearning.jpeg =100x)
+![](images/wheezyLearning.jpeg =200x)
+![wheezy](images/wheezyLearning.jpeg){ width=10% }
+<img src="images/wheezyLearning.jpeg" width="200">
 
 
 
