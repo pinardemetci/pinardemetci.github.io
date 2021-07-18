@@ -53,7 +53,24 @@ title: "Updates"
   <td class='col-md-3'>10 November 2020</td>
   <td> Poster presentation on applications of optimal transport to single-cell multi-omics at the <a href="https://www.ima.umn.edu/2020-2021.1/W11.9-13.20">Workshop on Optimal Control, Optimal Transport, and Data Science</a> hosted by <a href="https://www.ima.umn.edu/">University of Minnesota Institute for Mathematics and Its Applications (IMA).</a> </td>
 </tr>
-
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>23 September 2020</td>
+  <td> My Ph.D. adviser, <a href="">Ritambhara Singh, Ph.D.</a> presents our work titled "<a href="https://dl.acm.org/doi/10.1145/3388440.3412410">Unsupervised manifold alignment for single-cell multi-omics data</a>" at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>18 September 2020</td>
+  <td> Last day of my internship at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research.</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>15 July 2020</td>
+  <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology - Variant Interpretation Track</a>. Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
+</tr>
 </table>
 
 <table class="table table-hover">
