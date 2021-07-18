@@ -8,13 +8,13 @@ title: "Updates"
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>August 2021 </td>
-  <td> Presenting "Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data" at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
+  <td> Presenting <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'>December 2021</td>
-  <td>Invited speaker at "Optimal Transport in Machine Learning" Workshop at 2021 Conference on Neural Information Processing Systems (NeurIPS).</td>
+  <td>Invited speaker at "Optimal Transport in Machine Learning" Workshop at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
 </table>
 
@@ -22,7 +22,7 @@ title: "Updates"
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 May 2021 </td>
-  <td> I passed my qualifying exam, defended my dissertation proposal, and advanced to candidacy!</td>
+  <td> Passed my qualifying exam, defended my dissertation proposal, and advanced to candidacy!</td>
 </tr><tr>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>17 February 2021</td>
-  <td> I established my thesis committee and held an exploratory meeting to discuss my Ph.D. dissertation proposal.</td>
+  <td> Established my thesis committee and held an exploratory meeting to discuss my Ph.D. dissertation proposal.</td>
 </tr>
 <tr>
 </tr>
@@ -45,13 +45,13 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>24 November 2020</td>
-  <td> I presented our our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> Video <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
+  <td> Presented our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> Video <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'>10 November 2020</td>
-  <td> <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a> and I presented our work on applications of optimal transport theory to single-cell multi-omics with a poster at the <a href="https://www.ima.umn.edu/2020-2021.1/W11.9-13.20"> Workshop on Optimal Control, Optimal Transport, and Data Science </a> hosted by <a href="https://www.ima.umn.edu/"> University of Minnesota Institute for Mathematics and Its Applications (IMA).</a> </td>
+  <td> Poster presentation on applications of optimal transport to single-cell multi-omics at the <a href="https://www.ima.umn.edu/2020-2021.1/W11.9-13.20">Workshop on Optimal Control, Optimal Transport, and Data Science</a> hosted by <a href="https://www.ima.umn.edu/">University of Minnesota Institute for Mathematics and Its Applications (IMA).</a> </td>
 </tr>
 
 </table>
