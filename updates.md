@@ -56,6 +56,12 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
+  <td class='col-md-3'>28 October 2020</td>
+  <td> Served as a reviewer for the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/">Machine Learning in Computational Biology (MLCB) conference.</a> </td>
+</tr>
+<tr>
+</tr>
+<tr>
   <td class='col-md-3'>23 September 2020</td>
   <td> My Ph.D. adviser, <a href="">Ritambhara Singh, Ph.D.</a> presents our work titled "<a href="https://dl.acm.org/doi/10.1145/3388440.3412410">Unsupervised manifold alignment for single-cell multi-omics data</a>" at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
 </tr>
@@ -69,7 +75,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>17 July 2020</td>
-  <td> Received the ICML WCB Fellowship award.</td>
+  <td> Received the 2020 ICML WCB Fellowship award.</td>
 </tr>
 <tr>
 </tr>
@@ -92,8 +98,32 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>14 July 2020</td>
+  <td class='col-md-3'>29 June 2020</td>
+  <td> Delivered a talk on optimal transport theory applications on single-cell multi-omics integration at the <a href="https://unconference.brown.edu/"> 2020 Brown Unconference on Computational Intelligence and Applications. </a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>15 June 2020</td>
   <td> Started my summer internship at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a> with the Genomics Team.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>13 April 2020</td>
+  <td> Our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> got accepted for publication and presentation at the<a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>30 October 2019</td>
+  <td> Delivered an invited talk on <a href="https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3">Bayesian hierarchical models for multi-scale genomic association</a> at the<a href="https://datasci.brown.edu/ccvcon/"> 2019 CCV-Con.</a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>02 July 2019</td>
+  <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19">"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
 </table>
 
