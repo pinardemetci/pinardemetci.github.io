@@ -4,9 +4,9 @@ title: "Fun"
 ---
 
 # Fun and Hobbies
-My favorite pastime is playing boardgames with friends. And thanks to Covid-19 vaccines, we are now able to do that in person again! :)
-![SomervilleBoardgame](images/SomervilleBoardgame.png){:height="200px"}
-*My college friends and I playing Circus -- 07/19/2021*
+My favorite pastime is playing boardgames with friends. And thanks to Covid-19 vaccines, we are now able to do that in person again! :) <br>
+![SomervilleBoardgame](images/SomervilleBoardgame.png){:height="300px"}<br>
+*My college friends and I playing [Meeple Circus](https://boardgamegeek.com/boardgame/193214/meeple-circus) -- 07/19/2021 Somerville,MA*
 
 As we all know, mentorship matters. In my spare time, one of the things I like to do is introduce our foster cats to the world of computational biology. Two of them decided that this is indeed the field for them!
 
