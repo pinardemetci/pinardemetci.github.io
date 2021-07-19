@@ -81,7 +81,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>17 July 2020</td>
-  <td> Spotlight talk (by me) and poster presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning - Workshop on Computational Biology (ICML WCB)</a>. Poster presentation received the Best Poster Award.</td>
+  <td> Spotlight talk (by me) and poster presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning (ICML) - Workshop on Computational Biology)</a>. Poster presentation received the Best Poster Award.</td>
 </tr>
 <tr>
 </tr>
@@ -93,7 +93,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>14 July 2020</td>
-  <td> Presented our work on single-cell multi-omics integration at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>.<br> Video for poster presentation (by me) is <a href="https://www.youtube.com/watch?v=urN7mwDEkhw">here</a> and the video for talk (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) is <a href="https://www.youtube.com/watch?v=zGDNe-rErJM">here</a></td>
+  <td> Presented our work on single-cell multi-omics integration at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. Video for poster presentation (by me) is <a href="https://www.youtube.com/watch?v=urN7mwDEkhw">here</a> and the video for talk (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) is <a href="https://www.youtube.com/watch?v=zGDNe-rErJM">here</a></td>
 </tr>
 <tr>
 </tr>
