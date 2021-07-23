@@ -23,12 +23,12 @@ Coming soon.
   border-left: 1px solid #dfdfdf;
   border-right: 1px solid #dfdfdf;
 }
- .img { max-height: 100%; max-width: 50% }
+.img { max-height: 75%; max-width: 100% }
 </style>
 
 <div class="grid-container">
   <div class="grid-item">
-    <div class="img"> <img src="images/cat3.jpeg" alt="Cat"> </div>
+    <img src="images/cat3.jpeg" alt="Cat">
   1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
