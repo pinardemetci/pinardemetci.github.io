@@ -12,7 +12,7 @@ Coming soon.
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-columns: 250px 250px 250px 250px;
   grid-template-rows: 250px 250px 250px 250px;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
@@ -35,6 +35,9 @@ Coming soon.
   <div class="grid-item">7</div>
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
+  <div class="grid-item">10</div>
+  <div class="grid-item">11</div>
+  <div class="grid-item">12</div>
 </div>
 </html>
 
