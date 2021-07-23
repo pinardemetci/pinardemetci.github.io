@@ -26,16 +26,12 @@ Coming soon.
   border-left: 1.5px solid #4287f5;
   border-right: 1.5px solid #4287f5;
 }
-./*grid-item img{  
-  border: 0px
-  height: 75%; 
-  width: 100% 
+img {
+  border-radius: 10px;
+  border:0px;
+  border-style: none;
 }
-.img { 
-  border: 0px
-  height: 75%; 
-  width: 100% 
-}*/
+
 </style>
 
 <div class="grid-container">
