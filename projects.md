@@ -8,6 +8,16 @@ nav: true
 # Projects
 Coming soon.
 
+<html>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: 150px 150px 150px;
+  grid-column-gap: 25px;
+  grid-row-gap: 25px;
+}
+</style>
+
 <div class="grid-container">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
@@ -19,6 +29,7 @@ Coming soon.
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div>
+</html>
 
 <table class="table table-hover">
   {% for post in site.posts %}
