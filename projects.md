@@ -12,10 +12,16 @@ Coming soon.
 <style>
 .grid-container {
   display: grid;
+  padding-left: 25px;
+  padding-right: 25px;
   grid-template-columns: 200px 200px 200px;
-  grid-template-rows: 400px 400px 400px;
+  grid-template-rows: 300px 300px 300px;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
+  border-top: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
+  border-left: 1px solid #dfdfdf;
+  border-right: 1px solid #dfdfdf;
 }
 </style>
 
