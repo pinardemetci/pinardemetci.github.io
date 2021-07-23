@@ -18,14 +18,16 @@ Coming soon.
   grid-row-gap: 15px;
 }
 .grid-item {
-  border-top: 1px solid #dfdfdf;
-  border-bottom: 1px solid #dfdfdf;
-  border-left: 1px solid #dfdfdf;
-  border-right: 1px solid #dfdfdf;
+
+  border-top: 2px solid #dfdfdf;
+  border-bottom: 2px solid #dfdfdf;
+  border-left: 2px solid #dfdfdf;
+  border-right: 2px solid #dfdfdf;
 }
 .img { 
-  max-height: 75%; 
-  max-width: 100% 
+  border-style: none
+  height: 75%; 
+  width: 100% 
 }
 </style>
 
