@@ -23,14 +23,14 @@ Coming soon.
   border-left: 1px solid #dfdfdf;
   border-right: 1px solid #dfdfdf;
 }
-/*.img { 
+.img { 
   max-height: 75%; 
   max-width: 100% 
-}*/
+}
 </style>
 
 <div class="grid-container">
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png" width="200" height="150"> </div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> </div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
   <div class="grid-item">4</div>
