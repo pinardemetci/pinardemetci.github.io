@@ -25,7 +25,7 @@ Coming soon.
   border-bottom: 1.5px solid #8c8c8c;
   border-left: 1.5px solid #8c8c8c;
   border-right: 1.5px solid #8c8c8c;
-  box-shadow: 5px 5px;
+  box-shadow: 2px 5px #8c8c8c;
 }
 div.grid-item>img {
   border-radius: 5px;
