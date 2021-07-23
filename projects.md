@@ -30,7 +30,7 @@ Coming soon.
 </style>
 
 <div class="grid-container">
-  <div class="grid-item"> <img src="images/cat3.jpeg" width="225" height="300"> 1 </div>
+  <div class="grid-item"> <img src="images/SomervilleBoardgame.png" width="200" height="150"> </div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
   <div class="grid-item">4</div>
