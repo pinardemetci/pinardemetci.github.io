@@ -12,7 +12,8 @@ Coming soon.
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: 150px 150px 150px;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 400px 400px 400px;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
 }
