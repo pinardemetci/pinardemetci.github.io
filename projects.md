@@ -21,10 +21,10 @@ Coming soon.
   border-radius: 20px;
   width: 225px;
   height: 300px; 
-/*  border-top: 2px solid #000000;
+  border-top: 2px solid #000000;
   border-bottom: 2px solid #000000;
   border-left: 2px solid #000000;
-  border-right: 2px solid #000000;*/
+  border-right: 2px solid #000000;
 }
 .img { 
   border: none
