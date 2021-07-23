@@ -30,6 +30,7 @@ img {
   border-radius: 10px;
   border:0px;
   border-style: none;
+  display: block;
 }
 
 </style>
