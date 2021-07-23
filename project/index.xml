@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Da-Inn Erika Lee</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Da-Inn Erika Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Da-Inn Erika Lee</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicago L Train Ridership Pattern</title>
+      <link>/project/chicago-l/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/chicago-l/</guid>
+      <description>Where are the high-growth, demographically suitable areas for a new spinning club franchise?</description>
+    </item>
+    
+    <item>
+      <title>Convolutional neural network (CNN) for predicting Hi-C interaction counts</title>
+      <link>/project/cnn-hic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cnn-hic/</guid>
+      <description>Can deep learning model predict which regions of our genetic code influence each other?</description>
+    </item>
+    
+    <item>
+      <title>Greedy approach to maximizing gradient diversity for minibatch SGD</title>
+      <link>/project/minibatch-sgd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/minibatch-sgd/</guid>
+      <description>How do we scale distributed gradient descent to a large batch size?</description>
+    </item>
+    
+    <item>
+      <title>Higher Understanding with Lower Dimensions</title>
+      <link>/project/dimred-glbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dimred-glbio/</guid>
+      <description>Dimension Reduction Tutorial at GLBIO 2019</description>
+    </item>
+    
+    <item>
+      <title>Predicting epidemiological trends with cellular automata</title>
+      <link>/project/ca-flu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ca-flu/</guid>
+      <description>How can we predict flu outbreaks by looking at our own and our neighbor’s history?</description>
+    </item>
+    
+    <item>
+      <title>WACM Explains: Machine Learning</title>
+      <link>/project/wacm-ml/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wacm-ml/</guid>
+      <description>Women in Association for Computing Machinery (WACM) workshop on fundamentals of machine learning</description>
+    </item>
+    
+  </channel>
+</rss>
