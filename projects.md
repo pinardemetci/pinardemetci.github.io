@@ -23,7 +23,10 @@ Coming soon.
   border-left: 1px solid #dfdfdf;
   border-right: 1px solid #dfdfdf;
 }
-.img { max-height: 75%; max-width: 100% }
+/*.img { 
+  max-height: 75%; 
+  max-width: 100% 
+}*/
 </style>
 
 <div class="grid-container">
