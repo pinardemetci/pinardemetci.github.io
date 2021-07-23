@@ -20,13 +20,13 @@ Coming soon.
 .grid-item {
   border-radius: 10px;
   width: 225px;
-  height: 300px; 
-  border-top: 1.5px solid #4287f5;
-  border-bottom: 1.5px solid #4287f5;
-  border-left: 1.5px solid #4287f5;
-  border-right: 1.5px solid #4287f5;
+  height: 250px; 
+  border-top: 1.5px solid #8c8c8c;
+  border-bottom: 1.5px solid #8c8c8c;
+  border-left: 1.5px solid #8c8c8c;
+  border-right: 1.5px solid #8c8c8c;
 }
-img {
+div.grid-item>img {
   border-radius: 10px;
   border:0px;
   border-style: none;
@@ -36,7 +36,7 @@ img {
 </style>
 
 <div class="grid-container">
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> Optical tweezers to manipulate single cells </div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> <h5> Optical tweezers to manipulate single cells </h5></div>
   <div class="grid-item"> Selecting single cells with microfluidics </div>
   <div class="grid-item"> Amateur telescope making </div>
   <div class="grid-item"> Low cost sickle cell diagnostics </div>
