@@ -13,14 +13,14 @@ Coming soon.
 .grid-container {
   display: grid;
   grid-template-columns: 225px 225px 225px 225px;
-  grid-template-rows: 300px 300px 300px 300px;
+  grid-template-rows: 250px 250px 250px 250px;
   grid-column-gap: 15px;
   grid-row-gap: 15px;
 }
 .grid-item {
   border-radius: 10px;
-  width: 225px;
-  height: 250px; 
+/*  width: 225px;
+  height: 250px; */
   border-top: 1.5px solid #8c8c8c;
   border-bottom: 1.5px solid #8c8c8c;
   border-left: 1.5px solid #8c8c8c;
