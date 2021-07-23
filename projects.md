@@ -18,14 +18,16 @@ Coming soon.
   grid-row-gap: 15px;
 }
 .grid-item {
-  border-radius: 25px;
+  border-radius: 20px;
+  width: 225px;
+  height: 300px; 
 /*  border-top: 2px solid #000000;
   border-bottom: 2px solid #000000;
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;*/
 }
 .img { 
-  border-style: none
+  border: none
   height: 75%; 
   width: 100% 
 }
