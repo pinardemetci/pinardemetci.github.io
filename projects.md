@@ -18,7 +18,7 @@ Coming soon.
   grid-row-gap: 15px;
 }
 .grid-item {
-  border-radius: 10px;
+  border-radius: 5px;
 /*  width: 225px;
   height: 250px; */
   border-top: 1.5px solid #8c8c8c;
@@ -27,7 +27,7 @@ Coming soon.
   border-right: 1.5px solid #8c8c8c;
 }
 div.grid-item>img {
-  border-radius: 10px;
+  border-radius: 5px;
   border:0px;
   border-style: none;
   display: block;
