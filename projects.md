@@ -21,11 +21,11 @@ Coming soon.
   border-radius: 5px;
 /*  width: 225px;
   height: 250px; */
-  border-top: 1.5px solid #8c8c8c;
-  border-bottom: 1.5px solid #8c8c8c;
-  border-left: 1.5px solid #8c8c8c;
-  border-right: 1.5px solid #8c8c8c;
-  box-shadow: 2px 5px #8c8c8c;
+  border-top: 0px solid #8c8c8c;
+  border-bottom: 0px solid #8c8c8c;
+  border-left: 0px solid #8c8c8c;
+  border-right: 0px solid #8c8c8c;
+  box-shadow: 1px 5px #8c8c8c;
 }
 div.grid-item>img {
   border-radius: 5px;
