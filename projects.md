@@ -69,14 +69,7 @@ div.button:hover{
   background: white;
   color: #4582ec;
 }
-
-.button-container2 {
-  display: grid;
-  grid-template-columns: 100px 210px 225px 100px 175px;
-  grid-column-gap: 5px;
-  grid-row-gap: 5px;
-}
-.button2{
+.selectedButton{
   background: white;
   border-radius: 10px;
   color: #4582ec;
@@ -84,31 +77,16 @@ div.button:hover{
   border: 0px;
   box-shadow: 5px 5px 5px #cccccc;
 }
-div.button2:hover{
-  cursor: pointer;
-  box-shadow: 10px 10px 10px #bbbbbb;
-  background: #4582ec;
-  color: white;
-}
+
 
 </style>
 
 <div class="button-container">
-  <div class="button"><h6>All</h6></div>
+  <div class="selectedButton"><h6>All</h6></div>
   <div class="button"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
   <div class="button"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
   <div class="button"><h6>Biology</h6></div> <!-- Biology -->
-  <div class="button"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
-  <br>
-</div>
-
-
-<div class="button-container2">
-  <div class="button2"><h6>All</h6></div>
-  <div class="button2"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
-  <div class="button2"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
-  <div class="button2"><h6>Biology</h6></div> <!-- Biology -->
-  <div class="button2"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
+  <div class="button"><h6>Arts & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
   <br>
 </div>
 
