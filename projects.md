@@ -49,7 +49,7 @@ div.grid-item:hover>h5{
 }
 .button-container {
   display: grid;
-  grid-template-columns: 200px 200px 100px 175px;
+  grid-template-columns: 210px 225px 100px 175px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
@@ -59,14 +59,15 @@ div.grid-item:hover>h5{
   color: white;
   text-align: center;
   border: 0px;
-  box-shadow: 3px 4px 5px #cccccc;
+  box-shadow: 5px 5px 5px #dddddd;
 }
 
 </style>
 
 <div class="button-container">
+  Toggle projects:
   <div class="button"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
-  <div class="button"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
+  <div class="button"><p>Engineering & Bioengineering</p></div> <!-- Engineering / Bioengineering -->
   <div class="button"><h6>Biology</h6></div> <!-- Biology -->
   <div class="button"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
   <br>
