@@ -56,6 +56,7 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur handmade telescope making </h5></div>
    <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari2.png"><h5> Imaging software for low cost sickle cell diagnostics </h5></div>  
+   <div class="grid-item"><img src="http://pinardemetci.github.io/images/eyehelper.png"><h5> EyeHelper: Assistive software for blind shopping and navigation</h5></div>  
      <div class="grid-item"><img src="http://pinardemetci.github.io/images/otter.jpeg"><h5> Otter: Newborn warmer compatible with phototherapy </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays PacMan </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images with SIFT </h5></div>
@@ -64,8 +65,8 @@ div.grid-item:hover>h5{
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/EPS.png"><h5> Exopolysaccharide producing phototrophic bacterial communities </h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/keio.jpeg"><h5> Motility inducing secondary mutations in E.coli knockouts</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/biomechanics.png"><h5> Biomechanical analysis of ultralight and standard hiking backpacks</h5></div>
+  <div class="grid-item"><img src="http://pinardemetci.github.io/images/3DScanner.png"><h5> 3D scanner with Arduino </h5></div>
   <div class="grid-item"> <h5> Recurrent neural networks for French <-> English machine translation </h5></div>
-  <div class="grid-item"> <h5> 3D scanner with Arduino </h5></div>
   <div class="grid-item"><h5> Line following robot with simple PID control </h5></div>
 </div>
 </html>
