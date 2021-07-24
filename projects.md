@@ -21,14 +21,14 @@ Coming soon.
   border-radius: 5px;
 /*  width: 225px;
   height: 250px; */
-  border-top: 0px solid #8c8c8c;
-  border-bottom: 0px solid #8c8c8c;
-  border-left: 0px solid #8c8c8c;
-  border-right: 0px solid #8c8c8c;
-  box-shadow: 1px 5px #8c8c8c;
+  border-top: 0px solid #d9d9d9;
+  border-bottom: 0px solid #d9d9d9;
+  border-left: 0px solid #d9d9d9;
+  border-right: 0px solid #d9d9d9;
+  box-shadow: 1.5px 3px 1px #d9d9d9;
 }
 div.grid-item>img {
-  border-radius: 5px;
+  border-radius: 7px;
   border:0px;
   border-style: none;
   display: block;
