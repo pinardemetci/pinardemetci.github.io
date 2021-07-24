@@ -51,7 +51,7 @@ div.grid-item:hover>h5{
 </style>
 
 <div class="grid-container">
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> <h5> Optical tweezers to manipulate single cells </h5></div>
+  <div class="grid-item"> <h5> Optical tweezers to manipulate single cells </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur telescope making </h5></div>
   <div class="grid-item"> <h5> Bio-imaging software for low cost sickle cell diagnostics </h5></div>  
@@ -59,7 +59,7 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays Pacman </h5></div>
   
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5> 3D reconstruction from 2D images </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5> Computational 3D scene reconstruction from 2D images </h5></div>
   <div class="grid-item">9</div>
   <div class="grid-item">10</div>
   <div class="grid-item">11</div>
