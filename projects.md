@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 # Projects
-I've had the opportunity to work on a number of engineering, science, and modeling projects. Here, you can browse a selection of them:
+I've had the opportunity to work on a number of engineering, science, coding and modeling projects. Here, you can browse a selection of them:
 
 <html>
 <style>
@@ -57,8 +57,9 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <h5> Bio-imaging software for low cost sickle cell diagnostics </h5></div>  
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/otter.jpeg"><h5> Otter: Newborn warmer compatible with phototherapy </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images </h5></div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays Pacman </h5></div>
+  
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5> 3D reconstruction from 2D images </h5></div>
   <div class="grid-item">9</div>
   <div class="grid-item">10</div>
   <div class="grid-item">11</div>
