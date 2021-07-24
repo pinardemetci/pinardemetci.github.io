@@ -54,7 +54,7 @@ div.grid-item:hover>h5{
 <div class="grid-container">
   <div class="grid-item"> <h5> Optical tweezers for non-contact manipulation of single cells </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur handmade telescope making </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur handmade mirror telescope </h5></div>
    <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari2.png"><h5> Imaging software for low cost sickle cell diagnostics </h5></div>  
    <div class="grid-item"><img src="http://pinardemetci.github.io/images/eyeHelper.png"><h5> EyeHelper: Assistive software for blind shopping and navigation</h5></div>  
      <div class="grid-item"><img src="http://pinardemetci.github.io/images/otter.jpeg"><h5> Otter: Newborn warmer compatible with phototherapy </h5></div>
