@@ -47,9 +47,22 @@ div.grid-item:hover{
 div.grid-item:hover>h5{
   color: #4582ec;
 }
-
+.button-container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: 10px;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+}
 
 </style>
+
+<div class="button-container">
+  <div class="button"><h5>Computing / ML / Modeling</h5></div>
+  <div class="button"><h5>Engineering / Bioengineering</h5></div>
+  <div class="button"><h5>Biology</h5></div>
+  <div class="button"><h5>Art & Miscellaneous</h5></div>
+</div>
 
 <div class="grid-container">
   <div class="grid-item"> <h5> Optical tweezers for non-contact manipulation of single cells </h5></div>
