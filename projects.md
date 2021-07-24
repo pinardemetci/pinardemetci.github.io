@@ -50,18 +50,25 @@ div.grid-item:hover>h5{
 .button-container {
   display: grid;
   grid-template-columns: 50px 50px 50px 50px;
-  grid-template-rows: 10px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
+}
+.button{
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+/*  box-shadow: 3px 4px 5px #cccccc;*/
 }
 
 </style>
 
 <div class="button-container">
-  <div class="button"><h5>Computing / ML / Modeling</h5></div>
-  <div class="button"><h5>Engineering / Bioengineering</h5></div>
-  <div class="button"><h5>Biology</h5></div>
-  <div class="button"><h5>Art & Miscellaneous</h5></div>
+  <div class="button"><h6>B1</h6></div><!-- Computing / ML / Modeling -->
+  <div class="button"><h6>B2</h6></div> <!-- Engineering / Bioengineering -->
+  <div class="button"><h6>B3</h6></div> <!-- Biology -->
+  <div class="button"><h6>B4</h6></div> <!-- Art & Miscellaneous -->
+  <br>
 </div>
 
 <div class="grid-container">
