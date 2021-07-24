@@ -47,9 +47,11 @@ div.grid-item:hover{
 div.grid-item:hover>h5{
   color: #4582ec;
 }
+
+
 .button-container {
   display: grid;
-  grid-template-columns: 150px 210px 225px 100px 175px;
+  grid-template-columns: 100px 210px 225px 100px 175px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
@@ -59,23 +61,54 @@ div.grid-item:hover>h5{
   color: white;
   text-align: center;
   border: 0px;
-  box-shadow: 5px 5px 5px #dddddd;
+  box-shadow: 5px 5px 5px #cccccc;
 }
-.toggle-cell{
+div.button:hover{
+  cursor: pointer;
+  box-shadow: 10px 10px 10px #bbbbbb;
   background: white;
-  color: black;
-  text-align: left;
+  color: #4582ec;
+}
+
+.button-container2 {
+  display: grid;
+  grid-template-columns: 100px 210px 225px 100px 175px;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+}
+.button2{
+  background: white;
+  border-radius: 10px;
+  color: #4582ec;
+  text-align: center;
   border: 0px;
+  box-shadow: 5px 5px 5px #cccccc;
+}
+div.button2:hover{
+  cursor: pointer;
+  box-shadow: 10px 10px 10px #bbbbbb;
+  background: #4582ec;
+  color: white;
 }
 
 </style>
 
 <div class="button-container">
-  <div class="toggle-cell"><h6>Toggle projects:</h6></div>
+  <div class="button"><h6>All</h6></div>
   <div class="button"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
   <div class="button"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
   <div class="button"><h6>Biology</h6></div> <!-- Biology -->
   <div class="button"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
+  <br>
+</div>
+
+
+<div class="button-container2">
+  <div class="button2"><h6>All</h6></div>
+  <div class="button2"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
+  <div class="button2"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
+  <div class="button2"><h6>Biology</h6></div> <!-- Biology -->
+  <div class="button2"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
   <br>
 </div>
 
