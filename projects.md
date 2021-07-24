@@ -13,7 +13,7 @@ Outside of my dissertation research, I've had the opportunity to work on a numbe
 .grid-container {
   display: grid;
   grid-template-columns: 225px 225px 225px 225px;
-  grid-template-rows: 250px 250px 250px 250px;
+  /*grid-template-rows: 250px 250px 250px 250px;*/
   grid-column-gap: 15px;
   grid-row-gap: 15px;
 }
