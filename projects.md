@@ -67,8 +67,8 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <h5> Recurrent neural networks for French <--> English machine translation </h5></div>
   <div class="grid-item"> <h5> 3D scanner with Arduino </h5></div>
   <div class="grid-item"><h5> Line following robot with simple PID control </h5></div>
-  <div class="grid-item"><h5> Exopolysaccharide producing bacterial communities </h5></div>
-  <div class="grid-item"><h5> Motility inducing secondary mutations in E.coli knockouts</h5></div>
+  <div class="grid-item"><img src="http://pinardemetci.github.io/images/EPS.png"><h5> Exopolysaccharide producing bacterial communities </h5></div>
+  <div class="grid-item"><img src="http://pinardemetci.github.io/images/keio.jpeg"><h5> Motility inducing secondary mutations in E.coli knockouts</h5></div>
 </div>
 </html>
 <!--  biomechanics, generative model, graph network molecules, MCM model, modsim??? -->
