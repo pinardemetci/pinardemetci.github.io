@@ -327,7 +327,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
     <td class='col-md-2'><strong>Programming Languages</strong></td>
     <td>
-      More experienced: Python, R, MATLAB<br>Less experienced: Java, C++ 
+      More experienced: Python, R, MATLAB<br>Less experienced: Java, C++, SQL, noSQL 
       <!--  -->
     </td>
   </tr>
