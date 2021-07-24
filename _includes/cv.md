@@ -64,11 +64,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Research Projects and Publications <a href=""><i class="fa fa-code-fork" aria-hidden="true"></i></a>
-
-<a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
+## <i class="fa fa-chevron-right"></i> Research Projects and Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
 <h2>2021</h2>
 <table class="table table-hover">
 <tr>
