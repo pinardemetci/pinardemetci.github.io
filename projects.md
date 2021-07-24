@@ -35,6 +35,12 @@ div.grid-item>img {
 }
 
 div.grid-item:hover>h5{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+
+}
+
+div.grid-item:hover>h5{
   color: #4582ec;
 }
 
@@ -43,10 +49,10 @@ div.grid-item:hover>h5{
 
 <div class="grid-container">
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> <h5> Optical tweezers to manipulate single cells </h5></div>
-  <div class="grid-item"> Selecting single cells with microfluidics </div>
-  <div class="grid-item"> Amateur telescope making </div>
-  <div class="grid-item"> Low cost sickle cell diagnostics </div>
-  <div class="grid-item"> Feature matching across images </div>
+  <div class="grid-item"> <h5> Selecting single cells with microfluidics </h5></div>
+  <div class="grid-item"> <h5> Amateur telescope making </h5></div>
+  <div class="grid-item"> <h5> Low cost sickle cell diagnostics </h5></div>
+  <div class="grid-item"> <h5> Feature matching across images </h5></div>
   <div class="grid-item">6</div>
   <div class="grid-item">7</div>
   <div class="grid-item">8</div>
