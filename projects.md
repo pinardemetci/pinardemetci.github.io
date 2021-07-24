@@ -49,11 +49,13 @@ div.grid-item:hover>h5{
 }
 .button-container {
   display: grid;
-  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-columns: 225px 225px 150px 225px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
 .button{
+  background: #4582ec;
+  color: white;
   border-top: 1px solid #cccccc;
   border-bottom: 1px solid #cccccc;
   border-left: 1px solid #cccccc;
@@ -64,10 +66,10 @@ div.grid-item:hover>h5{
 </style>
 
 <div class="button-container">
-  <div class="button"><h6>B1</h6></div><!-- Computing / ML / Modeling -->
-  <div class="button"><h6>B2</h6></div> <!-- Engineering / Bioengineering -->
-  <div class="button"><h6>B3</h6></div> <!-- Biology -->
-  <div class="button"><h6>B4</h6></div> <!-- Art & Miscellaneous -->
+  <div class="button"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
+  <div class="button"><h6>Engineering & Bioengineering</h6></div> <!-- Engineering / Bioengineering -->
+  <div class="button"><h6>Biology</h6></div> <!-- Biology -->
+  <div class="button"><h6>Art & Miscellaneous</h6></div> <!-- Art & Miscellaneous -->
   <br>
 </div>
 
