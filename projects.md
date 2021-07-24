@@ -25,7 +25,7 @@ Coming soon.
   border-bottom: 0px solid #d9d9d9;
   border-left: 0px solid #d9d9d9;
   border-right: 0px solid #d9d9d9;
-  box-shadow: 1.5px 3px 1px #d9d9d9;
+  box-shadow: 2px 3px 5px #d9d9d9;
 }
 div.grid-item>img {
   border-radius: 7px;
@@ -33,6 +33,11 @@ div.grid-item>img {
   border-style: none;
   display: block;
 }
+
+div.grid-item:hover>h4{
+  color: white;
+}
+
 
 </style>
 
