@@ -21,11 +21,11 @@ Coming soon.
   border-radius: 5px;
 /*  width: 225px;
   height: 250px; */
-  border-top: 0px solid #d9d9d9;
-  border-bottom: 0px solid #d9d9d9;
-  border-left: 0px solid #d9d9d9;
-  border-right: 0px solid #d9d9d9;
-  box-shadow: 2px 3px 5px #d9d9d9;
+  border-top: 0px solid #d4d4d4;
+  border-bottom: 0px solid #d4d4d4;
+  border-left: 0px solid #d4d4d4;
+  border-right: 0px solid #d4d4d4;
+  box-shadow: 3px 4px 5px #d4d4d4;
 }
 div.grid-item>img {
   border-radius: 7px;
@@ -40,7 +40,7 @@ div.grid-item>h5{
 }
 
 div.grid-item:hover{
-   box-shadow: 5px 5px 5px #d9d9d9;
+   box-shadow: 7px 7px 7px #cccccc;
 }
 
 div.grid-item:hover>h5{
