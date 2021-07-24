@@ -52,9 +52,9 @@ div.grid-item:hover>h5{
 
 <div class="grid-container">
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/SomervilleBoardgame.png"> <h5> Optical tweezers to manipulate single cells </h5></div>
-  <div class="grid-item"> <h5> Selecting single cells with microfluidics </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
   <div class="grid-item"> <h5> Amateur telescope making </h5></div>
-  <div class="grid-item"> <h5> Low cost sickle cell diagnostics </h5></div>
+  <div class="grid-item"> <h5> Bio-imaging software for low cost sickle cell diagnostics </h5></div>
   <div class="grid-item"> <h5> Feature matching across images </h5></div>
   <div class="grid-item">6</div>
   <div class="grid-item">7</div>
