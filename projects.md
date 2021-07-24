@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 # Projects
-I've had the opportunity to work on a number of engineering, science, coding and modeling projects. Here, you can browse a selection of them (clickable details coming soon):
+I've had the opportunity to work on a number of engineering, science, coding and modeling projects outside of my dissertation research. Here, you can browse a selection of them (clickable details coming soon):
 
 <html>
 <style>
@@ -41,7 +41,7 @@ div.grid-item>h5{
 
 div.grid-item:hover{
   cursor: pointer;
-   box-shadow: 10px 10px 10px #bbbbbb;
+  box-shadow: 10px 10px 10px #bbbbbb;
 }
 
 div.grid-item:hover>h5{
@@ -54,19 +54,20 @@ div.grid-item:hover>h5{
 <div class="grid-container">
   <div class="grid-item"> <h5> Optical tweezers to manipulate single cells </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur telescope making </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/daktari1.png"> <h5> Amateur telescope making </h5></div>
   <div class="grid-item"> <h5> Bio-imaging software for low cost sickle cell diagnostics </h5></div>  
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/otter.jpeg"><h5> Otter: Newborn warmer compatible with phototherapy </h5></div>
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays Pacman </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays PacMan </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5> Computational 3D scene reconstruction from 2D images </h5></div>
-  <div class="grid-item">9</div>
-  <div class="grid-item">10</div>
-  <div class="grid-item">11</div>
-  <div class="grid-item">12</div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5>Material science: Failure analysis of Zambian cast pots</h5></div>
+  <div class="grid-item"> <h5> Recurrent neural networks for French <--> English machine translation </h5></div>
+  <div class="grid-item"> <h5> 3D scanner with Arduino </h5></div>
+  <div class="grid-item"><h5> Line following robot with simple PID control </h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5>Material science: Failure analysis of Zambian cast pots</h5></div>
 </div>
 </html>
-<!-- 3D scanner, line following robot: PID control, Zambian pot cast, biomechanics, machine translation, generative model, MCM model, modsim???-->
+<!--  biomechanics, generative model, graph network molecules, MCM model, modsim??? -->
 
 <table class="table table-hover">
   {% for post in site.posts %}
