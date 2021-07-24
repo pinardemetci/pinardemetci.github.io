@@ -49,7 +49,7 @@ div.grid-item:hover>h5{
 }
 .button-container {
   display: grid;
-  grid-template-columns: 100px 210px 225px 100px 175px;
+  grid-template-columns: 150px 210px 225px 100px 175px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
