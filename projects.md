@@ -65,7 +65,6 @@ div.grid-item:hover>h5{
 </style>
 
 <div class="button-container">
-  Toggle projects:
   <div class="button"><h6>Computing/Modeling & ML</h6></div><!-- Computing / ML / Modeling -->
   <div class="button"><p>Engineering & Bioengineering</p></div> <!-- Engineering / Bioengineering -->
   <div class="button"><h6>Biology</h6></div> <!-- Biology -->
