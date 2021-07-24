@@ -34,10 +34,13 @@ div.grid-item>img {
   display: block;
 }
 
-div.grid-item:hover>h5{
-  font-family: Helvetica, sans-serif;
+div.grid-item>h5{
   text-align: center;
 
+}
+
+div.grid-item:hover{
+   box-shadow: 5px 5px 5px #d9d9d9;
 }
 
 div.grid-item:hover>h5{
