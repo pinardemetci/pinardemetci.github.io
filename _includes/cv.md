@@ -46,7 +46,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
-  <td><strong>Microsoft Research: Genomics</strong>, Research Intern (Redmond, WA)</td>
+  <td><strong>Microsoft Research</strong>, Research Intern: Genomics (Redmond, WA)</td>
 </tr>
 <tr>
 </tr>
@@ -111,7 +111,28 @@ Integrating single-cell measurements that capture different properties of the ge
 
 
 <tr>
-<td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/HAPLEX.png"/></a> </td>
+<td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/haplex_new.png"/></a> </td>
+<td>
+    <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
+    B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
+     *Equal Contribution, #Corresponding Author<br>
+     Bioinformatics (Oxford Press) vol.36, Supplement_1, p:i194-i202. 2020 <br>
+    Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology (ISMB 2020)<br>
+    
+    [3] 
+[<a href='javascript:;'
+    onclick='$("#abs_alpaydemetci").toggle()'>abstract</a>] [<a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'>paper</a>] <br>
+    
+<div id="abs_alpaydemetci" style="text-align: justify; display: none" markdown="1">
+Genome-wide association studies (GWAS) have discovered thousands of significant genetic effects on disease phenotypes.By considering gene expression as the intermediary between genotype and disease phenotype, eQTL studies have interpreted many of these variants by their regulatory effects on gene expression. However, there remains a considerable gap between genotype-to-gene expression association and genotype-to-gene expression prediction. Accurate prediction of gene expression enables gene-based association studies to be performed post-hoc for existing GWAS, reduces multiple testing burden, and can prioritize genes for subsequent experimental investigation.In this work, we develop gene expression prediction methods that relax the independence and additivity assumptions between genetic markers. First, we consider gene expression prediction from a regression perspective and develop the HAPLEXR algorithm which combines haplotype clusterings with allelic dosages. Second, we introduce the new gene expression classification problem, which focuses on identifying expression groups rather than continuous measurements; we formalize the selection of an appropriate number of expression groups using the principle of maximum entropy. Third, we develop the HAPLEXD algorithm that models haplotype sharing with a modified suffix tree data structure and computes expression groups by spectral clustering. In both models, we penalize model complexity by prioritizing genetic clusters that indicate significant effects on expression. We compare HAPLEXR and HAPLEXD with three state-of-the-art expression prediction methods and two novel logistic regression approaches across five GTEx v8 tissues. HAPLEXD exhibits significantly higher classification accuracy overall; HAPLEXR shows higher prediction accuracy on approximately half of the genes tested and the largest number of best predicted genes ($r^2>0.1$) among all methods.
+We show that variant and haplotype features selected by HAPLEXR are smaller in size than competing methods (and thus more interpretable) and are significantly enriched in functional annotations related to gene regulation. These results demonstrate the importance of explicitly modelling non-dosage dependent and intragenic epistatic effects when predicting expression.
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://www.iscb.org/cms_addon/conferences/ismb2020/proceedings.php' target='_blank'><img src="images/publications/haplex_new2.png"/></a> </td>
 <td>
     <strong>Combinatorial and statistical prediction of gene expression from haplotype sequence</strong><br>
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
@@ -278,7 +299,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>Spring 2019</td>
+  <td class='col-md-1'>Spring 2019 & 2021</td>
   <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.)<br>
   Teaching Assistant: wrote and graded assignments, held recitations and office hours, lectured a few times.</td>
 </tr>
@@ -325,42 +346,42 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-    <td class='col-md-2'>Programming Languages</td>
+    <td class='col-md-2'><strong>Programming Languages</strong></td>
     <td>
       More experienced: Python, R, MATLAB -- Less experienced: Java, C++ 
       <!--  -->
     </td>
   </tr>
     <tr>
-    <td class='col-md-2'>Frameworks</td>
+    <td class='col-md-2'><strong>Frameworks</strong></td>
     <td>
       NumPy, Pandas, SciPy, PyTorch, Pyro, TensorFlow, Tensorflow-Probability, HDF5, Bioconductor, Seurat
       <!--  -->
     </td>
   </tr>
     <tr>
-    <td class='col-md-2'>Systems</td>
+    <td class='col-md-2'><strong>Systems</strong></td>
     <td>
       Linux, OSX, High Performance Cluster Computing, slurm, Google Cloud Computing, Microsoft Azure
       <!--  -->
     </td>
   </tr>
     <tr>
-    <td class='col-md-2'>Bioinformatics Tools</td>
+    <td class='col-md-2'><strong>Bioinformatics Tools</strong></td>
     <td>
      GATK, VCFtools, BCFtools, BEDtools, PLINK, Cromwell, Cytoscape, QIIME, VAMPS, JGI
       <!--  -->
     </td>
   </tr>
   <tr>
-    <td class='col-md-2'>Laboratory</td>
+    <td class='col-md-2'><strong>Laboratory</strong></td>
     <td>
       DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
       <!--  -->
     </td>
   </tr>
    <tr>
-    <td class='col-md-2'>Natural Languages</td>
+    <td class='col-md-2'><strong>Natural Languages</strong></td>
     <td>
       English (Proficient), Turkish (Native Language), French (A2-Level proficiency)
       <!--  -->
