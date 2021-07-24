@@ -34,8 +34,8 @@ div.grid-item>img {
   display: block;
 }
 
-div.grid-item:hover>h4{
-  color: white;
+div.grid-item:hover>h5{
+  color: #4582ec;
 }
 
 
