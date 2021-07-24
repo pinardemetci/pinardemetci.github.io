@@ -56,6 +56,9 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/H_device_first.jpg"> <h5> Artificial selection of fast reproducing yeast with <strong>microfluidics</strong> </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/telescope2.jpeg"> <h5> Amateur telescope making </h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari1.png"><h5> Imaging tool for low cost sickle cell diagnostics </h5></div>  
+   <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari2.png"><h5> Imaging tool for low cost sickle cell diagnostics </h5></div>  
+    <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari3.png"><h5> Imaging tool for low cost sickle cell diagnostics </h5></div>  
+     <div class="grid-item"><img src="http://pinardemetci.github.io/images/daktari4.png"><h5> Imaging tool for low cost sickle cell diagnostics </h5></div>  
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/otter.jpeg"><h5> Otter: Newborn warmer compatible with phototherapy </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays PacMan </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images </h5></div>
