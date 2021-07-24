@@ -69,7 +69,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
-<h3>2021</h3>
+<h2>2021</h2>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'><img src="images/publications/SCOT.png"/></a> </td>
@@ -91,7 +91,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 </tr>
 </table>
 
-<h3>2020</h3>
+<h2>2020</h2>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.06.13.149195v1' target='_blank'><img src="images/publications/alignment.png"/></a> </td>
@@ -135,7 +135,7 @@ We show that variant and haplotype features selected by HAPLEXR are smaller in s
 </tr>
 </table>
 
-<h3>2019</h3>
+<h2>2019</h2>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://jb.asm.org/content/early/2019/07/03/JB.00259-19/figures-only?versioned=true' target='_blank'><img src="images/publications/ecoli.png"/></a> </td>
@@ -156,7 +156,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-<h3>2016</h3>
+<h2>2016</h2>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://ieeexplore.ieee.org/abstract/document/7757463' target='_blank'><img src="images/publications/blank.png"/></a> </td>
