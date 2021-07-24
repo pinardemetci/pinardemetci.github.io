@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 # Projects
-I've had the opportunity to work on a number of engineering, science, coding and modeling projects outside of my dissertation research. Here, you can browse a selection of them (clickable details coming soon):
+Outside of my dissertation research, I've had the opportunity to work on a number of engineering, science, programming and modeling projects. Here, you can browse a selection of them (clickable details coming soon):
 
 <html>
 <style>
@@ -61,16 +61,18 @@ div.grid-item:hover>h5{
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/pacman.png"><h5> PacManAI: Reinforcement learning algorithm that plays PacMan </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/featureMatch.png"><h5> Feature matching across images with SIFT </h5></div>
   <div class="grid-item"> <img src="http://pinardemetci.github.io/images/3dreconstruct.png"><h5> Computational 3D scene reconstruction from 2D images </h5></div>
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/zambianPot.png"><h5>Materials science: Failure analysis of Zambian cast pots</h5></div>
+  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/zambianPot.png"><h5>Failure analysis of Zambian cast pots</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/EPS.png"><h5> Exopolysaccharide producing phototrophic bacterial communities </h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/keio.jpeg"><h5> Motility inducing secondary mutations in E.coli knockouts</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/biomechanics.png"><h5> Biomechanical analysis of ultralight and standard hiking backpacks</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/3DScanner.png"><h5> 3D scanner with Arduino </h5></div>
-  <div class="grid-item"> <h5> Recurrent neural networks for French <-> English machine translation </h5></div>
+  <div class="grid-item"> <h5> RNNs and LSTMs for French <-> English machine translation </h5></div>
+  <div class="grid-item"> <h5> Graph neural networks for anti-cancer molecule classification </h5></div>
   <div class="grid-item"><h5> Line following robot with PID control </h5></div>
+  <div class="grid-item"><h5> MCM Mathematical Modeling Contest: Modeling Syrian refuge</h5></div>
 </div>
 </html>
-<!-- helmet,  generative model, graph network molecules, MCM model, modsim??? -->
+<!-- helmet,  generative model,  modsim??? data science? DeBruijn graphs for genome assembly, RNA Hybridization, Sequence alignment,interactive programming,  prisoners code breaker MCMC -->
 
 <table class="table table-hover">
   {% for post in site.posts %}
