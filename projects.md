@@ -49,18 +49,17 @@ div.grid-item:hover>h5{
 }
 .button-container {
   display: grid;
-  grid-template-columns: 225px 225px 150px 225px;
+  grid-template-columns: 200px 200px 100px 175px;
   grid-column-gap: 5px;
   grid-row-gap: 5px;
 }
 .button{
   background: #4582ec;
+  border-radius: 10px;
   color: white;
-  border-top: 1px solid #cccccc;
-  border-bottom: 1px solid #cccccc;
-  border-left: 1px solid #cccccc;
-  border-right: 1px solid #cccccc;
-/*  box-shadow: 3px 4px 5px #cccccc;*/
+  text-align: center;
+  border: 0px;
+  box-shadow: 3px 4px 5px #cccccc;
 }
 
 </style>
