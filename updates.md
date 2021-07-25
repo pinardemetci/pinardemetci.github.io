@@ -18,6 +18,9 @@ title: "Updates"
 </tr>
 </table>
 
+###### Stay Connected:
+<a class="twitter-timeline" data-width="500" data-height="350" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ##### Past
 <table class="table table-hover">
 <tr>
