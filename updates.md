@@ -4,7 +4,7 @@ title: "Updates"
 ---
 
 # Updates
-##### Upcoming
+#### Upcoming
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>August 2021 </td>
@@ -21,7 +21,7 @@ title: "Updates"
 ###### Stay Connected:
 <a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##### Past
+#### Past
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 May 2021 </td>
