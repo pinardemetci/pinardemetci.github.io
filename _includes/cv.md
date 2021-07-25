@@ -305,6 +305,13 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
   <tr>
+    <td class='col-md-2'>2019 - 2021 </td>
+    <td>
+      Brown University Computational Biology Ph.D. Program Admissions Committee
+      <!--  -->
+    </td>
+  </tr>
+  <tr>
     <td class='col-md-2'>2018 - Present</td>
     <td>
       International Society for Computational Biology (ISCB)
@@ -319,9 +326,9 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
   <tr>
-    <td class='col-md-2'>Member</td>
+    <td class='col-md-2'>2018 - Present</td>
     <td>
-      Graduate Women in Science and Engineering @ Brown University
+      Member @ Graduate Women in Science and Engineering @ Brown University
       <!--  -->
     </td>
   </tr>
@@ -332,7 +339,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
     <td class='col-md-2'><strong>Programming Languages</strong></td>
     <td>
-      More experienced: Python, R, MATLAB<br>Less experienced: Java, C++, SQL, noSQL 
+      Experienced: Python, R, MATLAB<br>Less experienced: Java, C++, SQL, noSQL 
       <!--  -->
     </td>
   </tr>
@@ -367,7 +374,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <tr>
     <td class='col-md-2'><strong>Engineering & Teamwork</strong></td>
     <td>
-      User-oriented collaborative design, Rapid prototyping
+      User-oriented collaborative design, Rapid prototyping, Scrum
       <!--  -->
     </td>
   </tr>
