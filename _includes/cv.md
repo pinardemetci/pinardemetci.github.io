@@ -8,9 +8,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 .grid-container {
   display: grid;
   grid-template-columns: 350px 350px;
-  grid-template-rows: 100px 100px;
   grid-column-gap: 25px;
-  grid-row-gap: 10px;
   display: block;
 }
 
@@ -68,6 +66,7 @@ div.interest-container>ul {
 
   <div class="grid-item"> <h5> Application areas </h5>
   </div>
+</div>
 <div class="interest-container">
 <ul>
   <!-- Column 1 -->
