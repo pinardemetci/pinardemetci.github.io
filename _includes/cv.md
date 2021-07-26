@@ -11,6 +11,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   grid-template-rows: 100px 100px;
   grid-column-gap: 25px;
   grid-row-gap: 10px;
+  display: block;
 }
 
 .grid-item {
@@ -20,6 +21,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   border-bottom: 0px solid #cccccc;
   border-left: 0px solid #cccccc;
   border-right: 0px solid #cccccc;
+  display: block;
 }
 </style>
 <!-- 
