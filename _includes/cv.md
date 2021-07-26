@@ -61,71 +61,32 @@ div.interest-container>ul {
 ## <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
-  <div class="grid-item"> <h5> Methodology </h5>
-  </div>
-
-  <div class="grid-item"> <h5> Application areas </h5>
-  </div>
+  <div class="grid-item"> <h5> Methodology </h5></div>
+  <div class="grid-item"> <h5> Application areas </h5></div>
 </div>
-<div class="interest-container">
+
+<!-- <div class="interest-container">
 <ul>
-  <!-- Column 1 -->
+ 
   <li class="col1-item1">Representation learning</li>
   <li class="col1-item2">Optimal transport</li>
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable/feature selection</li>
   <li class="col1-item6">Graph algorithms</li>
-  <li class="col1-item7">Combinatorial optimization</li>
   <li class="col1-item8">Machine learning/deep learning</li>
   <li class="col1-item9">Multi-modal data integration</li>
 
-
-  <!-- Column 2 -->
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
   <li class="col2-item3">Single-cell sequencing</li>
   <li class="col2-item4">Multi-omics</li>
   <li class="col2-item5">3D genome</li>
   <li class="col2-item6">Precision medicine</li>
-  <li class="col2-item7">Structural biology</li>
-  <li class="col2-item8">Proteomics</li>
-
+  <li class="col2-item7">Structural biology & Proteomics</li>
 </ul>
-</div>
-<!-- 
-<table border="0">
- <tr>
-    <td><b style="font-size:18px">Methodology</b></td>
-    <td><b style="font-size:18px">Application areas</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table> -->
+</div> -->
 
-<!-- Methodology:
-- Representation learning
-- Optimal transport
-- Manifold learning
-- Bayesian statistics & inference
-- Variable selection
-- Graph algorithms
-- Combinatorial optimization
-- Multi-modal data integration
-- Machine learning/deep learning
-
-Application domains:
-- Regulatory genomics
-- Functional genomics
-- Single-cell sequencing
-- Multi-omics
-- 3D Genome
-- Precision medicine
-- Network biology
-- Structural biology & proteomics
- -->
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
