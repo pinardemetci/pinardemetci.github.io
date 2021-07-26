@@ -74,7 +74,7 @@ div.interest-container>ul {
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
-  <li class="col2-item3">Single-cell sequencing</li>
+  <li class="col2-item3">Single-cell sequencing & imaging</li>
   <li class="col2-item4">Multi-omics</li>
   <li class="col2-item5">3D genome</li>
   <li class="col2-item6">Precision medicine</li>
