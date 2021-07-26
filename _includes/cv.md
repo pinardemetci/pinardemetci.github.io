@@ -23,8 +23,42 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   border-right: 0px solid #cccccc;
   display: block;
 }
+ul {
+  display: grid; 
+  grid-auto-columns: 1fr; 
+  grid-auto-rows: 1fr; 
+  grid-template-columns: 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  column-gap: 25px; 
+  row-gap: 0px;
+  grid-template-areas: 
+    "col1-item1 col2-item1"
+    "col1-item2 col2-item2"
+    "col1-item3 col2-item3"
+    "col1-item4 col2-item4" 
+    "col1-item5 col2-item5"
+    "col1-item6 col2-item6"
+    "col1-item7 col2-item7"
+    "col1-item8 col2-item8"
+    "col1-item9 col2-item9";
+}
+
+/* Assign a class to each li */
+.col1-item1 { grid-area: col1-item1; }
+.col1-item2 { grid-area: col1-item2; }
+.col1-item3 { grid-area: col1-item3; }
+.col1-item4 { grid-area: col1-item4; }
+.col1-item5 { grid-area: col1-item5; }
+.col1-item6 { grid-area: col1-item6; }
+.col1-item7 { grid-area: col1-item7; }
+.col1-item8 { grid-area: col1-item8; }
+.col1-item9 { grid-area: col1-item9; }
+
+.col2-item1 { grid-area: col2-item1; }
+.col2-item2 { grid-area: col2-item2; }
+.col2-item3 { grid-area: col2-item3; }
 </style>
-<!-- 
+
 ## <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
@@ -33,16 +67,30 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 
   <div class="grid-item"> <h5> Application areas </h5>
   </div>
-  <div class="grid item"> <ul>
-    <li> Representation learning </li>
-    <li> Optimal transport</li>
-  </ul>
-</div>
-    <div class="grid item"> <ul>
-    <li> Regulatory genomics </li>
-    <li> Functional genomics</li>
-  </ul></div>
-</div> -->
+<ul>
+  <!-- Column 1 -->
+  <li class="col1-item1">Representation learning</li>
+  <li class="col1-item2">Optimal transport</li>
+  <li class="col1-item3">Manifold learning</li>
+  <li class="col1-item4">Bayesian statistics and inference</li>
+  <li class="col1-item5">Variable/feature selection</li>
+  <li class="col1-item6">Graph algorithms</li>
+  <li class="col1-item7">Combinatorial optimization</li>
+  <li class="col1-item8">Machine learning/deep learning</li>
+  <li class="col1-item9">Multi-modal data integration</li>
+
+
+  <!-- Column 2 -->
+  <li class="col2-item1">Regulatory genomics</li>
+  <li class="col2-item2">Functional genomics</li>
+  <li class="col2-item3">Single-cell sequencing</li>
+  <li class="col2-item4">Multi-omics</li>
+  <li class="col2-item5">3D genome</li>
+  <li class="col2-item6">Precision medicine</li>
+  <li class="col2-item7">Structural biology</li>
+  <li class="col2-item8">Proteomics</li>
+
+</ul>
 
 <!-- 
 <table border="0">
