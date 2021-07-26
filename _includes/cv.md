@@ -11,7 +11,6 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 }
 
 .grid-item {
-  padding: 20px;
   border:0;
 }
 
