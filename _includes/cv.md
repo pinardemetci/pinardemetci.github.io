@@ -21,7 +21,7 @@ div.interest-container>ul {
   grid-auto-rows: 1fr; 
   grid-template-columns: 1fr 1fr; 
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  column-gap: 5px; 
+  column-gap: 0px; 
   grid-template-areas: 
     "col1-item1 col2-item1"
     "col1-item2 col2-item2"
@@ -70,8 +70,8 @@ div.interest-container>ul {
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable/feature selection</li>
   <li class="col1-item6">Graph algorithms</li>
-  <li class="col1-item8">Machine learning/deep learning</li>
-  <li class="col1-item9">Multi-modal data integration</li>
+  <li class="col1-item7">Machine learning/deep learning</li>
+  <li class="col1-item8">Multi-modal data integration</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
