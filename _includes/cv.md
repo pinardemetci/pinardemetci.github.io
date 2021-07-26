@@ -55,7 +55,7 @@ div.interest-container>ul {
 
 <div class="grid-container">
   <div class="grid-item"> <h5> Methodology </h5></div>
-  <div class="grid-item"> <h5> Application areas </h5></div>
+  <div class="grid-item"> <h5> Application areas </h5><br></div>
 </div>
 
 <!-- <div class="interest-container">
