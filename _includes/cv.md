@@ -21,7 +21,7 @@ div.interest-container>ul {
   grid-auto-rows: 1fr; 
   grid-template-columns: 1fr 1fr; 
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  column-gap: 15px; 
+  column-gap: 5px; 
   grid-template-areas: 
     "col1-item1 col2-item1"
     "col1-item2 col2-item2"
