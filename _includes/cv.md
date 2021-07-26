@@ -7,12 +7,12 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: 350px 350px;
-  grid-column-gap: 15px;
+  grid-template-columns: 500px 500px;
 }
 
 .grid-item {
-border:0;
+  padding: 20px;
+  border:0;
 }
 
 div.interest-container>ul {
