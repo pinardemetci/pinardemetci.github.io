@@ -4,7 +4,43 @@ Before joining Brown, I received my bachelor’s degree in **bioengineering** fr
 
 Apart from computational biology, I have enjoyed working on [various (mostly STEM) projects](/projects/). And [outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. E-mail me [here](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: 350px 350px;
+  /*grid-template-rows: 250px 250px 250px 250px;*/
+  grid-column-gap: 25px;
+}
+
+.grid-item {
+/*  width: 225px;
+  height: 250px; */
+  border-top: 0px solid #cccccc;
+  border-bottom: 0px solid #cccccc;
+  border-left: 0px solid #cccccc;
+  border-right: 0px solid #cccccc;
+}
+</style>
+
 ## <i class="fa fa-chevron-right"></i> Research Interests
+
+<div class="grid-container">
+  <div class="grid-item"> <h5> Methodology </h5><br>
+    <ul>
+    <li>Representation learning</li>
+    <li>Optimal transport</li>
+    </ul>
+  </div>
+
+  <div class="grid-item"> <h5> Application areas </h5><br>
+    <ul>
+    <li>Regulatory genomics</li>
+    <li>Functional genomics</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 
 <table border="0">
  <tr>
     <td><b style="font-size:18px">Methodology</b></td>
@@ -14,7 +50,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
  </tr>
-</table>
+</table> -->
 
 <!-- Methodology:
 - Representation learning
