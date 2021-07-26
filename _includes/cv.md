@@ -23,7 +23,8 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   border-right: 0px solid #cccccc;
   display: block;
 }
-ul {
+
+div.interest-container>ul {
   display: grid; 
   grid-auto-columns: 1fr; 
   grid-auto-rows: 1fr; 
@@ -67,6 +68,7 @@ ul {
 
   <div class="grid-item"> <h5> Application areas </h5>
   </div>
+<div class="interest-container">
 <ul>
   <!-- Column 1 -->
   <li class="col1-item1">Representation learning</li>
@@ -91,7 +93,7 @@ ul {
   <li class="col2-item8">Proteomics</li>
 
 </ul>
-
+</div>
 <!-- 
 <table border="0">
  <tr>
