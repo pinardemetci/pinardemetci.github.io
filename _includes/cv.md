@@ -25,19 +25,17 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 ## <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
-  <div class="grid-item"> <h5> Methodology </h5><br>
+  <div class="grid-item"> <h5> Methodology </h5></div>
     <ul>
     <li>Representation learning</li>
     <li>Optimal transport</li>
     </ul>
-  </div>
 
-  <div class="grid-item"> <h5> Application areas </h5><br>
+  <div class="grid-item"> <h5> Application areas </h5></div>
     <ul>
     <li>Regulatory genomics</li>
     <li>Functional genomics</li>
     </ul>
-  </div>
 </div>
 
 <!-- 
