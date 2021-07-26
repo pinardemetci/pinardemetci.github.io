@@ -4,6 +4,39 @@ Before joining Brown, I received my bachelor’s degree in **bioengineering** fr
 
 Apart from computational biology, I have enjoyed working on [various (mostly STEM) projects](/projects/). And [outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. E-mail me [here](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
+## <i class="fa fa-chevron-right"></i> Research Interests
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+Method<!-- ology:
+- Representation learning
+- Optimal transport
+- Manifold learning
+- Bayesian statistics & inference
+- Variable selection
+- Graph algorithms
+- Combinatorial optimization
+- Multi-modal data integration
+- Machine learning/deep learning
+
+Application domains:
+- Regulatory genomics
+- Functional genomics
+- Single-cell sequencing
+- Multi-omics
+- Precision medicine
+- Network biology
+- Structural biology
+ -->
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
