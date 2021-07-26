@@ -7,9 +7,8 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 ## <i class="fa fa-chevron-right"></i> Research Interests
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Methodology</b></td>
+    <td><b style="font-size:30px">Application areas</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
@@ -17,7 +16,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
  </tr>
 </table>
 
-Method<!-- ology:
+<!-- Methodology:
 - Representation learning
 - Optimal transport
 - Manifold learning
