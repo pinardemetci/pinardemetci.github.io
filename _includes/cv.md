@@ -74,6 +74,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
     International Conference on Research in Computational Molecular Biology (RECOMB) 2021 <br>
+    Journal of Computational Biology (in press) <br>
     [5] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
