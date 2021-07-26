@@ -12,12 +12,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 }
 
 .grid-item {
-/*  width: 225px;
-  height: 250px; */
-  border-top: 0px solid #cccccc;
-  border-bottom: 0px solid #cccccc;
-  border-left: 0px solid #cccccc;
-  border-right: 0px solid #cccccc;
+  border:0;
 }
 
 div.interest-container>ul {
