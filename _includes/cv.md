@@ -22,7 +22,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   border-right: 0px solid #cccccc;
 }
 </style>
-
+<!-- 
 ## <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
@@ -40,7 +40,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
     <li> Regulatory genomics </li>
     <li> Functional genomics</li>
   </ul></div>
-</div>
+</div> -->
 
 <!-- 
 <table border="0">
