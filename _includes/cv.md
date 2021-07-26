@@ -8,7 +8,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 .grid-container {
   display: grid;
   grid-template-columns: 350px 350px;
-  grid-column-gap: 25px;
+  grid-column-gap: 20px;
 }
 
 .grid-item {
@@ -21,8 +21,7 @@ div.interest-container>ul {
   grid-auto-rows: 1fr; 
   grid-template-columns: 1fr 1fr; 
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  column-gap: 25px; 
-  row-gap: 0px;
+  column-gap: 20px; 
   grid-template-areas: 
     "col1-item1 col2-item1"
     "col1-item2 col2-item2"
