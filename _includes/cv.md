@@ -8,8 +8,9 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 .grid-container {
   display: grid;
   grid-template-columns: 350px 350px;
-  grid-template-rows: 25px 25px;
+  grid-template-rows: 100px 100px;
   grid-column-gap: 25px;
+  grid-row-gap: 10px;
 }
 
 .grid-item {
@@ -33,7 +34,8 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   <div class="grid item"> <ul>
     <li> Representation learning </li>
     <li> Optimal transport</li>
-  </ul></div>
+  </ul>
+</div>
     <div class="grid item"> <ul>
     <li> Regulatory genomics </li>
     <li> Functional genomics</li>
