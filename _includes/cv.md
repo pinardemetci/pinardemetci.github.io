@@ -7,8 +7,8 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 ## <i class="fa fa-chevron-right"></i> Research Interests
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Methodology</b></td>
-    <td><b style="font-size:30px">Application areas</b></td>
+    <td><b style="font-size:18px">Methodology</b></td>
+    <td><b style="font-size:18px">Application areas</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
@@ -32,9 +32,10 @@ Application domains:
 - Functional genomics
 - Single-cell sequencing
 - Multi-omics
+- 3D Genome
 - Precision medicine
 - Network biology
-- Structural biology
+- Structural biology & proteomics
  -->
 ## <i class="fa fa-chevron-right"></i> Education
 
