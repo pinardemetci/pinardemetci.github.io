@@ -9,7 +9,6 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   display: grid;
   grid-template-columns: 350px 350px;
   grid-column-gap: 25px;
-  display: block;
 }
 
 .grid-item {
@@ -19,7 +18,6 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
   border-bottom: 0px solid #cccccc;
   border-left: 0px solid #cccccc;
   border-right: 0px solid #cccccc;
-  display: block;
 }
 
 div.interest-container>ul {
