@@ -48,6 +48,10 @@ div.interest-container>ul {
 .col2-item1 { grid-area: col2-item1; }
 .col2-item2 { grid-area: col2-item2; }
 .col2-item3 { grid-area: col2-item3; }
+.col2-item4 { grid-area: col2-item4; }
+.col2-item5 { grid-area: col2-item5; }
+.col2-item6 { grid-area: col2-item6; }
+.col2-item7 { grid-area: col2-item7; }
 </style>
 
 ## <i class="fa fa-chevron-right"></i> Research Interests
