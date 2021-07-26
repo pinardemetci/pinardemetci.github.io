@@ -56,8 +56,8 @@ div.interest-container>ul {
   <div class="grid-item"> <h5> Methodology </h5></div>
   <div class="grid-item"> <h5> Application areas </h5></div>
 </div>
-
-<!-- <div class="interest-container">
+<br>
+<div class="interest-container">
 <ul>
  
   <li class="col1-item1">Representation learning</li>
@@ -77,7 +77,7 @@ div.interest-container>ul {
   <li class="col2-item6">Precision medicine</li>
   <li class="col2-item7">Structural biology & Proteomics</li>
 </ul>
-</div> -->
+</div>
 
 ## <i class="fa fa-chevron-right"></i> Education
 
