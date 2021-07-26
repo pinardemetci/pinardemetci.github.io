@@ -7,7 +7,7 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: 500px 500px;
+  grid-template-columns: 450px 450px;
 }
 
 .grid-item {
