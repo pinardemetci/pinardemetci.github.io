@@ -26,13 +26,13 @@ Apart from computational biology, I have enjoyed working on [various (mostly STE
 
 <div class="grid-container">
   <div class="grid-item"> <h5> Methodology </h5>
-    Representation learning
-    Optimal transport
+    <p> &bull; Representation learning </p>
+    <p> &bull; Optimal transport</p>
   </div>
 
   <div class="grid-item"> <h5> Application areas </h5>
-    Regulatory genomics<br>
-    Functional genomics
+    &bull; <p> Regulatory genomics </p>
+    &bull; <p> Functional genomics </p>
   </div>
 </div>
 
