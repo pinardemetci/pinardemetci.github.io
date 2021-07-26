@@ -60,7 +60,7 @@ div.interest-container>ul {
   <div class="grid-item"> <h5> Methodology </h5></div>
   <div class="grid-item"> <h5> Application areas </h5></div>
 </div>
-<br>
+
 <div class="interest-container">
 <ul>
  
