@@ -1,8 +1,8 @@
-I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work is on statistical and probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
+I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work focuses on statistical and probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
 
-Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737)  led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)** as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
+Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I spent a little over a year in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
 
-Apart from computational biology, I have enjoyed working on [various (mostly STEM) projects](/projects/). And [outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. E-mail me [here](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have had the opportunity to work on [various projects](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. [E-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 <style>
 .grid-container {
@@ -69,9 +69,9 @@ div.interest-container>ul {
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable/feature selection</li>
   <li class="col1-item6">Causal inference</li>
+  <li class="col1-item9">Machine learning & deep learning</li>
   <li class="col1-item7">Graph algorithms</li>
   <li class="col1-item8">Combinatorial optimization</li>
-  <li class="col1-item9">Machine learning & deep learning</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
