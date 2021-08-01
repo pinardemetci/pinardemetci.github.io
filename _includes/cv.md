@@ -1,4 +1,4 @@
-I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work focuses on statistical and probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
+I am a Ph.D. candidate in **computational biology** at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work focuses on statistical and probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I spent a little over a year in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
 
@@ -154,13 +154,29 @@ div.interest-container>ul {
      *Equal Contribution, #Corresponding Author<br>
     International Conference on Research in Computational Molecular Biology (RECOMB) 2021 <br>
     Journal of Computational Biology (in press) <br>
-    [5] 
+    [6] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
     
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
 Data integration of single-cell measurements is critical for our understanding of cell development and disease, but the lack of correspondence between different types of single-cell measurements makes such efforts challenging. Several unsupervised algorithms are capable of aligning heterogeneous types of single-cell measurements in a shared space, enabling the creation of mappings between single cells in different data modalities.
 We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised learning algorithm that uses Gromov Wasserstein-based optimal transport to align single-cell multi-omics datasets. SCOT calculates a probabilistic coupling matrix that matches cells across two datasets. The optimization uses k-nearest neighbor graphs, thus preserving the local geometry of the data. We use the resulting coupling matrix to project one single-cell dataset onto another via a barycentric projection.  We compare the alignment performance of SCOT with state-of-the-art algorithms on three simulated and two real datasets. Our results demonstrate that SCOT yields results that are comparable in quality to those of competing methods, but SCOT is significantly faster and requires tuning fewer hyperparameters. The code is available at <a href='https://github.com/rsinghlab/SCOT' target='_blank'>https://github.com/rsinghlab/SCOT</a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'><img src="images/publications/bann.png"/></a> </td>
+<td>
+    <strong>Multi-scale Inference of Genetic Trait Architecture using Biologically Annotated Neural Networks</strong><br>
+    <strong>P. Demetci</strong>,W. Cheng,Gregory Darnell, Xiang Zhou, Sohini Ramachandran, Lorin Crawford# <br>
+    PLOS Genetics(in press) <br>
+    [5] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'>paper</a>] <br>
+    
+<div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
+In this article, we present Biologically Annotated Neural Networks (BANNs), a nonlinear probabilistic framework for association mapping in genome-wide association (GWA) studies. BANNs are feedforward models with partially connected architectures that are based on biological annotations. This setup yields a fully interpretable neural network where the input layer encodes SNP-level effects, and the hidden layer models the aggregated effects among SNP-sets. We treat the weights and connections of the network as random variables with prior distributions that reflect how genetic effects manifest at different genomic scales. The BANNs software uses variational inference to provide posterior summaries which allow researchers to simultaneously perform (i) mapping with SNPs and (ii) enrichment analyses with SNP-sets on complex traits. Through simulations, we show that our method improves upon state-of-the-art association mapping and enrichment approaches across a wide range of genetic architectures. We then further illustrate the benefits of BANNs by analyzing real GWA data assayed in approximately 2,000 heterogenous stock of mice from the Wellcome Trust Centre for Human Genetics and approximately 7,000 individuals from the Framingham Heart Study. Lastly, using a random subset of individuals of European ancestry from the UK Biobank, we show that BANNs is able to replicate known associations in high and low-density lipoprotein cholesterol content.</a>
 </div>
 
 </td>
