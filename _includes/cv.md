@@ -173,9 +173,9 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
     PLOS Genetics(in press) <br>
     [5] 
 [<a href='javascript:;'
-    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'>paper</a>] <br>
+    onclick='$("#abs_bann").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'>paper</a>] <br>
     
-<div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
+<div id="abs_bann" style="text-align: justify; display: none" markdown="1">
 In this article, we present Biologically Annotated Neural Networks (BANNs), a nonlinear probabilistic framework for association mapping in genome-wide association (GWA) studies. BANNs are feedforward models with partially connected architectures that are based on biological annotations. This setup yields a fully interpretable neural network where the input layer encodes SNP-level effects, and the hidden layer models the aggregated effects among SNP-sets. We treat the weights and connections of the network as random variables with prior distributions that reflect how genetic effects manifest at different genomic scales. The BANNs software uses variational inference to provide posterior summaries which allow researchers to simultaneously perform (i) mapping with SNPs and (ii) enrichment analyses with SNP-sets on complex traits. Through simulations, we show that our method improves upon state-of-the-art association mapping and enrichment approaches across a wide range of genetic architectures. We then further illustrate the benefits of BANNs by analyzing real GWA data assayed in approximately 2,000 heterogenous stock of mice from the Wellcome Trust Centre for Human Genetics and approximately 7,000 individuals from the Framingham Heart Study. Lastly, using a random subset of individuals of European ancestry from the UK Biobank, we show that BANNs is able to replicate known associations in high and low-density lipoprotein cholesterol content.</a>
 </div>
 
