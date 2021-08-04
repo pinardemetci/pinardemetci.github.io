@@ -1,1 +1,1 @@
-Pinar Demetci
+Pınar Demetci
