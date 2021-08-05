@@ -14,7 +14,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>December 2021</td>
-  <td>Invited speaker at "Optimal Transport in Machine Learning" Workshop at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
 </table>
 
