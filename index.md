@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Pınar Demetci
+title: Pınar Demetçi
 ---
 
 ---
