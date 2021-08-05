@@ -7,13 +7,13 @@ title: "Updates"
 #### Upcoming
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>August 2021 </td>
+  <td class='col-md-3'>29 August 2021 </td>
   <td> Presenting <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>December 2021</td>
+  <td class='col-md-3'>14 December 2021</td>
   <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
 </table>
