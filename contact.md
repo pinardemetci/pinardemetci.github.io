@@ -9,7 +9,7 @@ title: "Fun"
 <html>
 <style>
 .calendar {
-    text-align: center;
+    text-align: left;
 }
 .column1 {
   float: left;
