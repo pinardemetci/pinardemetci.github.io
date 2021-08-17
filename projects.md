@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 # Projects
-Outside of my dissertation research, I've had the opportunity to work on a number of engineering, science, programming and modeling projects. Here, you can browse a selection of them (clickable details coming soon):
+Outside of my dissertation research, I've had the opportunity to work on a number of engineering, science, programming and modeling projects. Here, you can browse a selection of them **(clickable details coming soon)**:
 
 <html>
 <style>
