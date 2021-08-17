@@ -28,14 +28,20 @@ title: "Contact"
   clear: both;
   display: table;
 }
+ul {
+    display: inline;
+    padding: 0;
+}
+li {
+    display: inline;
+}
 </style>
 
 <div class="row">
   <div class="column1">
 <strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br>
 
-<strong> Platforms & Profiles: </strong>
-<ul class="list-inline idxIcons" style='font-size: 1.9em; margin-top: 0.5em;'>
+<strong> Platforms & Profiles: </strong> <ul class="list-inline idxIcons" style='font-size: 1.9em; margin-top: 0.5em;'>
         <li>
           <a href="http://www.linkedin.com/in/pinardemetci" target="_blank">
             <i class="fa fa-fw fa-linkedin"></i></a>
