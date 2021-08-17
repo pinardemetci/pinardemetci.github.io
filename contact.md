@@ -30,6 +30,7 @@ title: "Contact"
 }
 img{
 	border: 0;
+	padding: 0;
 }
 
 ul {
