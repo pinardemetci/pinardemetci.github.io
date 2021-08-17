@@ -19,11 +19,20 @@ title: "Fun"
   border: 0px
 }
 
+.calendar {
+    text-align: center;
+}
+
 </style>
 
 <div class="grid-container">
   <div class="grid-item"> <strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br>
-  <strong>Calendar: </strong> <a href="pinardemetci.github.io/calendar"> Free/busy calendar </a><br>
+
+  <strong>Calendar: </strong> 
+  <div class="calendar">
+  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="yes"></iframe>
+</div> <br>
+
 <strong>Office Address: </strong><br>
 164 Angell Street. 3rd Floor. <br>
 Center for Computational Molecular Biology<br>
