@@ -44,7 +44,6 @@ li {
 <div class="row">
   <div class="column1">
 <strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br><br>
-
 <strong> Platforms & Profiles: </strong> <ul class="list-inline idxIcons" style='font-size: 1.5em; margin-top: 0.5em;'>
         <li>
           <a href="http://www.linkedin.com/in/pinardemetci" target="_blank">
@@ -62,9 +61,7 @@ li {
           <a href="http://github.com/pinardemetci" target="_blank">
             <i class="fa fa-fw fa-github"></i></a>
         </li>
-        </ul><br>
-        <br>
-
+        </ul><br><br>
 <strong>Calendar: </strong> If you want to schedule a call or a meeting, you can take a look at my calendar for available times:
   <div class="calendar">
   <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="800" frameborder="0" scrolling="yes"></iframe>
