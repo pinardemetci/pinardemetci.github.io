@@ -43,7 +43,7 @@ li {
 
 <div class="row">
   <div class="column1">
-<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br>
+<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br><br>
 
 <strong> Platforms & Profiles: </strong> <ul class="list-inline idxIcons" style='font-size: 1.5em; margin-top: 0.5em;'>
         <li>
