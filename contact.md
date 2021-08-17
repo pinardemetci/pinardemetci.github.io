@@ -13,12 +13,12 @@ title: "Contact"
 }
 .column1 {
   float: left;
-  width: 66.66%;
+  width: 65%;
   padding: 10px;
 }
 .column2 {
   float: left;
-  width: 33.33%;
+  width: 35%;
   padding: 5px;
 }
 
