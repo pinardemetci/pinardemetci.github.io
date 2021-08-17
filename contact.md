@@ -22,7 +22,18 @@ title: "Fun"
 .calendar {
     text-align: center;
 }
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 
 <div class="grid-container">
@@ -39,9 +50,12 @@ Center for Computational Molecular Biology<br>
 Providence, Rhode Island<br>
 </div>
 
-  <div class="grid-item"> 
-  <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" width="200"> <br>
-<img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" width="200">
+<div class="row">
+  <div class="column">
+    <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%">
   </div>
 </div>
 
