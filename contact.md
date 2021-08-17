@@ -10,7 +10,7 @@ title: "Fun"
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: 500px 500px
+  grid-template-columns: 350px 350px
   grid-column-gap: 20px;
   border: 0px;
 }
@@ -30,8 +30,9 @@ Center for Computational Molecular Biology<br>
 Providence, Rhode Island<br>
 </div>
 
-  <div class="grid-item"> <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg"> <br>
-<img src="http://pinardemetci.github.io/images/CCMB_in.jpeg">
+  <div class="grid-item"> 
+  <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" width="200"> <br>
+<img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" width="200">
   </div>
 </div>
 
