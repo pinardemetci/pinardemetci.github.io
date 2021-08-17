@@ -47,17 +47,18 @@ Providence, Rhode Island<br>
 <div class="row">
   <div class="column1">
 <strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br>
+
 <strong>Calendar: </strong> If you want to schedule a call or a meeting, you can take a look at my calendar for available times:
   <div class="calendar">
   <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="yes"></iframe>
 </div> <br>
-<strong>Office Address: </strong><br>
-164 Angell Street. 3rd Floor. <br>
-Center for Computational Molecular Biology<br>
-Providence, Rhode Island<br>
   </div>
 
   <div class="column2">
+  	<strong>Office Address: </strong><br>
+	164 Angell Street. 3rd Floor. <br>
+	Center for Computational Molecular Biology<br>
+	Providence, Rhode Island<br><br>
     <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
     <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%">
   </div>
