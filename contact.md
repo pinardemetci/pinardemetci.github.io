@@ -8,23 +8,17 @@ title: "Fun"
 
 <html>
 <style>
-.grid-container {
-  display: grid;
-  grid-template-columns: 350px 350px
-  grid-column-gap: 20px;
-  border: 0px;
-}
-
-.grid-item {
-  border: 0px
-}
-
 .calendar {
     text-align: center;
 }
-.column {
+.column1 {
   float: left;
-  width: 50%;
+  width: 66.66%;
+  padding: 10px;
+}
+.column2 {
+  float: left;
+  width: 33.33%;
   padding: 5px;
 }
 
@@ -52,10 +46,10 @@ Providence, Rhode Island<br>
 
 <div class="row">
 <strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pinar_demetci@brown.edu"> pinar_demetci@brown.edu </a> <br>
-  <div class="column">
+  <div class="column1">
 <strong>Calendar: </strong> If you want to schedule a call or a meeting, you can take a look at my calendar for available times:
   <div class="calendar">
-  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="400" height="300" frameborder="0" scrolling="yes"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="300" frameborder="0" scrolling="yes"></iframe>
 </div> <br>
 <strong>Office Address: </strong><br>
 164 Angell Street. 3rd Floor. <br>
@@ -63,7 +57,7 @@ Center for Computational Molecular Biology<br>
 Providence, Rhode Island<br>
   </div>
 
-  <div class="column">
+  <div class="column2">
     <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
     <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%">
   </div>
