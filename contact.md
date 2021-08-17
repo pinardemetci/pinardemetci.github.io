@@ -64,7 +64,7 @@ li {
         </ul><br><br>
 <strong>Calendar: </strong> If you want to schedule a call or a meeting, you can take a look at my calendar for available times:
   <div class="calendar">
-  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="800" frameborder="0" scrolling="yes"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cGluYXJfZGVtZXRjaUBicm93bi5lZHU&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="500" frameborder="0" scrolling="yes"></iframe>
 </div> <br>
   </div>
 
@@ -73,7 +73,7 @@ li {
 	164 Angell Street. 3rd Floor. <br>
 	Center for Computational Molecular Biology<br>
 	Providence, Rhode Island<br><br>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br>
     <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
     <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%">
   </div>
