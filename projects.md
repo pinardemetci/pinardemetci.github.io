@@ -105,6 +105,7 @@ div.button:hover{
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/keio.jpeg"><h5> Motility inducing secondary mutations in E.coli knockouts</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/biomechanics.png"><h5> Biomechanical analysis of ultralight and standard hiking backpacks</h5></div>
   <div class="grid-item"><img src="http://pinardemetci.github.io/images/3DScanner.png"><h5> 3D scanner with Arduino </h5></div>
+  <div class="grid-item"><img src="http://pinardemetci.github.io/images/ceramics.jpg"><h5> Ceramics & Pottery </h5></div>
   <div class="grid-item"> <h5> RNNs and LSTMs for French <-> English machine translation </h5></div>
   <div class="grid-item"> <h5> Graph neural networks for anti-cancer molecule classification </h5></div>
   <div class="grid-item"><h5> Line following robot with PID control </h5></div>
