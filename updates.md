@@ -14,7 +14,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>21 October 2021 </td>
-  <td> Invited talk at <a href="https://uconn.edu/"> University of Connecticut]</a> Bioinformatics Seminar.</td>
+  <td> Invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar.</td>
 </tr>
 <tr>
 </tr>
