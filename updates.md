@@ -13,6 +13,12 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
+  <td class='col-md-3'>21 October 2021 </td>
+  <td> Invited talk at <a href="https://uconn.edu/"> University of Connecticut]</a> Bioinformatics Seminar.</td>
+</tr>
+<tr>
+</tr>
+<tr>
   <td class='col-md-3'>14 December 2021</td>
   <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
