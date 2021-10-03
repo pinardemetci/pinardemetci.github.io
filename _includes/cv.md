@@ -1,8 +1,8 @@
-I am a Ph.D. candidate at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work focuses on probabilistic algorithms for integrated analysis of single-cell multi-omics data.<br>
+I am a Ph.D. candidate at **Brown University**, primarily working with [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation work focuses on probabilistic algorithms for integrated analysis of single-cell multi-omics data, with an overall goal to understand how gene expression regulation works in health and disease.<br>
 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Then, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, researching gene regulatory network rewiring in bacteria. In the summer of 2020, I completed an internship with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
 
-Apart from computational biology, I have had the opportunity to work on [various projects](/projects/). [Outside of research](/fun/), I enjoy holding boardgame nights with friends, feeding birds, catsitting, playing ukulele and violin, and swimming. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have had the opportunity to work on various projects, which can be found [here](/projects/). [Outside of research](/fun/), I enjoy volunteering with [Ten Lives Cat Rescue](https://tenlivescatrescue.org/), bird feeding, holding boardgame events with friends, swimming, and pretending I can properly play ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 <style>
 .grid-container {
@@ -153,6 +153,23 @@ div.interest-container>ul {
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
     International Conference on Research in Computational Molecular Biology (RECOMB) 2021 <br>
+    [6] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
+    
+<div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
+Data integration of single-cell measurements is critical for our understanding of cell development and disease, but the lack of correspondence between different types of single-cell measurements makes such efforts challenging. Several unsupervised algorithms are capable of aligning heterogeneous types of single-cell measurements in a shared space, enabling the creation of mappings between single cells in different data modalities.
+We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised learning algorithm that uses Gromov Wasserstein-based optimal transport to align single-cell multi-omics datasets. SCOT calculates a probabilistic coupling matrix that matches cells across two datasets. The optimization uses k-nearest neighbor graphs, thus preserving the local geometry of the data. We use the resulting coupling matrix to project one single-cell dataset onto another via a barycentric projection.  We compare the alignment performance of SCOT with state-of-the-art algorithms on three simulated and two real datasets. Our results demonstrate that SCOT yields results that are comparable in quality to those of competing methods, but SCOT is significantly faster and requires tuning fewer hyperparameters. The code is available at <a href='https://github.com/rsinghlab/SCOT' target='_blank'>https://github.com/rsinghlab/SCOT</a>
+</div>
+</td>
+</tr>
+
+<<!-- tr>
+<td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'><img src="images/publications/SCOT.png"/></a> </td>
+<td>
+    <strong>SCOT: Single-Cell multi-omics alignment with Optimal Transport</strong><br>
+    <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
+     *Equal Contribution, #Corresponding Author<br>
     Journal of Computational Biology (in press) <br>
     [6] 
 [<a href='javascript:;'
@@ -162,9 +179,9 @@ div.interest-container>ul {
 Data integration of single-cell measurements is critical for our understanding of cell development and disease, but the lack of correspondence between different types of single-cell measurements makes such efforts challenging. Several unsupervised algorithms are capable of aligning heterogeneous types of single-cell measurements in a shared space, enabling the creation of mappings between single cells in different data modalities.
 We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised learning algorithm that uses Gromov Wasserstein-based optimal transport to align single-cell multi-omics datasets. SCOT calculates a probabilistic coupling matrix that matches cells across two datasets. The optimization uses k-nearest neighbor graphs, thus preserving the local geometry of the data. We use the resulting coupling matrix to project one single-cell dataset onto another via a barycentric projection.  We compare the alignment performance of SCOT with state-of-the-art algorithms on three simulated and two real datasets. Our results demonstrate that SCOT yields results that are comparable in quality to those of competing methods, but SCOT is significantly faster and requires tuning fewer hyperparameters. The code is available at <a href='https://github.com/rsinghlab/SCOT' target='_blank'>https://github.com/rsinghlab/SCOT</a>
 </div>
-
 </td>
 </tr>
+ -->
 <tr>
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'><img src="images/publications/bann.png"/></a> </td>
 <td>
