@@ -67,7 +67,7 @@ div.interest-container>ul {
   <li class="col1-item2">Optimal transport</li>
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
-  <li class="col1-item5">Variable/feature selection</li>
+  <li class="col1-item5">Variable selection</li>
   <li class="col1-item6">Causal inference</li>
   <li class="col1-item9">Machine learning & deep learning</li>
   <li class="col1-item7">Graph algorithms</li>
