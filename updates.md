@@ -6,11 +6,6 @@ title: "Updates"
 # Updates
 #### Upcoming
 <table class="table table-hover">
-<tr>
-  <td class='col-md-3'>29 August 2021 </td>
-  <td> Presenting <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'>21 October 2021 </td>
@@ -29,6 +24,11 @@ title: "Updates"
  -->
 #### Past
 <table class="table table-hover">
+<tr>
+  <td class='col-md-3'>29 August 2021 </td>
+  <td> Presented <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
+</tr>
+<tr>
 <tr>
   <td class='col-md-3'>11 August 2021 </td>
   <td> Our work on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754">multi-scale genomic inference</a> has been accepted for publication at <a href="https://journals.plos.org/plosgenetics/">PLOS Genetics</a>!</td>
