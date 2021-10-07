@@ -148,7 +148,7 @@ div.interest-container>ul {
 <tr>
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'><img src=""/></a> </td>
 <td>
-    <strong>SCOT: Single-Cell multi-omics alignment with Optimal Transport</strong><br>
+    <strong>SCOT: Single-Cell multi-omics integration with Optimal Transport</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
     Journal of Computational Biology (in press) <br>
