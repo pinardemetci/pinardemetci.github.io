@@ -23,20 +23,27 @@ title: "Updates"
  -->
 #### Past
 <table class="table table-hover">
+  <tr>
+  <td class='col-md-3'>30 September 2021 </td>
+  <td> Our lab received a 5-year flexible research funding through the <a href="https://www.genome.gov/research-funding/Funding-Opportunities/Genomic-Innovator-Awards"> 2021 NIH Genomic Innovator Award </a> granted to <a href="https://www.brown.edu/news/2021-10-05/innovator"> Dr. Ritambhara Singh </a>! </td>
+</tr>
 <tr>
   <td class='col-md-3'>29 August 2021 </td>
   <td> Presented <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
 </tr>
 <tr>
+</tr>
 <tr>
   <td class='col-md-3'>11 August 2021 </td>
   <td> Our work on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754">multi-scale genomic inference</a> has been accepted for publication at <a href="https://journals.plos.org/plosgenetics/">PLOS Genetics</a>!</td>
-</tr><tr>
+</tr>
+<tr>
 </tr>
 <tr>
   <td class='col-md-3'>27 May 2021 </td>
   <td> Passed my qualifying exam, defended my dissertation proposal, and advanced to candidacy!</td>
-</tr><tr>
+</tr>
+<tr>
 </tr>
 <tr>
   <td class='col-md-3'>02 March 2021</td>
