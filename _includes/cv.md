@@ -342,10 +342,22 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 <table class="table table-hover">
   <tr>
+  <td class='col-md-1'>2021</td>
+  <td><strong>RECOMB Proceedings (Oral Presentation) </strong><br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  <strong><ins>P Demetci*</ins></strong>, <ins>R Santorella*</ins>, B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+<tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
     Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
   <strong><ins>P Demetci*</ins></strong> [spotlight], <ins>R Santorella*</ins> [poster], B Sandstede, W Stafford Noble, R Singh</td>
+</tr>
+  <tr>
+  <td class='col-md-1'>2020</td>
+  <td><strong>Machine Learning in Computational Biology (MLCB) Conference (Oral Presentation) </strong>  [Acceptance Rate: 15%]<br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
+  <strong><ins>P Demetci*</ins></strong>, R Santorella*, B Sandstede, W Stafford Noble, R Singh</td>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>

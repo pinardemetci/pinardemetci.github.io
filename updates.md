@@ -6,11 +6,7 @@ title: "Updates"
 # Updates
 #### Upcoming
 <table class="table table-hover">
-<tr>
-  <td class='col-md-3'>21 October 2021 </td>
-  <td> Invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar.</td>
-</tr>
-<tr>
+
 </tr>
 <tr>
   <td class='col-md-3'>14 December 2021</td>
@@ -23,6 +19,11 @@ title: "Updates"
  -->
 #### Past
 <table class="table table-hover">
+  <tr>
+  <td class='col-md-3'>21 October 2021 </td>
+  <td> Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar.</td>
+</tr>
+<tr>
   <tr>
   <td class='col-md-3'>30 September 2021 </td>
   <td> Our lab received a 5-year flexible research funding through the <a href="https://www.genome.gov/research-funding/Funding-Opportunities/Genomic-Innovator-Awards"> 2021 NIH Genomic Innovator Award </a> granted to <a href="https://www.brown.edu/news/2021-10-05/innovator"> Dr. Ritambhara Singh </a>! </td>
