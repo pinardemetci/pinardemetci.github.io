@@ -1,8 +1,8 @@
-I am a Ph.D. candidate at **Brown University**, where I primarily work with [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation focuses on probabilistic algorithms for integrated analysis of single-cell multi-omics data, with an overall goal to understand gene expression regulation dynamics in health and disease.<br>
+I am a Ph.D. candidate at **Brown University**, where I primarily work with [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My research is at the intersection of **computer science**, **molecular biology**,  and **statistics**. My dissertation focuses on developing probabilistic and statistical algorithms for integrated analysis of single-cell multi-omics data, with an overall goal to understand gene expression regulation dynamics in health and disease.<br>
 
-Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summer of 2020, I interned with the [Genomics team](https://www.microsoft.com/en-us/genomics/) at **Microsoft Research.** <br>
+Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summer of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br>
 
-Apart from computational biology, I have had the opportunity to work on various projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy bird feeding, holding boardgame events with friends, swimming, and pretending I can properly play the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have had the opportunity to work on various projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame events with friends, swimming, bird feeding, volunteering with [Ten Lives Cat Rescue](https://tenlivescatrescue.org/), and pretending I can properly play the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 <style>
 .grid-container {
@@ -124,6 +124,12 @@ div.interest-container>ul {
 ## <i class="fa fa-chevron-right"></i> Professional Experience
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>June 2022 - Aug 2022</td>
+  <td><strong>Microsoft Research</strong>, Research Intern (Redmond, WA)</td>
+</tr>
+<tr>
+</tr>
+<tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
   <td><strong>Microsoft Research</strong>, Research Intern: Genomics (Redmond, WA)</td>
 </tr>
@@ -144,6 +150,43 @@ div.interest-container>ul {
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Research Projects and Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+<h2>2022</h2>
+<table class="table table-hover">
+<tr>
+<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td>
+    <strong> Unsupervised Integration of Single-Cell Multi-omics Datasets with Disproportionate Cell-Type Representation</strong><br>
+    <strong>P. Demetci</strong>, R. Santorella, B. Sandstede, R. Singh<br>
+    Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2022)
+ <br>
+    Springer Nature Lecture Notes in Bioinformatics (2022) pp 3-19<br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetciscot2").toggle()'>abstract</a>] [<a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'>paper</a>] <a href=' http://rsinghlab.github.io/SCOT' target='_blank'>[code]</a> <br>
+    
+<div id="abs_demetciscot2" style="text-align: justify; display: none" markdown="1">
+Integrated analysis of multi-omics data allows the study of how different molecular views in the genome interact to regulate cellular processes; however, with a few exceptions, applying multiple sequencing assays on the same single cell is not possible. While recent unsupervised algorithms align single-cell multi-omic datasets, these methods have been primarily benchmarked on co-assay experiments rather than the more common single-cell experiments taken from separately sampled cell populations. Therefore, most existing methods perform subpar alignments on such datasets. Here, we improve our previous work Single Cell alignment using Optimal Transport (SCOT) by using unbalanced optimal transport to handle disproportionate cell-type representation and differing sample sizes across single-cell measurements. We show that our proposed method, SCOTv2, consistently yields quality alignments on five real-world single-cell datasets with varying cell-type proportions and is computationally tractable. Additionally, we extend SCOTv2 to integrate multiple (M ≥ 2) single-cell measurements and present a self-tuning heuristic process to select hyperparameters in the absence of any orthogonal correspondence information.
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td>
+    <strong>Unbalanced CO-Optimal Transport</strong><br>
+    Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
+     arXiv:2205.14923 (under review for NeurIPS 2022) <br>
+    [8] 
+[<a href='javascript:;'
+    onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2205.14923' target='_blank'>paper</a>] <a href='https://github.com/6Ulm/UCOOT' target='_blank'>[code]</a> <br>
+    
+<div id="abs_ucoot" style="text-align: justify; display: none" markdown="1">
+Optimal transport (OT) compares probability distributions by computing a meaningful alignment between their samples. CO-optimal transport (COOT) takes this comparison further by inferring an alignment between features as well. While this approach leads to better alignments and generalizes both OT and Gromov-Wasserstein distances, we provide a theoretical result showing that it is sensitive to outliers that are omnipresent in real-world data. This prompts us to propose unbalanced COOT for which we provably show its robustness to noise in the compared datasets. To the best of our knowledge, this is the first such result for OT methods in incomparable spaces. With this result in hand, we provide empirical evidence of this robustness for the challenging tasks of heterogeneous domain adaptation with and without varying proportions of classes and simultaneous alignment of samples and features across single-cell measurements.
+</div>
+</td>
+</tr>
+</table>
+
 <h2>2021</h2>
 <table class="table table-hover">
  <tr>
@@ -286,6 +329,13 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 ## <i class="fa fa-chevron-right"></i> Awards
 <table class="table table-hover">
+  <tr>
+  <td class='col-md-2'>2022</td>
+  <td>
+   RECOMB Travel Fellowship
+    <!--  -->
+  </td>
+</tr>
 <tr>
   <td class='col-md-2'>2020</td>
   <td>
@@ -338,57 +388,68 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
-<ins>Presenters underlined</ins>,  Equal contribution denoted with: *
-
+<ins>Presenters underlined</ins>
 <table class="table table-hover">
-  <tr>
+<tr>
+  <td class='col-md-1'>2022</td>
+  <td><strong>Stanford University (Invited Talk) </strong> <br>
+    Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery</td><br>
+</tr> 
+<tr>
+  <td class='col-md-1'>2022</td>
+  <td><strong>RECOMB Proceedings (Oral Presentation) </strong> <br>
+    Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</td><br>
+</tr> 
+<tr>
+      <td class='col-md-1'>2021</td>
+  <td><strong>NeurIPS Workshop on Optimal Transport in Machine Learning (Invited Keynote) </strong><br>
+    Enabling integrated analysis of single-cell multi-omics with optimal transport</td><br>
+</tr>
+<tr>
+  <td class='col-md-1'>2021</td>
+  <td><strong>Machine Learning in Computational Biology (Oral Presentation) </strong><br>
+    Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</td><br>
+</tr>
+<tr>
   <td class='col-md-1'>2021</td>
   <td><strong>RECOMB Proceedings (Oral Presentation) </strong><br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><ins>P Demetci*</ins></strong>, <ins>R Santorella*</ins>, B Sandstede, W Stafford Noble, R Singh</td>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td> <br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><ins>P Demetci*</ins></strong> [spotlight], <ins>R Santorella*</ins> [poster], B Sandstede, W Stafford Noble, R Singh</td>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>  <br>
 </tr>
   <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>Machine Learning in Computational Biology (MLCB) Conference (Oral Presentation) </strong>  [Acceptance Rate: 15%]<br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><ins>P Demetci*</ins></strong>, R Santorella*, B Sandstede, W Stafford Noble, R Singh</td>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>  <br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB Proceedings (Oral Presentation) </strong> [Acceptance Rate: 19%]<br>
-   Combinatorial and statistical prediction of gene expression from haplotype sequence  <br>
-  <ins>B Alpay*</ins>, <strong>P Demetci*</strong>, S Istrail, D Aguiar</td>
+   Combinatorial and statistical prediction of gene expression from haplotype sequence</td>  <br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ISMB (Oral & Poster Presentation)</strong> [Acceptance Rate: 25%] <br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-    <ins><strong>P Demetci </strong></ins> [poster], <ins>R Santorella*</ins> [oral], B Sandstede, W Stafford Noble, R Singh</td>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data </td><br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>Brown Unconference on Computational Intelligence and Applications (Invited Talk)</strong> <br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data  <br>
-  <strong><ins>P Demetci*</ins></strong>, R Santorella*, B Sandstede, W Stafford Noble, R Singh</td>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data </td><br>
 </tr>
 <tr>
   <td class='col-md-1'>2019</td>
   <td><strong>CCV-Con (Invited Talk @ Brown University) </strong> <br>
-    Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery  <br>
-  <ins><strong>P Demetci</strong></ins>, W Cheng, G Darnell, S Ramachandran, L Crawford</td>
+    Biologically Annotated Neural Networks for Multi-scale Genomic Association Discovery</td><br>
 </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>FIE (Oral Presentation) </strong> [Acceptance Rate: 48%] <br>
-    Internalization and externalization: How do they emerge and why is it important?  <br>
-  <ins><strong>P Demetci</strong></ins>, <ins>C Nichols</ins>, Y V Zastavker, J D Stolk, A Dillon, M D Gross</td>
-</tr>
+    Internalization and externalization: How do they emerge and why is it important?</td> <br>
+  </tr>
 <tr>
   <td class='col-md-1'>2016</td>
   <td><strong>NEMPET (Poster Presentation) </strong> <br>
