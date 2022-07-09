@@ -388,7 +388,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
-<ins>Presenters underlined</ins>
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2022</td>
