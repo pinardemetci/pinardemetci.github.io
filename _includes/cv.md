@@ -153,7 +153,7 @@ div.interest-container>ul {
 <h2>2022</h2>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/scotv2.png"/></a> </td>
 <td>
     <strong> Unsupervised Integration of Single-Cell Multi-omics Datasets with Disproportionate Cell-Type Representation</strong><br>
     <strong>P. Demetci</strong>, R. Santorella, B. Sandstede, R. Singh<br>
@@ -330,6 +330,13 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Awards
 <table class="table table-hover">
   <tr>
+  <td class='col-md-2'>2022</td>
+  <td>
+   Selected for "Rising Stars in EECS" (UT Austin)
+    <!--  -->
+  </td>
+</tr>
+ <tr>
   <td class='col-md-2'>2022</td>
   <td>
    RECOMB Travel Fellowship

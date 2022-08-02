@@ -6,14 +6,6 @@ title: "Updates"
 # Updates
 #### Upcoming
 <table class="table table-hover">
-
-</tr>
-<tr>
-  <td class='col-md-3'>14 December 2021</td>
-  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
-</tr>
-</table>
-
 <!-- ###### Stay Connected:
 <a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  -->
@@ -22,7 +14,31 @@ title: "Updates"
   <tr>
   <td class='col-md-3'>21 October 2021 </td>
   <td> Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar.</td>
+  <tr>
+  <td class='col-md-3'>14 December 2021</td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
+</table>
+  <tr>
+  <td class='col-md-3'>14 December 2021</td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+</tr>
+</table>
+  <tr>
+  <td class='col-md-3'>14 December 2021</td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+</tr>
+</table>
+  <tr>
+  <td class='col-md-3'>14 December 2021</td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+</tr>
+</table>
+<tr>
+  <td class='col-md-3'>14 December 2021</td>
+  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+</tr>
+</table>
 <tr>
   <tr>
   <td class='col-md-3'>30 September 2021 </td>
