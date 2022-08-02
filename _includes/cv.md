@@ -332,7 +332,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <tr>
   <td class='col-md-2'>2022</td>
   <td>
-   Selected for "Rising Stars in EECS" (UT Austin)
+   Selected as part of the <a href="https://risingstars.utexas.edu/">"Rising Stars in EECS" 2022 cohort (UT Austin)</a>
     <!--  -->
   </td>
 </tr>
