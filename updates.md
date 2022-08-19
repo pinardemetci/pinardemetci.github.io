@@ -5,7 +5,6 @@ title: "Updates"
 
 # Updates
 #### Upcoming
-
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 October 2022 </td>
@@ -13,8 +12,9 @@ title: "Updates"
   <tr>
 </table>
 
-<!-- 
 #### Past
+
+<!-- 
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>7 June 2022</td>
