@@ -407,7 +407,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
     Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</td><br>
 </tr> 
 <tr>
-      <td class='col-md-1'>2021</td>
+  <td class='col-md-1'>2021</td>
   <td><strong>NeurIPS Workshop on Optimal Transport in Machine Learning (Invited Keynote) </strong><br>
     Enabling integrated analysis of single-cell multi-omics with optimal transport</td><br>
 </tr>
@@ -419,17 +419,17 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-1'>2021</td>
   <td><strong>RECOMB Proceedings (Oral Presentation) </strong><br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td> <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td><br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
   <td><strong>ICML Workshop on Computational Biology (Poster & Spotlight Presentation) </strong>  [Acceptance Rate: 21%]<br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>  <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td><br>
 </tr>
-  <tr>
+<tr>
   <td class='col-md-1'>2020</td>
   <td><strong>Machine Learning in Computational Biology (MLCB) Conference (Oral Presentation) </strong>  [Acceptance Rate: 15%]<br>
-    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td>  <br>
+    Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</td> <br>
 </tr>
 <tr>
   <td class='col-md-1'>2020</td>
@@ -465,11 +465,10 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-1'>2015</td>
   <td><strong>Closing the Gap (Oral Presentation) </strong> <br>
-    Project EyeHelper: Assistive Navigation for Blind Shopping  <br>
+    Project EyeHelper: Assistive Navigation for Blind Shopping <br>
   <ins><strong>P Demetci</strong></ins>, <ins>A Johnnson</ins>, <ins>M Ruehle</ins>, P Ruvolo</td>
 </tr>
 </table>
-
 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
@@ -577,3 +576,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
 </table>
+
+###### Stay Connected:
+<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
