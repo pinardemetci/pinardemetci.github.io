@@ -6,39 +6,45 @@ title: "Updates"
 # Updates
 #### Upcoming
 <table class="table table-hover">
-<!-- ###### Stay Connected:
-<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- -->
+<tr>
+  <td class='col-md-3'>27 October 2022 </td>
+  <td> Will be attending the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin. </td>
+  <tr>
+</table>
+ <!-- ###### Stay Connected:
+<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
 #### Past
 <table class="table table-hover">
-  <tr>
-  <td class='col-md-3'>21 October 2021 </td>
-  <td> Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar.</td>
-  <tr>
-  <td class='col-md-3'>14 December 2021</td>
-  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+<tr>
+  <td class='col-md-3'>7 June 2022</td>
+  <td> Delivered an invited virtual talk at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab </a> at Stanford University Topic: <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> ``Multi-scale inference of genetic trait architecture using biologically annotated neural networks''</a>. </td>
 </tr>
-</table>
-  <tr>
-  <td class='col-md-3'>14 December 2021</td>
-  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+<tr>
+  <td class='col-md-3'>6 June 2022</td>
+  <td> Starded a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>
 </tr>
-</table>
-  <tr>
-  <td class='col-md-3'>14 December 2021</td>
-  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+<tr>
+  <td class='col-md-3'>22 May 2022</td>
+  <td> Oral presentation at the <a href="https://recomb2022.net"> RECOMB </a> conference </a>. Topic: <a href="https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1"> ``Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation'' </a> </td>
 </tr>
-</table>
-  <tr>
-  <td class='col-md-3'>14 December 2021</td>
-  <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
+<tr>
+  <td class='col-md-3'>12 April 2022</td>
+  <td>Received the <a href="https://recomb2022.net"> 2022 RECOMB Travel Fellowship </a></td>
 </tr>
-</table>
 <tr>
   <td class='col-md-3'>14 December 2021</td>
   <td>Keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a></td>
 </tr>
-</table>
+<tr>
+  <td class='col-md-3'>10 December 2021</td>
+  <td> Delivered an invited talk at the Translational Bioinformatics Journal Club at Brown University. Topic: <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> ``Multi-scale inference of genetic trait architecture using biologically annotated neural networks''</a></td>
+</tr>
+<tr>
+  <tr>
+  <td class='col-md-3'>21 October 2021 </td>
+  <td>Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar on single-cell multi-omic dataset alignment.</td> </td>
+</tr>
 <tr>
   <tr>
   <td class='col-md-3'>30 September 2021 </td>
