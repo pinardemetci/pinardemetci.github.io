@@ -5,15 +5,15 @@ title: "Updates"
 
 # Updates
 #### Upcoming
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 October 2022 </td>
   <td> Will be attending the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin. </td>
   <tr>
 </table>
- <!-- ###### Stay Connected:
-<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
+<!-- 
 #### Past
 <table class="table table-hover">
 <tr>
@@ -168,7 +168,7 @@ title: "Updates"
   <td class='col-md-3'>02 July 2019</td>
   <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19">"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
-</table>
+</table> -->
 
 <table class="table table-hover">
   {% for post in site.posts %}
