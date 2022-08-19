@@ -13,8 +13,6 @@ title: "Updates"
 </table>
 
 #### Past
-
-<!-- 
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>7 June 2022</td>
@@ -168,7 +166,7 @@ title: "Updates"
   <td class='col-md-3'>02 July 2019</td>
   <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19">"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
-</table> -->
+</table>
 
 <table class="table table-hover">
   {% for post in site.posts %}
