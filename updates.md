@@ -9,7 +9,7 @@ title: "Updates"
 <tr>
   <td class='col-md-3'>27 October 2022 </td>
   <td> Will be attending the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin. </td>
-  <tr>
+  </tr>
 </table>
 
 #### Past
