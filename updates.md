@@ -16,15 +16,19 @@ title: "Updates"
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>7 June 2022</td>
-  <td> Delivered an invited virtual talk at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab </a> at Stanford University Topic: <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> ``Multi-scale inference of genetic trait architecture using biologically annotated neural networks''</a>. </td>
+  <td> Selected to the 2022 cohort of <a href="https://risingstars.utexas.edu">Rising Stars in EECS</a> by the University of Texas at Austin.</td>
+</tr>
+<tr>
+  <td class='col-md-3'>7 June 2022</td>
+  <td> Delivered an invited virtual talk on  <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab, Stanford University </a></td>
 </tr>
 <tr>
   <td class='col-md-3'>6 June 2022</td>
-  <td> Starded a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>
+  <td> Started a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>22 May 2022</td>
-  <td> Oral presentation at the <a href="https://recomb2022.net"> RECOMB </a> conference </a>. Topic: <a href="https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1"> ``Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation'' </a> </td>
+  <td> Oral presentation at the <a href="https://recomb2022.net"> RECOMB </a> conference on <a href="https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1">Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>12 April 2022</td>
@@ -36,7 +40,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'>10 December 2021</td>
-  <td> Delivered an invited talk at the Translational Bioinformatics Journal Club at Brown University. Topic: <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> ``Multi-scale inference of genetic trait architecture using biologically annotated neural networks''</a></td>
+  <td> Delivered an invited talk on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at the Translational Bioinformatics Journal Club at Brown University.</td>
 </tr>
 <tr>
   <tr>
@@ -46,7 +50,7 @@ title: "Updates"
 <tr>
   <tr>
   <td class='col-md-3'>30 September 2021 </td>
-  <td> Our lab received a 5-year flexible research funding through the <a href="https://www.genome.gov/research-funding/Funding-Opportunities/Genomic-Innovator-Awards"> 2021 NIH Genomic Innovator Award </a> granted to <a href="https://www.brown.edu/news/2021-10-05/innovator"> Dr. Ritambhara Singh </a>! </td>
+  <td> Our lab received a 5-year flexible research funding through the <a href="https://www.genome.gov/research-funding/Funding-Opportunities/Genomic-Innovator-Awards"> 2021 NIH Genomic Innovator Award </a> granted to <a href="https://www.brown.edu/news/2021-10-05/innovator"> Dr. Ritambhara Singh</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>29 August 2021 </td>
