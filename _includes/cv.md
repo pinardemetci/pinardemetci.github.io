@@ -149,7 +149,7 @@ div.interest-container>ul {
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Research Projects and Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+## <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
 <h2>2022</h2>
 <table class="table table-hover">
 <tr>
@@ -473,7 +473,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>Spring 2019 & 2021</td>
+  <td class='col-md-1'>Spring '19 & '21</td>
   <td><strong>Advanced Algorithms in Computational Biology and Medical Bioinformatics</strong> (CSCI 2820 @ Brown U.)<br>
   Teaching Assistant: wrote and graded assignments, held recitations and office hours, lectured a few times.</td>
 </tr>
@@ -577,5 +577,5 @@ Expression of motility genes is a potentially beneficial but costly process in b
   </tr>
 </table>
 
-##### Stay Connected:
+#### Stay Connected:
 <a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
