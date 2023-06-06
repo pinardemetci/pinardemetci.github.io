@@ -3,29 +3,31 @@ body {
 }
 
 h1 {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     font-size: 1.8em;
     margin: 0.1em 0;
 }
 
 h2 {
-    font-family: "Helvetica Neue";
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     font-size: 1.5em;
     padding-top: 3em;
     margin-top: -3em;
 }
 
 h3 {
-    font-family: "Helvetica Neue";
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     font-size: 0.85em;
     padding-top: 3.5em;
     margin-top: -3.5em;
 }
 
 p {
-    font-family: "Helvetica Neue";
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
 }
 
 #toc .toc-h3 {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     padding-left: 3em;
 }
 
@@ -62,18 +64,23 @@ img {
     color: #ffffff;
 } */
 .navbar.h1 {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     color: #ffffff;
 }
 .navbar.h2 {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     color: #ffffff;
 }
 .navbar.h3 {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     color: #ffffff;
 }
 .navbar.p {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     color: #ffffff;
 }
 .navbar.body {
+  font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
     color: #ffffff;
 }
 
