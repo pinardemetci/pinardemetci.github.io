@@ -160,7 +160,7 @@ div.interest-container>ul {
     Proceedings of the 27th International Conference on Artificial Intelligence and Statistics <br>
     (AISTATS 2024)<br>
     Proceedings of Machine Learning Research (PMLR) -- to appear<br>
-    [10] 
+    [11] 
 [<a href='javascript:;'
     onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] [<a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>code</a>] <br>
     
@@ -179,9 +179,9 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
     Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
     Proceedings of the 37th AAAI Conference on Artificial Intelligence<br>
     (AAAI 2023) <br>
-    [9] 
+    [10] 
 [<a href='javascript:;'
-    onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] <a href='https://github.com/6Ulm/UCOOT' target='_blank'>[code]</a> <br>
+    onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] [<a href='https://github.com/6Ulm/UCOOT' target='_blank'>code</a>] <br>
     
 <div id="abs_ucoot" style="text-align: justify; display: none" markdown="1">
 Optimal transport (OT) compares probability distributions by computing a meaningful alignment between their samples. CO-optimal transport (COOT) takes this comparison further by inferring an alignment between features as well. While this approach leads to better alignments and generalizes both OT and Gromov-Wasserstein distances, we provide a theoretical result showing that it is sensitive to outliers that are omnipresent in real-world data. This prompts us to propose unbalanced COOT for which we provably show its robustness to noise in the compared datasets. To the best of our knowledge, this is the first such result for OT methods in incomparable spaces. With this result in hand, we provide empirical evidence of this robustness for the challenging tasks of heterogeneous domain adaptation with and without varying proportions of classes and simultaneous alignment of samples and features across single-cell measurements.
@@ -194,10 +194,10 @@ Optimal transport (OT) compares probability distributions by computing a meaning
 <td>
     <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
     S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
-    bioRxiv (Under review) <br>
+    bioRxiv (Under review at Nature Neuroscience) <br>
     [9] 
 [<a href='javascript:;'
-    onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2023.08.13.553130v1.abstract' target='_blank'>paper</a>] <a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>[code]</a> <br>
+    onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2023.08.13.553130v1.abstract' target='_blank'>paper</a>] [<a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>code</a>] <br>
     
 <div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
 The cerebral cortex diversified extensively during vertebrate evolution. Intriguingly, the three-layered mammalian olfactory cortex resembles the cortical cytoarchitecture of non-mammals yet evolved alongside the six-layered neocortex, enabling unique comparisons for investigating cortical neuron diversification. We performed single-nucleus multiome sequencing across mouse three- to six-layered cortices and compared neuron types across mice, reptiles and salamander. We identified neurons that are olfactory cortex-specific or conserved across mouse cortical areas. However, transcriptomically similar neurons exhibited area-specific epigenetic states. Additionally, the olfactory cortex showed transcriptomic divergence between lab and wild-derived mice, suggesting enhanced circuit plasticity through adult immature neurons. Finally, olfactory cortex neurons displayed marked transcriptomic similarities to reptile and salamander neurons. Together, these data indicate that the mammalian olfactory cortex retains molecular signatures representative of ancestral cortical traits.
@@ -216,9 +216,9 @@ The cerebral cortex diversified extensively during vertebrate evolution. Intrigu
     Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology<br>
     (RECOMB 2022)<br>
     Springer Nature Lecture Notes in Bioinformatics (2022) pp 3-19<br>
-    [9] 
+    [8] 
 [<a href='javascript:;'
-    onclick='$("#abs_demetciscot2").toggle()'>abstract</a>] [<a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'>paper</a>] <a href=' http://rsinghlab.github.io/SCOT' target='_blank'>[code]</a> <br>
+    onclick='$("#abs_demetciscot2").toggle()'>abstract</a>] [<a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'>paper</a>] [<a href=' http://rsinghlab.github.io/SCOT' target='_blank'>code</a>] <br>
     
 <div id="abs_demetciscot2" style="text-align: justify; display: none" markdown="1">
 Integrated analysis of multi-omics data allows the study of how different molecular views in the genome interact to regulate cellular processes; however, with a few exceptions, applying multiple sequencing assays on the same single cell is not possible. While recent unsupervised algorithms align single-cell multi-omic datasets, these methods have been primarily benchmarked on co-assay experiments rather than the more common single-cell experiments taken from separately sampled cell populations. Therefore, most existing methods perform subpar alignments on such datasets. Here, we improve our previous work Single Cell alignment using Optimal Transport (SCOT) by using unbalanced optimal transport to handle disproportionate cell-type representation and differing sample sizes across single-cell measurements. We show that our proposed method, SCOTv2, consistently yields quality alignments on five real-world single-cell datasets with varying cell-type proportions and is computationally tractable. Additionally, we extend SCOTv2 to integrate multiple (M ≥ 2) single-cell measurements and present a self-tuning heuristic process to select hyperparameters in the absence of any orthogonal correspondence information.
@@ -238,7 +238,7 @@ Integrated analysis of multi-omics data allows the study of how different molecu
     Journal of Computational Biology, 2021<br>
     [7] 
 [<a href='javascript:;'
-    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
+    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
     
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
 Recent advances in sequencing technologies have allowed us to capture various aspects of the genome at single-cell resolution. However, with the exception of a few of co-assaying technologies, it is not possible to simultaneously apply different sequencing assays on the same single cell. In this scenario, computational integration of multi-omic measurements is crucial to enable joint analyses. This integration task is particularly challenging due to the lack of sample-wise or feature-wise correspondences. We present Single-Cell alignment with Optimal Transport (SCOT), an unsupervised algorithm that uses Gromov-Wasserstein optimal transport to align single-cell multi-omics datasets. SCOT performs on par with the current state-of-the-art unsupervised alignment methods, is faster, and requires tuning of fewer hyperparameters. More importantly, SCOT uses a self-tuning heuristic to guide hyperparameter selection based on Gromov-Wasserstein distance. Thus, in the fully unsupervised setting, SCOT aligns single-cell datasets better than the existing methods without requiring any orthogonal correspondence information. </a>
@@ -256,7 +256,7 @@ Recent advances in sequencing technologies have allowed us to capture various as
     (RECOMB 2021) <br>
     [6] 
 [<a href='javascript:;'
-    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
+    onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
     
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
 Data integration of single-cell measurements is critical for our understanding of cell development and disease, but the lack of correspondence between different types of single-cell measurements makes such efforts challenging. Several unsupervised algorithms are capable of aligning heterogeneous types of single-cell measurements in a shared space, enabling the creation of mappings between single cells in different data modalities.
