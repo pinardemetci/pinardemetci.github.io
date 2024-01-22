@@ -116,7 +116,12 @@ div.interest-container>ul {
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Professional Experience
-<table class="table table-hover">
+<table class="table table-hover"><tr>
+  <td class='col-md-3'>July 2023 - Present</td>
+  <td><strong>Broad Institute of MIT and Harvard</strong>, EWSC Postdoctoral Fellow (Cambridge, MA)</td>
+</tr>
+<tr>
+</tr>
 <tr>
   <td class='col-md-3'>June 2022 - Aug 2022</td>
   <td><strong>Microsoft Research</strong>, Research Intern (Redmond, WA)</td>
