@@ -92,12 +92,6 @@ div.interest-container>ul {
         <strong>Ph.D. in Computer Science and Computational Biology </strong>
           (3.90/4.00)
         <br>
-      Brown University (Providence, RI)
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3"> (Concurrent to Ph.D.) </td>
-    <td>
         <strong>M.Sc. in Computer Science</strong>
           (4.00/4.00)
         <br>
