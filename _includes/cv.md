@@ -173,7 +173,7 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
 <h4>2023</h4>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/ucoot.png"/></a> </td>
 <td>
     <strong>Unbalanced CO-Optimal Transport</strong><br>
     Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
