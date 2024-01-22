@@ -54,7 +54,7 @@ div.interest-container>ul {
 .col2-item7 { grid-area: col2-item7; }
 </style>
 
-### <i class="fa fa-chevron-right"></i> Research Interests
+#### <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
   <div class="grid-item"> <h5> Methodology </h5></div>
@@ -83,7 +83,7 @@ div.interest-container>ul {
 </ul>
 </div>
 
-### <i class="fa fa-chevron-right"></i> Education
+#### <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
@@ -101,7 +101,7 @@ div.interest-container>ul {
   <tr>
     <td class="col-md-3"> 2013 - 2017</td>
     <td>
-        <strong>B.Sc. in Engineering</strong> (with concentration in Bioengineering)
+        <strong>B.Sc. in Engineering</strong> (with concentration in <strong>Bioengineering</strong>)
           (3.67/4.00)
         <br>
       Olin College of Engineering (Needham, MA)
@@ -115,7 +115,7 @@ div.interest-container>ul {
   </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Professional Experience
+#### <i class="fa fa-chevron-right"></i> Professional Experience
 <table class="table table-hover"><tr>
   <td class='col-md-3'>July 2023 - Present</td>
   <td><strong>Broad Institute of MIT and Harvard</strong>, EWSC Postdoctoral Fellow (Cambridge, MA)</td>
@@ -148,8 +148,8 @@ div.interest-container>ul {
 </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
-<h2>2024</h2>
+#### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+<h4>2024</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/blank.png"/></a> </td>
@@ -169,7 +169,7 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
 </td>
 </tr>
 </table>
-<h2>2023</h2>
+<h4>2023</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
@@ -205,7 +205,7 @@ The cerebral cortex diversified extensively during vertebrate evolution. Intrigu
 </tr>
 </table>
 
-<h2>2022</h2>
+<h4>2022</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/scotv2.png"/></a> </td>
@@ -226,7 +226,7 @@ Integrated analysis of multi-omics data allows the study of how different molecu
 </tr>
 </table>
 
-<h2>2021</h2>
+<h4>2021</h4>
 <table class="table table-hover">
  <tr>
 <td class="col-md-3"><a href='' target='_blank'><img src="images/publications/SCOT_JCB.png"/></a> </td>
@@ -282,7 +282,7 @@ In this article, we present Biologically Annotated Neural Networks (BANNs), a no
 </tr>
 </table>
 
-<h2>2020</h2>
+<h4>2020</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://www.biorxiv.org/content/10.1101/2020.06.13.149195v1' target='_blank'><img src="images/publications/alignment.png"/></a> </td>
@@ -328,7 +328,7 @@ We show that variant and haplotype features selected by HAPLEXR are smaller in s
 </tr>
 </table>
 
-<h2>2019</h2>
+<h4>2019</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://jb.asm.org/content/early/2019/07/03/JB.00259-19/figures-only?versioned=true' target='_blank'><img src="images/publications/ecoli.png"/></a> </td>
@@ -349,7 +349,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-<h2>2016</h2>
+<h4>2016</h4>
 <table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://ieeexplore.ieee.org/abstract/document/7757463' target='_blank'><img src="images/publications/blank.png"/></a> </td>
@@ -369,7 +369,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Awards and Honors
+#### <i class="fa fa-chevron-right"></i> Awards and Honors
 <table class="table table-hover">
   <tr>
   <td class='col-md-2'>2022</td>
@@ -436,7 +436,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
+#### <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2022</td>
@@ -512,7 +512,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Teaching Experience
+#### <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>Spring '19 & '21</td>
@@ -527,7 +527,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 
-### <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
+#### <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
 <tr>
     <td class='col-md-2'>2020 - Present </td>
@@ -566,7 +566,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
   </tr>
 </table>
 
-### <i class="fa fa-chevron-right"></i> Skills
+#### <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
     <td class='col-md-2'><strong>Programming Languages</strong></td>
@@ -600,9 +600,8 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <td class='col-md-2'><strong>Laboratory</strong></td>
     <td>
       DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
-      <!--  -->
     </td>
-  </tr>
+  </tr>  -->
     <tr>
     <td class='col-md-2'><strong>Engineering & Teamwork</strong></td>
     <td>
