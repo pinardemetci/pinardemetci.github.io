@@ -158,8 +158,8 @@ div.interest-container>ul {
 <td>
     <strong> Breaking isometric ties and introducing priors in Gromov-Wasserstein distances</strong><br>
     <strong>P. Demetci</strong>, Q.H. Tran, I. Redko, R. Singh<br>
-    Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)
- <br>
+    Proceedings of the 27th International Conference on Artificial Intelligence and Statistics <br>
+    (AISTATS 2024)<br>
     Proceedings of Machine Learning Research (PMLR) -- to appear<br>
     [10] 
 [<a href='javascript:;'
@@ -178,7 +178,8 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
 <td>
     <strong>Unbalanced CO-Optimal Transport</strong><br>
     Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
-    Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023) <br>
+    Proceedings of the 37th AAAI Conference on Artificial Intelligence<br>
+    (AAAI 2023) <br>
     [9] 
 [<a href='javascript:;'
     onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] <a href='https://github.com/6Ulm/UCOOT' target='_blank'>[code]</a> <br>
@@ -193,7 +194,7 @@ Optimal transport (OT) compares probability distributions by computing a meaning
 <td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
 <td>
     <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
-    S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann
+    S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
     bioRxiv (Under review) <br>
     [9] 
 [<a href='javascript:;'
@@ -213,8 +214,8 @@ The cerebral cortex diversified extensively during vertebrate evolution. Intrigu
 <td>
     <strong> Unsupervised Integration of Single-Cell Multi-omics Datasets with Disproportionate Cell-Type Representation</strong><br>
     <strong>P. Demetci</strong>, R. Santorella, B. Sandstede, R. Singh<br>
-    Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2022)
- <br>
+    Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology<br>
+    (RECOMB 2022)<br>
     Springer Nature Lecture Notes in Bioinformatics (2022) pp 3-19<br>
     [9] 
 [<a href='javascript:;'
@@ -235,7 +236,7 @@ Integrated analysis of multi-omics data allows the study of how different molecu
     <strong>SCOT: Single-cell multi-omics integration with optimal transport</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
-    Journal of Computational Biology (in press) <br>
+    Journal of Computational Biology, 2021<br>
     [7] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
@@ -252,7 +253,8 @@ Recent advances in sequencing technologies have allowed us to capture various as
     <strong>Gromov-Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
-    International Conference on Research in Computational Molecular Biology (RECOMB) 2021 <br>
+    International Conference on Research in Computational Molecular Biology<br>
+    (RECOMB 2021) <br>
     [6] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] <a href='https://github.com/rsinghlab/SCOT' target='_blank'>[code]</a> <a href='https://rsinghlab.github.io/SCOT/' target='_blank'>[tutorial]</a> <br>
@@ -269,7 +271,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 <td>
     <strong>Multi-scale Inference of Genetic Trait Architecture using Biologically Annotated Neural Networks</strong><br>
     <strong>P. Demetci</strong>,W. Cheng,Gregory Darnell, Xiang Zhou, Sohini Ramachandran, Lorin Crawford# <br>
-    PLOS Genetics(in press) <br>
+    PLOS Genetics, 2021<br>
     [5] 
 [<a href='javascript:;'
     onclick='$("#abs_bann").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'>paper</a>] <br>
@@ -290,7 +292,8 @@ In this article, we present Biologically Annotated Neural Networks (BANNs), a no
     <strong> Unsupervised Manifold Alignment for Single-Cell Multi-Omics Data</strong><br>
     R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
-    Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020)<br>
+    Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics<br>
+    (ACM BCB 2020)<br>
     
     [4] 
 [<a href='javascript:;'
@@ -311,7 +314,8 @@ Integrating single-cell measurements that capture different properties of the ge
     B. Alpay*, <strong>P. Demetci*</strong> Sorin Istrail, and Derek Aguiar# <br>
      *Equal Contribution, #Corresponding Author<br>
      Bioinformatics (Oxford Press) vol.36, Supplement_1, p:i194-i202. 2020 <br>
-    Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology (ISMB 2020)<br>
+    Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology<br>
+    (ISMB 2020)<br>
     
     [3] 
 [<a href='javascript:;'
@@ -354,8 +358,8 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <td>
     <strong>Internalization and externalization in the classroom: How do they emerge and why is it important?</strong><br>
      <strong>P.Demetci</strong>, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.<br>
-    IEEE, 2016<br>
-    FIE Conference, 2016<br>
+    IEEE Frontiers in Education<br>
+    (FIE 2016)<br>
     
     [1] 
 [<a href='javascript:;'
