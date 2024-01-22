@@ -54,7 +54,7 @@ div.interest-container>ul {
 .col2-item7 { grid-area: col2-item7; }
 </style>
 
-## <i class="fa fa-chevron-right"></i> Research Interests
+### <i class="fa fa-chevron-right"></i> Research Interests
 
 <div class="grid-container">
   <div class="grid-item"> <h5> Methodology </h5></div>
@@ -83,7 +83,7 @@ div.interest-container>ul {
 </ul>
 </div>
 
-## <i class="fa fa-chevron-right"></i> Education
+### <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
   <tr>
@@ -115,7 +115,7 @@ div.interest-container>ul {
   </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Professional Experience
+### <i class="fa fa-chevron-right"></i> Professional Experience
 <table class="table table-hover"><tr>
   <td class='col-md-3'>July 2023 - Present</td>
   <td><strong>Broad Institute of MIT and Harvard</strong>, EWSC Postdoctoral Fellow (Cambridge, MA)</td>
@@ -148,7 +148,7 @@ div.interest-container>ul {
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
 <h2>2024</h2>
 <table class="table table-hover">
 <tr>
@@ -369,7 +369,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Awards
+### <i class="fa fa-chevron-right"></i> Awards and Honors
 <table class="table table-hover">
   <tr>
   <td class='col-md-2'>2022</td>
@@ -436,7 +436,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
+### <i class="fa fa-chevron-right"></i> Invited Talks, and Conferences Presentations
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2022</td>
@@ -512,7 +512,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Teaching Experience
+### <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>Spring '19 & '21</td>
@@ -527,7 +527,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
+### <i class="fa fa-chevron-right"></i> Professional Service and Community Memberships
 <table class="table table-hover">
 <tr>
     <td class='col-md-2'>2020 - Present </td>
@@ -566,7 +566,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
   </tr>
 </table>
 
-## <i class="fa fa-chevron-right"></i> Skills
+### <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
     <td class='col-md-2'><strong>Programming Languages</strong></td>
@@ -596,7 +596,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
       <!--  -->
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td class='col-md-2'><strong>Laboratory</strong></td>
     <td>
       DNA & RNA Extraction, PCR & RT-qPCR, Electrophoresis & PAGE, Western blotting, Molecular transformation, Transfection, HPLC, Rheology, Scanning Electron Microscopy
@@ -609,7 +609,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
       User-oriented collaborative design, Rapid prototyping, Scrum
       <!--  -->
     </td>
-  </tr>
+  </tr> -->
    <tr>
     <td class='col-md-2'><strong>Natural Languages</strong></td>
     <td>
@@ -618,6 +618,6 @@ Expression of motility genes is a potentially beneficial but costly process in b
     </td>
   </tr>
 </table>
-
-## <i class="fa fa-chevron-right"></i> Stay Connected:
-<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- 
+### <i class="fa fa-chevron-right"></i> Stay Connected:
+<a class="twitter-timeline" data-width="450" data-height="300" data-theme="light" href="https://twitter.com/spinar_d?ref_src=twsrc%5Etfw">Tweets by spinar_d</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
