@@ -88,7 +88,7 @@ div.interest-container>ul {
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3"> 2018 - 2023 (Expected) </td>
+    <td class="col-md-3"> 2018 - 2023 </td>
     <td>
         <strong>Ph.D. in Computer Science and Computational Biology </strong>
           (3.90/4.00)
@@ -97,7 +97,7 @@ div.interest-container>ul {
     </td>
   </tr>
   <tr>
-    <td class="col-md-3"> 2018 - 2020 (Expected) </td>
+    <td class="col-md-3"> (Concurrent to Ph.D.) </td>
     <td>
         <strong>M.Sc. in Computer Science</strong>
           (4.00/4.00)
