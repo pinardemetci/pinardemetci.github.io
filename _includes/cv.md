@@ -190,7 +190,7 @@ Optimal transport (OT) compares probability distributions by computing a meaning
 </tr>
 
 <tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/neuro.png"/></a> </td>
 <td>
     <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
     S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
