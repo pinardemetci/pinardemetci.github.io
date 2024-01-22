@@ -1,8 +1,9 @@
-I am an [Eric and Wendy Schmidt Center Postdoctoral Fellow](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop machine learning algorithms designed to understand cellular dynamics in health and disease. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/)(primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php). My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
-<!-- 
+I am an [Eric and Wendy Schmidt Center Postdoctoral Fellow](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop algorithms and machine learning models designed tailored to genomic data analysis, with a goal of understanding cellular dynamics in health and disease. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) (primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. 
+<!-- I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
+ --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
 
-Apart from computational biology, I have had the opportunity to work on various projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame events with friends, swimming, bird feeding, volunteering with [Ten Lives Cat Rescue](https://tenlivescatrescue.org/), and pretending I can properly play the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have had the opportunity to work on various projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame events with friends, swimming, playing with my cat, and pretending I can properly play the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 
 <style>
 .grid-container {
@@ -107,7 +108,7 @@ div.interest-container>ul {
   <tr>
     <td class="col-md-3"> 2013 - 2017</td>
     <td>
-        <strong>B.Sc. in Bioengineering</strong>
+        <strong>B.Sc. in Engineering</strong> (with concentration in Bioengineering)
           (3.67/4.00)
         <br>
       Olin College of Engineering (Needham, MA)
@@ -150,6 +151,61 @@ div.interest-container>ul {
 </table>
 
 ## <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+<h2>2024</h2>
+<table class="table table-hover">
+<tr>
+<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td>
+    <strong> Breaking isometric ties and introducing priors in Gromov-Wasserstein distances</strong><br>
+    <strong>P. Demetci</strong>, Q.H. Tran, I. Redko, R. Singh<br>
+    Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)
+ <br>
+    Proceedings of Machine Learning Research (PMLR) -- to appear<br>
+    [10] 
+[<a href='javascript:;'
+    onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] <a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>[code]</a> <br>
+    
+<div id="abs_demetciagw" style="text-align: justify; display: none" markdown="1">
+Gromov-Wasserstein distance has many applications in machine learning due to its ability to compare measures across metric spaces and its invariance to isometric transformations. However, in certain applications, this invariant property can be too flexible, thus undesirable. Moreover, the Gromov-Wasserstein distance solely considers pairwise sample similarities in input datasets, disregarding the raw feature representations. We propose a new optimal transport formulation, called Augmented Gromov-Wasserstein (AGW), that allows for some control over the level of rigidity to transformations. It also incorporates feature alignments, enabling us to better leverage prior knowledge on the input data for improved performance. We present theoretical insights into the proposed method. We then demonstrate its usefulness for single-cell multi-omic alignment tasks and heterogeneous domain adaptation in machine learning.
+</div>
+</td>
+</tr>
+</table>
+<h2>2023</h2>
+<table class="table table-hover">
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td>
+    <strong>Unbalanced CO-Optimal Transport</strong><br>
+    Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
+    Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023) <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] <a href='https://github.com/6Ulm/UCOOT' target='_blank'>[code]</a> <br>
+    
+<div id="abs_ucoot" style="text-align: justify; display: none" markdown="1">
+Optimal transport (OT) compares probability distributions by computing a meaningful alignment between their samples. CO-optimal transport (COOT) takes this comparison further by inferring an alignment between features as well. While this approach leads to better alignments and generalizes both OT and Gromov-Wasserstein distances, we provide a theoretical result showing that it is sensitive to outliers that are omnipresent in real-world data. This prompts us to propose unbalanced COOT for which we provably show its robustness to noise in the compared datasets. To the best of our knowledge, this is the first such result for OT methods in incomparable spaces. With this result in hand, we provide empirical evidence of this robustness for the challenging tasks of heterogeneous domain adaptation with and without varying proportions of classes and simultaneous alignment of samples and features across single-cell measurements.
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td>
+    <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
+    S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann
+    bioRxiv (Under review) <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2023.08.13.553130v1.abstract' target='_blank'>paper</a>] <a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>[code]</a> <br>
+    
+<div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
+The cerebral cortex diversified extensively during vertebrate evolution. Intriguingly, the three-layered mammalian olfactory cortex resembles the cortical cytoarchitecture of non-mammals yet evolved alongside the six-layered neocortex, enabling unique comparisons for investigating cortical neuron diversification. We performed single-nucleus multiome sequencing across mouse three- to six-layered cortices and compared neuron types across mice, reptiles and salamander. We identified neurons that are olfactory cortex-specific or conserved across mouse cortical areas. However, transcriptomically similar neurons exhibited area-specific epigenetic states. Additionally, the olfactory cortex showed transcriptomic divergence between lab and wild-derived mice, suggesting enhanced circuit plasticity through adult immature neurons. Finally, olfactory cortex neurons displayed marked transcriptomic similarities to reptile and salamander neurons. Together, these data indicate that the mammalian olfactory cortex retains molecular signatures representative of ancestral cortical traits.
+</div>
+</td>
+</tr>
+</table>
+
 <h2>2022</h2>
 <table class="table table-hover">
 <tr>
@@ -166,22 +222,6 @@ div.interest-container>ul {
     
 <div id="abs_demetciscot2" style="text-align: justify; display: none" markdown="1">
 Integrated analysis of multi-omics data allows the study of how different molecular views in the genome interact to regulate cellular processes; however, with a few exceptions, applying multiple sequencing assays on the same single cell is not possible. While recent unsupervised algorithms align single-cell multi-omic datasets, these methods have been primarily benchmarked on co-assay experiments rather than the more common single-cell experiments taken from separately sampled cell populations. Therefore, most existing methods perform subpar alignments on such datasets. Here, we improve our previous work Single Cell alignment using Optimal Transport (SCOT) by using unbalanced optimal transport to handle disproportionate cell-type representation and differing sample sizes across single-cell measurements. We show that our proposed method, SCOTv2, consistently yields quality alignments on five real-world single-cell datasets with varying cell-type proportions and is computationally tractable. Additionally, we extend SCOTv2 to integrate multiple (M ≥ 2) single-cell measurements and present a self-tuning heuristic process to select hyperparameters in the absence of any orthogonal correspondence information.
-</div>
-</td>
-</tr>
-
-<tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/blank.png"/></a> </td>
-<td>
-    <strong>Unbalanced CO-Optimal Transport</strong><br>
-    Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
-     arXiv:2205.14923 (under review for NeurIPS 2022) <br>
-    [8] 
-[<a href='javascript:;'
-    onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2205.14923' target='_blank'>paper</a>] <a href='https://github.com/6Ulm/UCOOT' target='_blank'>[code]</a> <br>
-    
-<div id="abs_ucoot" style="text-align: justify; display: none" markdown="1">
-Optimal transport (OT) compares probability distributions by computing a meaningful alignment between their samples. CO-optimal transport (COOT) takes this comparison further by inferring an alignment between features as well. While this approach leads to better alignments and generalizes both OT and Gromov-Wasserstein distances, we provide a theoretical result showing that it is sensitive to outliers that are omnipresent in real-world data. This prompts us to propose unbalanced COOT for which we provably show its robustness to noise in the compared datasets. To the best of our knowledge, this is the first such result for OT methods in incomparable spaces. With this result in hand, we provide empirical evidence of this robustness for the challenging tasks of heterogeneous domain adaptation with and without varying proportions of classes and simultaneous alignment of samples and features across single-cell measurements.
 </div>
 </td>
 </tr>
