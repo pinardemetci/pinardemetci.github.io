@@ -1,4 +1,6 @@
 I am an [Eric and Wendy Schmidt Center Postdoctoral Fellow](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop algorithms and machine learning models to integrate multi-modal genomic data, with a goal of understanding cellular dynamics in health and disease. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) (primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. 
+
+<!-- Since January 2024, I co-chair the [Models, Inference, and Algorithms (MIA)]() seminar series at the Broad, where we host hybrid (in-person + online) talks by computational researchers in bio(medicine). You can check out our [upcoming schedule]() and [past talks]().   -->
 <!-- I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
@@ -43,7 +45,6 @@ div.interest-container>ul {
 .col1-item6 { grid-area: col1-item6; }
 .col1-item7 { grid-area: col1-item7; }
 .col1-item8 { grid-area: col1-item8; }
-.col1-item9 { grid-area: col1-item9; }
 
 .col2-item1 { grid-area: col2-item1; }
 .col2-item2 { grid-area: col2-item2; }
@@ -69,9 +70,9 @@ div.interest-container>ul {
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable selection</li>
-  <li class="col1-item9">Machine learning & deep learning</li>
-  <li class="col1-item6">Causality</li>
-  <li class="col1-item7">Graph algorithms</li>
+  <li class="col1-item6">Machine learning & deep learning</li>
+  <li class="col1-item7">Causality</li>
+  <li class="col1-item8">Graph algorithms</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
@@ -130,7 +131,7 @@ div.interest-container>ul {
 </tr>
 <tr>
   <td class='col-md-3'>June 2020 - Sep 2020</td>
-  <td><strong>Microsoft Research</strong>, Research Intern: Genomics (Redmond, WA)</td>
+  <td><strong>Microsoft Research</strong>, Research Intern (Redmond, WA)</td>
 </tr>
 <tr>
 </tr>
@@ -161,7 +162,7 @@ div.interest-container>ul {
     Proceedings of Machine Learning Research (PMLR) -- to appear<br>
     [10] 
 [<a href='javascript:;'
-    onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] <a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>[code]</a> <br>
+    onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] [<a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>code</a>] <br>
     
 <div id="abs_demetciagw" style="text-align: justify; display: none" markdown="1">
 Gromov-Wasserstein distance has many applications in machine learning due to its ability to compare measures across metric spaces and its invariance to isometric transformations. However, in certain applications, this invariant property can be too flexible, thus undesirable. Moreover, the Gromov-Wasserstein distance solely considers pairwise sample similarities in input datasets, disregarding the raw feature representations. We propose a new optimal transport formulation, called Augmented Gromov-Wasserstein (AGW), that allows for some control over the level of rigidity to transformations. It also incorporates feature alignments, enabling us to better leverage prior knowledge on the input data for improved performance. We present theoretical insights into the proposed method. We then demonstrate its usefulness for single-cell multi-omic alignment tasks and heterogeneous domain adaptation in machine learning.
