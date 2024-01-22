@@ -69,10 +69,9 @@ div.interest-container>ul {
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable selection</li>
-  <li class="col1-item6">Causal inference</li>
   <li class="col1-item9">Machine learning & deep learning</li>
+  <li class="col1-item6">Causality</li>
   <li class="col1-item7">Graph algorithms</li>
-  <li class="col1-item8">Combinatorial optimization</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
