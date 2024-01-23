@@ -375,14 +375,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship (up to three years)</a>
+  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> (up to three years)
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship (turned down)</a>
+  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> (turned down)
     <!--  -->
   </td>
 </tr>
@@ -410,7 +410,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2020</td>
   <td>
-  Microsoft Research Ph.D. Fellowship Nominee (by Brown CCMB)
+  Microsoft Research Ph.D. Fellowship Nominee (nominated by Brown CCMB, not awarded)
     <!--  -->
   </td>
 </tr>
