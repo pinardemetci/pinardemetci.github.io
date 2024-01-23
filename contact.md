@@ -69,19 +69,16 @@ li {
 </div> <br>
   </div>
 
-<!-- https://calendar.google.com/calendar/u/0?cid=ZGVtZXRjaUBicm9hZGluc3RpdHV0ZS5vcmc -->
-
- <!--  https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&src=demetci%40broadinstitute.org&ctz=America%2FNew_York&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1-->
-
   <div class="column2">
   	<strong>Office Address: </strong><br>
 	75 Ames Street <br>
 	Broad Institute of MIT and Harvard<br>
   Room M1116 <br>
 	Cambridge, Massachusetts<br><br>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br>
-    <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
-    <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.013997031197!2d-71.09101472334982!3d42.36354097119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370af177d76d7%3A0x9f027d752b7ddb2c!2s75%20Ames%20St%2C%20Cambridge%2C%20MA%2002142!5e0!3m2!1sen!2sus!4v1705968993298!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<!--   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br> -->
+<!--     <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
+    <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%"> -->
   </div>
 </div>
 
