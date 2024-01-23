@@ -375,21 +375,21 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> _(up to three years)_
+  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> <em>(up to three years)</em>
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> _(turned down)_
+  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> <em>(turned down)</em>
     <!--  -->
   </td>
 </tr>
   <tr>
   <td class='col-md-2'>2022</td>
   <td>
-   Selected to the <a href="https://risingstars.utexas.edu/">Rising Stars in EECS cohort</a> _(by UT Austin)_
+   Selected to the <a href="https://risingstars.utexas.edu/">Rising Stars in EECS cohort</a> <em>(by UT Austin)</em>
     <!--  -->
   </td>
 </tr>
@@ -410,7 +410,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2020</td>
   <td>
-  Microsoft Research Ph.D. Fellowship Nominee _(nominated by Brown CCMB, not awarded)_
+  Microsoft Research Ph.D. Fellowship Nominee <em>(nominated by Brown CCMB, not awarded)</em>
     <!--  -->
   </td>
 </tr>
@@ -431,7 +431,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2015-2017</td>
   <td>
-    Olin Alumni Scholarship (towards expenses beyond tuition)
+    Olin Alumni Scholarship <em>(towards expenses beyond tuition)</em>
     <!--  -->
   </td>
 </tr>
@@ -452,14 +452,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics</a><br> _(by the Polish Academy of Sciences)_
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics</a><br> <em>(by the Polish Academy of Sciences)</em>
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">First Place in Physics: 22nd MEF International Research Projects Contest</a> _(Turkiye)_
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">First Place in Physics: 22nd MEF International Research Projects Contest</a> <em>(Turkiye)</em>
     <!--  -->
   </td>
 </tr>
