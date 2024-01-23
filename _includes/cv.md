@@ -214,7 +214,7 @@ The cerebral cortex diversified extensively during vertebrate evolution. Intrigu
 <td>
     <strong> Unsupervised Integration of Single-Cell Multi-omics Datasets with Disproportionate Cell-Type Representation</strong><br>
     <strong>P. Demetci</strong>, R. Santorella, B. Sandstede, R. Singh<br>
-    Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology<br>
+    Proceedings of the 26th Annual Intl. Conference on Research in Computational Molecular Biology<br>
     <em>(RECOMB 2022)</em><br>
     Springer Nature Lecture Notes in Bioinformatics (2022) pp 3-19<br>
     [8] 
