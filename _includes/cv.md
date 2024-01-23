@@ -373,6 +373,20 @@ Expression of motility genes is a potentially beneficial but costly process in b
 #### <i class="fa fa-chevron-right"></i> Awards and Honors
 <table class="table table-hover">
   <tr>
+  <td class='col-md-2'>2023</td>
+  <td>
+  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship (up to three years)</a>
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2023</td>
+  <td>
+  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship (turned down)</a>
+    <!--  -->
+  </td>
+</tr>
+  <tr>
   <td class='col-md-2'>2022</td>
   <td>
    Selected to the <a href="https://risingstars.utexas.edu/">Rising Stars in EECS cohort (UT Austin)</a>
@@ -393,6 +407,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <!--  -->
   </td>
 </tr>
+<tr>
+  <td class='col-md-2'>2020</td>
+  <td>
+  Microsoft Research Ph.D. Fellowship Nominee (by Brown CCMB)
+    <!--  -->
+  </td>
+</tr>
+
 <!-- <tr>
   <td class='col-md-2'>2020</td>
   <td>
@@ -409,7 +431,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2015-2017</td>
   <td>
-    Olin Alumni Scholarship
+    Olin Alumni Scholarship (towards expenses beyond tuition)
     <!--  -->
   </td>
 </tr>
@@ -427,11 +449,17 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <!--  -->
   </td>
 </tr>
-
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation): First Step to Nobel Prize in Physics</a>
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics (by the Polish Academy of Sciences)</a>
+    <!--  -->
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>2013</td>
+  <td>
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">First Place in Physics: 22nd MEF International Research Projects Contest (Turkiye)</a>
     <!--  -->
   </td>
 </tr>
