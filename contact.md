@@ -44,7 +44,7 @@ li {
 
 <div class="row">
   <div class="column1">
-<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pdemetci@mit.edu"> pdemetci@mit.edu </a> <br>
+<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pdemetci@mit.edu"> pdemetci@mit.edu </a> or <a href="mailto:pdemetci@mit.edu"> demetci@broadinstitute.org </a> <br>
 <strong> Platforms & Profiles: </strong> <ul class="list-inline idxIcons" style='font-size: 1.5em; margin-top: 0.5em;'>
         <li>
           <a href="http://www.linkedin.com/in/pinardemetci" target="_blank">
