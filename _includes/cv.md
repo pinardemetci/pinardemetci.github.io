@@ -6,7 +6,7 @@ Since January 2024, I co-chair the [Models, Inference, and Algorithms (MIA)](htt
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
 
-Apart from computational biology, I have had the opportunity to work on various projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame events with friends, swimming, playing with my cat, and pretending I can properly play the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
+Apart from computational biology, I have had the opportunity to work on various fun projects that can be found [here](/projects/). [Outside of research](/fun/), I enjoy holding boardgame events with friends, swimming, playing with my cat, and practice the ukulele and violin. Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to talk. <br>
 </p>
 <style>
 .grid-container {
