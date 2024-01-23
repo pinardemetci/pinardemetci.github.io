@@ -153,7 +153,7 @@ div.interest-container>ul {
 <h4>2024</h4>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td class="col-md-3"><a href='https://link.springer.com/chapter/10.1007/978-3-031-04749-7_1' target='_blank'><img src="images/publications/agw.png"/></a> </td>
 <td>
     <strong> Breaking isometric ties and introducing priors in Gromov-Wasserstein distances</strong><br>
     <strong>P. Demetci</strong>, Q.H. Tran, I. Redko, R. Singh<br>
