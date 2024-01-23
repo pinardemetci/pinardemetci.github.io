@@ -62,7 +62,7 @@ li {
           <a href="http://github.com/pinardemetci" target="_blank">
             <i class="fa fa-fw fa-github"></i></a>
         </li>
-        </ul><br><br>
+        </ul><br>
 <strong>Calendar: </strong> If you want to schedule a call or a meeting, you can take a look at my calendar for available time slots
   <div class="calendar">
   <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=ZGVtZXRjaUBicm9hZGluc3RpdHV0ZS5vcmc&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1" style="border:solid 1px #777" width="600" height="573" frameborder="0" scrolling="yes"></iframe>
