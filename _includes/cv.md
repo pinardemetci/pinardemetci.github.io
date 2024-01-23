@@ -1,6 +1,6 @@
 I am an [Eric and Wendy Schmidt Center Postdoctoral Fellow](https://www.ericandwendyschmidtcenter.org/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop algorithms and machine learning models to integrate multi-modal genomic data, with a goal of understanding cellular dynamics in health and disease. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) (primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. 
 
-Since January 2024, I co-chair the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host hybrid (in-person + online) talks by computational researchers in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  
+Since January 2024, I co-chair the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host hybrid (in-person & online) talks by computational researchers in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  
 <!-- I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
@@ -158,7 +158,7 @@ div.interest-container>ul {
     <strong> Breaking isometric ties and introducing priors in Gromov-Wasserstein distances</strong><br>
     <strong>P. Demetci</strong>, Q.H. Tran, I. Redko, R. Singh<br>
     Proceedings of the 27th International Conference on Artificial Intelligence and Statistics <br>
-    (AISTATS 2024)<br>
+    <strong>(AISTATS 2024)</strong><br>
     Proceedings of Machine Learning Research (PMLR) -- to appear<br>
     [11] 
 [<a href='javascript:;'
@@ -176,9 +176,9 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
 <td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/ucoot.png"/></a> </td>
 <td>
     <strong>Unbalanced CO-Optimal Transport</strong><br>
-    Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko <strong>P. Demetci</strong>  R Singh<br>
+    Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko, <strong>P. Demetci</strong>,  R Singh<br>
     Proceedings of the 37th AAAI Conference on Artificial Intelligence<br>
-    (AAAI 2023) <br>
+    <strong>(AAAI 2023)</strong><br>
     [10] 
 [<a href='javascript:;'
     onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] [<a href='https://github.com/6Ulm/UCOOT' target='_blank'>code</a>] <br>
@@ -194,7 +194,7 @@ Optimal transport (OT) compares probability distributions by computing a meaning
 <td>
     <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
     S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
-    bioRxiv (Under review at Nature Neuroscience) <br>
+    <strong>bioRxiv (Under review at Nature Neuroscience)</strong> <br>
     [9] 
 [<a href='javascript:;'
     onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2023.08.13.553130v1.abstract' target='_blank'>paper</a>] [<a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>code</a>] <br>
@@ -214,7 +214,7 @@ The cerebral cortex diversified extensively during vertebrate evolution. Intrigu
     <strong> Unsupervised Integration of Single-Cell Multi-omics Datasets with Disproportionate Cell-Type Representation</strong><br>
     <strong>P. Demetci</strong>, R. Santorella, B. Sandstede, R. Singh<br>
     Proceedings of the 26th Annual International Conference on Research in Computational Molecular Biology<br>
-    (RECOMB 2022)<br>
+    <strong>(RECOMB 2022)</strong><br>
     Springer Nature Lecture Notes in Bioinformatics (2022) pp 3-19<br>
     [8] 
 [<a href='javascript:;'
@@ -235,7 +235,7 @@ Integrated analysis of multi-omics data allows the study of how different molecu
     <strong>SCOT: Single-cell multi-omics integration with optimal transport</strong><br>
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
-    Journal of Computational Biology, 2021<br>
+    <strong>Journal of Computational Biology, 2021</strong><br>
     [7] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
@@ -253,7 +253,7 @@ Recent advances in sequencing technologies have allowed us to capture various as
     <strong>P. Demetci*</strong>, R. Santorella*, B. Sandstede, W. Stafford Noble and Ritambhara Singh# <br>
      *Equal Contribution, #Corresponding Author<br>
     International Conference on Research in Computational Molecular Biology<br>
-    (RECOMB 2021) <br>
+    <strong>(RECOMB 2021)</strong><br>
     [6] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
@@ -270,7 +270,7 @@ We present Single-Cell alignment using Optimal Transport (SCOT), an unsupervised
 <td>
     <strong>Multi-scale Inference of Genetic Trait Architecture using Biologically Annotated Neural Networks</strong><br>
     <strong>P. Demetci</strong>,W. Cheng,Gregory Darnell, Xiang Zhou, Sohini Ramachandran, Lorin Crawford# <br>
-    PLOS Genetics, 2021<br>
+    <strong>PLOS Genetics, 2021</strong><br>
     [5] 
 [<a href='javascript:;'
     onclick='$("#abs_bann").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3' target='_blank'>paper</a>] <br>
@@ -292,7 +292,7 @@ In this article, we present Biologically Annotated Neural Networks (BANNs), a no
     R. Singh#, <strong>P. Demetci</strong>, G. Bonora, V. Ramani, C. Lee, H. Fang, Z. Duan, X. Deng, J. Shendure, C. Disteche and W. Stafford Noble#<br>
      #Corresponding Authors<br>
     Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics<br>
-    (ACM BCB 2020)<br>
+    <strong>(ACM BCB 2020)</strong><br>
     
     [4] 
 [<a href='javascript:;'
@@ -314,7 +314,7 @@ Integrating single-cell measurements that capture different properties of the ge
      *Equal Contribution, #Corresponding Author<br>
      Bioinformatics (Oxford Press) vol.36, Supplement_1, p:i194-i202. 2020 <br>
     Proceedings of the 27th International Conference on Intelligent Systems for Molecular Biology<br>
-    (ISMB 2020)<br>
+    <strong>(ISMB 2020)</strong><br>
     
     [3] 
 [<a href='javascript:;'
@@ -337,7 +337,7 @@ We show that variant and haplotype features selected by HAPLEXR are smaller in s
     <strong>Rapid accumulation of motility-activating mutations in resting liquid culture of <em>Escherichia coli</em></strong><br>
     D. Parker*, <strong>P.Demetci*</strong>, and G.W. Li# <br>
      *Equal Contribution,  #Corresponding Author<br>
-    Journal of Bacteriology, 2019<br>
+    <strong>Journal of Bacteriology, 2019</strong><br>
     
     [2] 
 [<a href='javascript:;'
@@ -358,7 +358,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
     <strong>Internalization and externalization in the classroom: How do they emerge and why is it important?</strong><br>
      <strong>P.Demetci</strong>, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.<br>
     IEEE Frontiers in Education<br>
-    (FIE 2016)<br>
+    <strong>(FIE 2016)</strong><br>
     
     [1] 
 [<a href='javascript:;'
