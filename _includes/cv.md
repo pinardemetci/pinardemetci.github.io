@@ -260,7 +260,7 @@ Recent advances in sequencing technologies have allowed us to capture various as
     [6] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
-<div style="padding: 0.2em; background-color: #326ad1; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 220px;">
+<div style="padding: 0.2em; background-color: #326ad1; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 225px;">
          ICML WCB Best Poster Award
       </div>  
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
