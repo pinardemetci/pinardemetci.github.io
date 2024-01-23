@@ -452,7 +452,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics (by the Polish Academy of Sciences)</a>
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics</a><br> (by the Polish Academy of Sciences)
     <!--  -->
   </td>
 </tr>
