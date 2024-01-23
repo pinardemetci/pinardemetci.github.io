@@ -375,21 +375,21 @@ Expression of motility genes is a potentially beneficial but costly process in b
   <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> (up to three years)
+  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> _(up to three years)_
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> (turned down)
+  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> _(turned down)_
     <!--  -->
   </td>
 </tr>
   <tr>
   <td class='col-md-2'>2022</td>
   <td>
-   Selected to the <a href="https://risingstars.utexas.edu/">Rising Stars in EECS cohort (UT Austin)</a>
+   Selected to the <a href="https://risingstars.utexas.edu/">Rising Stars in EECS cohort</a> _(by UT Austin)_
     <!--  -->
   </td>
 </tr>
@@ -452,14 +452,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics</a><br> (by the Polish Academy of Sciences)
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">Honorable Mention (Instrumentation):  21st Intl. Competition of First Step to Nobel Prize in Physics</a><br> _(by the Polish Academy of Sciences)_
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2013</td>
   <td>
-    <a href="http://info.ifpan.edu.pl/firststep/results/21">First Place in Physics: 22nd MEF International Research Projects Contest (Turkiye)</a>
+    <a href="http://info.ifpan.edu.pl/firststep/results/21">First Place in Physics: 22nd MEF International Research Projects Contest</a> _(Turkiye)_
     <!--  -->
   </td>
 </tr>
