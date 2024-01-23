@@ -3,8 +3,9 @@ layout: singlePage
 title: "Research"
 ---
 
-# Research
-My ICML Presentation (5 min spotlight talk) on optimal transport for single-cell integration (July 2020):
+# Research Agenda and Themes
+Coming soon.
+<!-- My ICML Presentation (5 min spotlight talk) on optimal transport for single-cell integration (July 2020):
 <div id="presentation-embed-38930906"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
@@ -16,7 +17,7 @@ My ICML Presentation (5 min spotlight talk) on optimal transport for single-cell
 </script>
 
 2) My co-first author Berk Alpay's ISMB Proceedings presentation on combinatorial and statistical prediction of gene expression from haplotype sequences (July 2020):
-![](https://flash.performedia.com/2020/iscb/ismb2020/pre-recorded-talks/mp4/Berk_Alpay_-_P337_AlpayBerk_VarI.mp4)
+![](https://flash.performedia.com/2020/iscb/ismb2020/pre-recorded-talks/mp4/Berk_Alpay_-_P337_AlpayBerk_VarI.mp4) -->
 <!-- <script>
     embed = new SlidesLiveEmbed('presentation-embed-38930906', {
         presentationId: '38930906',
@@ -24,8 +25,6 @@ My ICML Presentation (5 min spotlight talk) on optimal transport for single-cell
         verticalEnabled: true
     });
 </script> -->
-
-
 
 
 <table class="table table-hover">
