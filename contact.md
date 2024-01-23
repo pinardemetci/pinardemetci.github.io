@@ -69,9 +69,9 @@ li {
 </div> <br>
   </div>
 
-https://calendar.google.com/calendar/u/0?cid=ZGVtZXR<!-- jaUBicm9hZGluc3RpdHV0ZS5vcmc
+<!-- https://calendar.google.com/calendar/u/0?cid=ZGVtZXRjaUBicm9hZGluc3RpdHV0ZS5vcmc -->
 
-  https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&src=demetci%40broadinstitute.org&ctz=America%2FNew_York&color=%233F51B5&mode=WEEK&showDate=1&showNa -->v=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1
+ <!--  https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&src=demetci%40broadinstitute.org&ctz=America%2FNew_York&color=%233F51B5&mode=WEEK&showDate=1&showNav=1&showTitle=1&showPrint=0&showTabs=1&showCalendars=1&showTz=1-->
 
   <div class="column2">
   	<strong>Office Address: </strong><br>
