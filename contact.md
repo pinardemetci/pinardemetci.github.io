@@ -77,8 +77,8 @@ li {
 	Cambridge, Massachusetts<br><br>
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.013997031197!2d-71.09101472334982!3d42.36354097119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370af177d76d7%3A0x9f027d752b7ddb2c!2s75%20Ames%20St%2C%20Cambridge%2C%20MA%2002142!5e0!3m2!1sen!2sus!4v1705968993298!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 <!--   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br> -->
-<!--     <img src="http://pinardemetci.github.io/images/CCMB_out.jpeg" alt="CCMB Outside" style="width:100%"> <br>
-    <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%"> -->
+    <img src="http://pinardemetci.github.io/images/broad.jpeg" alt="CCMB Outside" style="width:333"> <br>
+    <!-- <img src="http://pinardemetci.github.io/images/CCMB_in.jpeg" alt="CCMB Inside" style="width:100%"> -->
   </div>
 </div>
 
