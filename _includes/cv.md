@@ -242,10 +242,11 @@ Integrated analysis of multi-omics data allows the study of how different molecu
     [7] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
-    
+<div width="200px" height="10px" background="#326ad1" color="white">ICML WCB Best Poster Award</div>   
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
 Recent advances in sequencing technologies have allowed us to capture various aspects of the genome at single-cell resolution. However, with the exception of a few of co-assaying technologies, it is not possible to simultaneously apply different sequencing assays on the same single cell. In this scenario, computational integration of multi-omic measurements is crucial to enable joint analyses. This integration task is particularly challenging due to the lack of sample-wise or feature-wise correspondences. We present Single-Cell alignment with Optimal Transport (SCOT), an unsupervised algorithm that uses Gromov-Wasserstein optimal transport to align single-cell multi-omics datasets. SCOT performs on par with the current state-of-the-art unsupervised alignment methods, is faster, and requires tuning of fewer hyperparameters. More importantly, SCOT uses a self-tuning heuristic to guide hyperparameter selection based on Gromov-Wasserstein distance. Thus, in the fully unsupervised setting, SCOT aligns single-cell datasets better than the existing methods without requiring any orthogonal correspondence information. </a>
 </div>
+
 </td>
 </tr>
 
