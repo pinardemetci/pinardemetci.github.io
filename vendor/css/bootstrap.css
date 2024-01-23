@@ -4515,17 +4515,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #333333;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #326ad1;
+  color: #ffffff; /*#326ad1;*/
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #326ad1;
+  color: #ffffff; /*#326ad1;*/
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #326ad1;
+  color: #ffffff; /*#326ad1;*/
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .disabled > a,
