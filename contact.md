@@ -44,7 +44,7 @@ li {
 
 <div class="row">
   <div class="column1">
-<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or <a href="mailto:pdemetci@mit.edu"> pdemetci@mit.edu </a> or <a href="mailto:pdemetci@mit.edu">               demetci@broadinstitute.org </a> <br>
+<strong>E-mail: </strong> <a href="mailto:pinardemerci@gmail.com"> pinardemetci@gmail.com </a> or         <a href="mailto:pdemetci@mit.edu"> pdemetci@mit.edu </a> or <a href="mailto:pdemetci@mit.edu">demetci@broadinstitute.org </a> <br>
 <strong> Platforms & Profiles: </strong> <ul class="list-inline idxIcons" style='font-size: 1.5em; margin-top: 0.5em;'>
         <li>
           <a href="http://www.linkedin.com/in/pinardemetci" target="_blank">
@@ -73,8 +73,9 @@ li {
   	<strong>Office Address: </strong><br>
 	75 Ames Street <br>
 	Broad Institute of MIT and Harvard<br>
+  Eric and Wendy Schmidt Center <br>
   Room M1116 <br>
-	Cambridge, Massachusetts<br><br>
+	Cambridge, Massachusetts, 02141<br><br>
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.013997031197!2d-71.09101472334982!3d42.36354097119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370af177d76d7%3A0x9f027d752b7ddb2c!2s75%20Ames%20St%2C%20Cambridge%2C%20MA%2002142!5e0!3m2!1sen!2sus!4v1705968993298!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 <!--   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10622.493137944537!2d-71.40948743621925!3d41.82465499586538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445234354f4cb%3A0x6131be74138e01c2!2s164%20Angell%20St%2C%20Providence%2C%20RI%2002906!5e0!3m2!1sen!2sus!4v1629242264241!5m2!1sen!2sus" width="333" height="245" style="border:0;" allowfullscreen="" loading="lazy"></iframe><br> -->
     <img src="http://pinardemetci.github.io/images/ewsc.png" alt="EWSC logo" style="width:333"> <br>
