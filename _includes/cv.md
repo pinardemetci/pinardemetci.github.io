@@ -410,7 +410,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2020</td>
   <td>
-  Microsoft Research Ph.D. Fellowship Nominee <em>(nominated by Brown CCMB, not awarded)</em>
+  Microsoft Research Ph.D. Fellowship Nominee <em>(by Brown CCMB)</em>
     <!--  -->
   </td>
 </tr>
@@ -438,14 +438,14 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2013-2017</td>
   <td>
-    <a href="http://impact.olin.edu/2017/scholarships#scholarships">Sunlin Chou International Scholarship</a> (50% tuition)
+    <a href="http://impact.olin.edu/2017/scholarships#scholarships">Sunlin Chou International Scholarship</a> <em>(50% tuition)</em>
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2013-2017</td>
   <td>
-    Olin Merit Scholarship (50% tuition)
+    Olin Merit Scholarship <em>(50% tuition)</em>
     <!--  -->
   </td>
 </tr>
