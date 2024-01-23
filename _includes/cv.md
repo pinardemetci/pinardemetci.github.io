@@ -410,7 +410,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <tr>
   <td class='col-md-2'>2020</td>
   <td>
-  Microsoft Research Ph.D. Fellowship Nominee (nominated by Brown CCMB, not awarded)
+  Microsoft Research Ph.D. Fellowship Nominee _(nominated by Brown CCMB, not awarded)_
     <!--  -->
   </td>
 </tr>
