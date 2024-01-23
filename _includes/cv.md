@@ -70,7 +70,7 @@ div.interest-container>ul {
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable selection</li>
-  <li class="col1-item6">Machine learning & deep learning</li>
+  <li class="col1-item6">Generative deep learning</li>
   <li class="col1-item7">Causality</li>
   <li class="col1-item8">Graph algorithms</li>
 
@@ -80,7 +80,7 @@ div.interest-container>ul {
   <li class="col2-item4">Multi-omics</li>
   <li class="col2-item5">3D genome</li>
   <li class="col2-item6">Precision medicine</li>
-  <li class="col2-item7">Structural biology & proteomics</li>
+  <li class="col2-item7">Structural biology</li>
 </ul>
 </div>
 
