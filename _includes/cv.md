@@ -70,7 +70,7 @@ div.interest-container>ul {
   <li class="col1-item3">Manifold learning</li>
   <li class="col1-item4">Bayesian statistics and inference</li>
   <li class="col1-item5">Variable selection</li>
-  <li class="col1-item6">Generative deep learning</li>
+  <li class="col1-item6">Deep learning</li>
   <li class="col1-item7">Causality</li>
   <li class="col1-item8">Graph algorithms</li>
 
