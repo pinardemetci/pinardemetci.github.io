@@ -358,7 +358,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
 <h4>2016</h4>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://ieeexplore.ieee.org/abstract/document/7757463' target='_blank'><img src="images/publications/blank.png"/></a> </td>
+<td class="col-md-3"><a href='https://ieeexplore.ieee.org/abstract/document/7757463' target='_blank'><img src="images/publications/edu.png"/></a> </td>
 <td>
     <strong>Internalization and externalization in the classroom: How do they emerge and why is it important?</strong><br>
      <strong>P.Demetci</strong>, C. Nichols, Y. V. Zastavker, J. D. Stolk, A. Dillon, M. D. Gross.<br>
