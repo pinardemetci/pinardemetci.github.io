@@ -90,6 +90,7 @@ img {
 .navbar-brand div {
     height: 100%;
     color: #165782;
+    font-weight: 700;
 }
 
 .navbar-brand img {
@@ -106,6 +107,7 @@ img {
 
 .navbar-default .navbar-nav > li > a {
     color: #165782;
+    font-weight: 700;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
