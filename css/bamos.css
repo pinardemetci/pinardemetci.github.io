@@ -64,7 +64,7 @@ img {
  .navbar {
     background-color: #ffffff;
     color: #165782;
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #165782;
 } 
 .navbar.h1 {
   font-family: Helvetica Neue, Helvetica,Raleway,sans-serif
@@ -130,4 +130,3 @@ img {
         margin-right: auto;
     }
 }
-
