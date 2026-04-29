@@ -8,7 +8,7 @@ This year, I am co-organizing the [Generative AI in Genomics (Gen²): Barriers a
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
 <p align='justify'>
 Apart from research, I have had the opportunity to work on various fun projects that can be found [here](/projects/). [For fun](/fun/), I enjoy boardgames with friends, swimming, hiking, and playing with my cat. I occasionally pick up the ukulele or [a book](https://www.goodreads.com/user/show/11057817-pinar-demetci) <em>(the latter less often now that my academic "to-read" pile has, unfortunately, reached critical mass).</em><br>
- 
+<br>
 Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to chat! <br>
 </p>
 <style>
