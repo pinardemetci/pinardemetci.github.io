@@ -69,7 +69,7 @@ div.interest-container>ul {
 <div class="interest-container">
 <ul>
  
-  <li class="col1-item1">Diffusion & Flow-based Generative Models<\li> 
+  <li class="col1-item1">Diffusion & Flow-based Generative Models</li>
   <li class="col1-item2">Representation learning</li>
   <li class="col1-item3">Optimal transport</li>
   <li class="col1-item4">Manifold learning</li>
