@@ -26,7 +26,7 @@ div.interest-container>ul {
   grid-auto-columns: 1fr; 
   grid-auto-rows: 1fr; 
   grid-template-columns: 1fr 1fr; 
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
   column-gap: 0px; 
   grid-template-areas: 
     "col1-item1 col2-item1"
@@ -37,7 +37,6 @@ div.interest-container>ul {
     "col1-item6 col2-item6"
     "col1-item7 col2-item7"
     "col1-item8 col2-item8"
-    "col1-item9 col2-item9";
 }
 
 /* Assign a class to each li */
@@ -75,9 +74,9 @@ div.interest-container>ul {
   <li class="col1-item3">Optimal transport</li>
   <li class="col1-item4">Manifold learning</li>
   <li class="col1-item5">LLMs & Foundation models (in bio, more recent)</li>
-  <li class="col1-item8">Optimal Control</li>
-  <li class="col1-item6">Graph algorithms</li>
-  <li class="col1-item7">Bayesian inference & Variable selection</li>
+  <li class="col1-item6">Optimal Control</li>
+  <li class="col1-item7">Graph algorithms</li>
+  <li class="col1-item8">Bayesian inference & Variable selection</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
