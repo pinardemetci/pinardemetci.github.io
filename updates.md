@@ -97,7 +97,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'>17 July 2023</td>
-  <td>Started my postdoctoral fellowship at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with and learning from some of the scientists I have long admired!</td>
+  <td>Started my postdoctoral fellowship at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with and learning from some of the scientists I have long admired! Unsurprisingly, I ran into <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> again, who is also starting her postdoc fellowship here! </td>
  </tr>
 <tr>
   <td class='col-md-3'>12 February 2023</td>
@@ -121,7 +121,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'>27 Oct 2022 </td>
-  <td> I attended the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin! This was an extremely informative workshop about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, like Donghsunyi "Dora" Li and Yi Zhang. Happy to have a nice representation for computational biology within EECS! :)  </td>
+  <td> I attended the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin! This was an extremely informative workshop about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, such as <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a>, whom I run into quite frequently at conferences (our paths cross naturally!) and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from DFCI. Happy to have a nice representation for computational biology within EECS! :)  </td>
 </tr>
 
 <tr>
