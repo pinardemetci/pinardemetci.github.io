@@ -17,14 +17,13 @@ title: "Updates"
 <!--  -->
 
 ### Past
-
-<tr style="border-top: 1px solid #ddd;">
+<table class="table table-hover">
+  <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
   </tr>
 <tr>
-<table class="table table-hover">
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
   <td>Co-organized <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil. It was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
