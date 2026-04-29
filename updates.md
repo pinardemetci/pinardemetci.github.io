@@ -43,15 +43,9 @@ title: "Updates"
   <td class='col-md-3'>10 Dec 2021</td>
   <td> Delivered an invited talk on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at the Translational Bioinformatics Journal Club at Brown University.</td>
 </tr>
-<tr>
   <tr>
   <td class='col-md-3'>21 Oct 2021 </td>
-  <td>Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar on single-cell multi-omic dataset alignment.</td> </td>
-</tr>
-<tr>
-  <tr>
-  <td class='col-md-3'>30 Sept 2021 </td>
-  <td> Our lab received a 5-year flexible research funding through the <a href="https://www.genome.gov/research-funding/Funding-Opportunities/Genomic-Innovator-Awards"> 2021 NIH Genomic Innovator Award </a> granted to <a href="https://www.brown.edu/news/2021-10-05/innovator"> Dr. Ritambhara Singh</a></td>
+  <td>Delivered an invited talk at <a href="https://uconn.edu/"> University of Connecticut</a> Bioinformatics Seminar on single-cell multi-omic dataset alignment.</td>
 </tr>
 <tr>
   <td class='col-md-3'>29 August 2021 </td>
