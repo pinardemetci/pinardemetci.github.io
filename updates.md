@@ -17,8 +17,7 @@ title: "Updates"
 <!--  -->
 
 ### Past
-<table class="table table-hover">
-  <tr style="border-top: 1px solid #ddd;">
+<table class="table table-hover">  <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
