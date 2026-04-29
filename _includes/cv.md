@@ -2,12 +2,13 @@
 <!-- I am a **data scientist** and **ML/AI researcher**, focusing on **computational biology** and **biomedicine** applications. As such,  -->
 I am a postdoctoral researcher at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) of the **Broad Institute of MIT and Harvard**. My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop algorithms and machine learning models to integrate multi-modal genomic data, with a goal of understanding cellular dynamics in health and disease and assisting cell state engineering. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) (primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. </p> 
 <p align='justify'>
-This year, I am co-organizing the [Generative AI in Genomics (Gen²): Barriers and Frontiers Workshop](https://genai-in-genomics.github.io/) at [ICLR 2026](https://iclr.cc/). If you are in the field, consider joining us this April! Since September 2023, I've also been involved in organizing the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host hybrid (in-person & online) talks by computational scientists in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  </p>
+This year, I am co-organizing the [Generative AI in Genomics (Gen²): Barriers and Frontiers Workshop](https://genai-in-genomics.github.io/) at [ICLR 2026](https://iclr.cc/). If you are in the field, consider joining us this April! Since September 2023, I've also been involved in organizing the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host talks by computational scientists in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  </p>
 <!-- I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
 <p align='justify'>
 Apart from research, I have had the opportunity to work on various fun projects that can be found [here](/projects/). [For fun](/fun/), I enjoy boardgames with friends, swimming, hiking, and playing with my cat. I occasionally pick up the ukulele or [a book](https://www.goodreads.com/user/show/11057817-pinar-demetci) <em>(the latter less often now that my academic "to-read" pile has, unfortunately, reached critical mass).</em><br>
+ 
 Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to chat! <br>
 </p>
 <style>
@@ -153,6 +154,42 @@ div.interest-container>ul {
 </table>
 
 #### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+<h4>2025</h4>
+<table class="table table-hover">
+
+ <tr>
+<td class="col-md-3"><a href='https://www.nature.com/articles/s41593-025-01924-3' target='_blank'><img src="images/publications/neuro2.png"/></a> </td>
+<td>
+    <strong>Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution</strong><br>
+    S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
+    <em>Nature Neuroscience</em> <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.nature.com/articles/s41593-025-01924-3' target='_blank'>paper</a>] [<a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>code</a>] <br>
+    
+<div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
+Understanding the molecular logic of cortical cell-type diversity can illuminate cortical circuit function and evolution. Here, we performed single-nucleus transcriptome and chromatin accessibility analyses to compare neurons across three- to six-layered cortical areas of adult mice and across tetrapod species. We found that, in contrast to the six-layered neocortex, glutamatergic neurons of the three-layered mouse olfactory (piriform) cortex displayed continuous rather than discrete variation in transcriptomic profiles. Subsets of piriform and neocortical glutamatergic cells with conserved transcriptomic profiles were distinguished by distinct, area-specific epigenetic states. Furthermore, we identified a prominent population of immature neurons in piriform cortex and observed that, in contrast to the neocortex, piriform cortex exhibited divergence between glutamatergic cells in laboratory versus wild-derived mice. Finally, we showed that piriform neurons displayed greater transcriptomic similarity to cortical neurons of turtles, lizards and salamanders than to those of the neocortex. In summary, despite over 200 million years of coevolution alongside the neocortex, olfactory cortex neurons retain molecular signatures of ancestral cortical identity.
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=' target='_blank'><img src=""/></a> </td>
+<td>
+    <strong>SCOT+: A comprehensive software suite for single-cell alignment using optimal transport</strong><br>
+    C, Baker, T. Pham, <strong> P. Demetci </strong>, Q.H. Tran, I. Redko, B. Sandstede, R. Singh<br>
+    <em>Bioinformatics Advances</em> <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_scotplus").toggle()'>abstract</a>] [<a href='https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=' target='_blank'>paper</a>] [<a href='https://github.com/scotplus/scotplus' target='_blank'>code</a>] <br>
+    
+<div id="abs_scotplus" style="text-align: justify; display: none" markdown="1">
+New advances in single-cell multi-omics experiments have allowed biologists to examine how various biological factors regulate processes in concert on the cellular level. However, measuring multiple cellular features for a single cell can be quite resource-intensive or impossible with the current technology. By using optimal transport (OT) to align cells and features across disparate datasets produced by separate assays, Single Cell alignment using Optimal Transport + (SCOT+), our unsupervised single-cell alignment software suite, allows biologists to align their data without the need for any correspondence. SCOT+ implements a generic optimal transport solution that can be reduced to multiple different previously studied OT optimization procedures including SCOT, SCOTv2, SCOOTR, and AGW for single cell, each of which provides state-of-the-art single-cell alignment performance. Outside of giving a unified framework to interact with prior formulations, the generality of SCOT+ optimization naturally gives rise to a new OT loss, Unbalanced Augmented Gromov-Wasserstein (UAGW), and a corresponding optimizer. With our user-friendly website and tutorials, this new package will help improve biological analyses by allowing for more accurate downstream analyses on multi-omics single-cell measurements.
+</div>
+</td>
+</tr>
+</table>
+
 <h4>2024</h4>
 <table class="table table-hover">
 <tr>
@@ -162,7 +199,7 @@ div.interest-container>ul {
     <strong>P. Demetci</strong>, Q.H. Tran, I. Redko, R. Singh<br>
     Proceedings of the 27th International Conference on Artificial Intelligence and Statistics <br>
     <em>(AISTATS 2024)</em><br>
-    Proceedings of Machine Learning Research (PMLR) -- to appear<br>
+    Proceedings of Machine Learning Research (PMLR)<br>
     [11] 
 [<a href='javascript:;'
     onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] [<a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>code</a>] <br>
@@ -192,21 +229,6 @@ Optimal transport (OT) compares probability distributions by computing a meaning
 </td>
 </tr>
 
-<tr>
-<td class="col-md-3"><a href='https://arxiv.org/abs/2205.14923' target='_blank'><img src="images/publications/neuro2.png"/></a> </td>
-<td>
-    <strong>Mammalian olfactory cortex neurons retain molecular signatures of ancestral cell types</strong><br>
-    S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
-    <em>bioRxiv (Under review at Nature Neuroscience)</em> <br>
-    [9] 
-[<a href='javascript:;'
-    onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2023.08.13.553130v1.abstract' target='_blank'>paper</a>] [<a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>code</a>] <br>
-    
-<div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
-The cerebral cortex diversified extensively during vertebrate evolution. Intriguingly, the three-layered mammalian olfactory cortex resembles the cortical cytoarchitecture of non-mammals yet evolved alongside the six-layered neocortex, enabling unique comparisons for investigating cortical neuron diversification. We performed single-nucleus multiome sequencing across mouse three- to six-layered cortices and compared neuron types across mice, reptiles and salamander. We identified neurons that are olfactory cortex-specific or conserved across mouse cortical areas. However, transcriptomically similar neurons exhibited area-specific epigenetic states. Additionally, the olfactory cortex showed transcriptomic divergence between lab and wild-derived mice, suggesting enhanced circuit plasticity through adult immature neurons. Finally, olfactory cortex neurons displayed marked transcriptomic similarities to reptile and salamander neurons. Together, these data indicate that the mammalian olfactory cortex retains molecular signatures representative of ancestral cortical traits.
-</div>
-</td>
-</tr>
 </table>
 
 <h4>2022</h4>
