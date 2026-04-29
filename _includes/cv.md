@@ -69,21 +69,20 @@ div.interest-container>ul {
 <div class="interest-container">
 <ul>
  
+  <li class="col1-item1">Diffusion & Flow-based Generative Models<\li> 
   <li class="col1-item1">Representation learning</li>
   <li class="col1-item2">Optimal transport</li>
   <li class="col1-item3">Manifold learning</li>
-  <li class="col1-item4">Bayesian statistics and inference</li>
-  <li class="col1-item5">Variable selection</li>
+  <li class="col1-item5">Bayesian inference & Variable selection</li>
   <li class="col1-item6">Deep learning</li>
-  <li class="col1-item7">Causality</li>
   <li class="col1-item8">Graph algorithms</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
-  <li class="col2-item3">Single-cell sequencing & imaging</li>
-  <li class="col2-item4">Multi-omics</li>
-  <li class="col2-item5">3D genome</li>
+  <li class="col2-item3">Single-cell sequencing & multi-omics</li>
+  <li class="col2-item4">Spatial transcriptomics</li>
   <li class="col2-item6">Precision medicine</li>
+  <li class="col2-item6">Cell reprogramming</li>
   <li class="col2-item7">Structural biology</li>
 </ul>
 </div>
