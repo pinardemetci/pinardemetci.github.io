@@ -377,17 +377,24 @@ Expression of motility genes is a potentially beneficial but costly process in b
 
 #### <i class="fa fa-chevron-right"></i> Awards and Honors
 <table class="table table-hover">
+   <tr>
+  <td class='col-md-2'>2025</td>
+  <td>
+  <a href="https://www.ericandwendyschmidtcenter.org/">Outstanding Poster Award, Broad Institute Scientific Retreat: <em> one of 10 selected among 302 </em>
+    <!--  -->
+  </td>
+</tr>
   <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://www.ericandwendyschmidtcenter.org/">EWSC Postdoctoral Fellowship</a> <em>(up to three years)</em>
+  <a href="https://www.ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center Postdoctoral Fellowship</a> <em>(up to three years)</em>
     <!--  -->
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>2023</td>
   <td>
-  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> <em>(turned down)</em>
+  <a href="https://ds.dfci.harvard.edu/postdocs/">Harvard/DFCI Data Science Postdoctoral Fellowship</a> <em>(turned down for the Schmidt Center fellowship)</em>
     <!--  -->
   </td>
 </tr>
