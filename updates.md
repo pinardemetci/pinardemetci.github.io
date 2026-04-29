@@ -14,7 +14,7 @@ title: "Updates"
 <!--  -->
 
 ### Past
-#### 2026
+<h3><strong>2026</strong></h3>  
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>27 April 2026</td>
@@ -31,7 +31,7 @@ title: "Updates"
  <tr>
 </tr>
   
-#### 2025
+<h3><strong>2025</strong></h3> 
 <tr>
   <td class='col-md-3'>16 December 2025</td>
   <td>My poster presentation was selected for an "Outstanding poster presentation award" at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected among 302 in total, and one of 2 selected among the 72 posters in the "Computational & Data Sciences" category</td>
@@ -55,7 +55,7 @@ title: "Updates"
 <tr>
 </tr>
 
-#### 2024
+<h3><strong>2024</strong></h3> 
 <tr>
   <td class='col-md-3'>26 November 2024</td>
   <td>Delivered an invited talk on “Identifying Regulatory Drivers of Cell State Transitions with Flow-Based Generative Models and Neural ODEs” at <a href="https://science.ai.cam.ac.uk/events/ai-for-science-summit-2024">the University of Cambridge AI for Science Summit</a>. Max Welling's talk was the highlight of the summit for me, bridging physics, materials science, machine learning, and generative modeling, which has a lot of parallels in biology. </td>
@@ -91,7 +91,7 @@ title: "Updates"
 <tr>
 </tr>
 
-#### 2023
+<h3><strong>2023</strong></h3> 
 <tr>
   <td class='col-md-3'>21 November 2023</td>
   <td>Joined a panel on "opportunities and challenges for foundation models in biology" at the "Schmidt Center - Helmhotz Institute, ML in Genomics Collaboration Kick-off" event. Some points of convergence with other panelists: current benchmarks are too simplistic and circular, yet we do not really know as a field how to robustly evaluate these models outside of specialized applications; dataset availability is not nearly there in single-cell genomics for "scaling laws" to be leveraged to the same extent as in natural language and computer vision aplications. Despite these, everyone seems excited and optimistic about the future of these models!</td>
@@ -127,7 +127,7 @@ SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/te
  <tr>
 </tr>
 
-#### 2022
+<h3><strong>2022</strong></h3> 
 <tr>
   <td class='col-md-3'>9 December 2022</td>
   <td>Virtually presented our work-in-progress "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" at the <a href="https://neurips.cc/">NeurIPS</a> Workshop on <a href="https://www.lmrl.org/">Learning Meaningful Representations of Life (LMRL).</a> </td>
@@ -172,7 +172,7 @@ SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/te
 <tr>
 </tr>
 
-#### 2021
+<h3><strong>2021</strong></h3> 
 <tr>
   <td class='col-md-3'>14 Dec 2021</td>
   <td>Delivered a keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a>. I got to e-meet <a href="https://www.gpeyre.com/"> Gabriel Peyre</a> and <a href="https://marcocuturi.net/">Marco Cuturi</a>, whose book <a href="https://arxiv.org/abs/1803.00567">Computational Optimal Transport</a> gave me an introduction to this field.</td>
@@ -216,7 +216,7 @@ SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/te
 <tr>
 </tr>
 
-#### 2020
+<h3><strong>2020</strong></h3> 
 <tr>
   <td class='col-md-3'>18 Dec 2020</td>
   <td> <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Our work on single-cell multi-omic data integration</a> has been accepted at the <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB)</a> </td>
@@ -296,7 +296,7 @@ SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/te
 <tr>
 </tr>
 
-#### 2019
+<h3><strong>2019</strong></h3>
 <tr>
   <td class='col-md-3'>30 Oct 2019</td>
   <td> Delivered an invited talk on <a href="https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3">Bayesian hierarchical models for multi-scale genomic association</a> at the<a href="https://datasci.brown.edu/ccvcon/"> 2019 CCV-Con.</a></td>
