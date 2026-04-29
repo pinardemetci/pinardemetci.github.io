@@ -4,6 +4,9 @@ title: "Updates"
 ---
 
 # Updates
+<br>
+<br>
+
 ### Upcoming
 <table class="table table-hover">
 <tr>
