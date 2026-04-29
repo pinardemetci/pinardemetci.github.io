@@ -69,11 +69,11 @@ div.interest-container>ul {
 <div class="interest-container">
 <ul>
  
-  <li class="col1-item1">Diffusion & Flow-based Generative Models<\li> 
+  <li class="col1-item1">Diffusion and Flow-based Generative Models<\li> 
   <li class="col1-item1">Representation learning</li>
   <li class="col1-item2">Optimal transport</li>
   <li class="col1-item3">Manifold learning</li>
-  <li class="col1-item6">LLMs & Foundation models (for bio)</li>
+  <li class="col1-item6">LLMs and Foundation models (for bio)</li>
   <li class="col1-item8">Graph algorithms</li>
   <li class="col1-item5">Bayesian inference & Variable selection</li>
 
