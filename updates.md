@@ -14,7 +14,11 @@ title: "Updates"
 <!--  -->
 
 ### Past
-<h3><strong>2026</strong></h3>  
+<tr>
+  <td>
+<h4><strong>2026</strong></h4> 
+    </td>
+</tr>
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
@@ -30,8 +34,11 @@ title: "Updates"
  </tr>
  <tr>
 </tr>
-  
-<h3><strong>2025</strong></h3> 
+<tr>
+  <td>
+<h4><strong>2025</strong></h4> 
+    </td>
+</tr>
 <tr>
   <td class='col-md-3'><strong>16 Dec 2025</strong></td>
   <td>My poster presentation was selected for an "Outstanding poster presentation award" at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected among 302 in total, and one of 2 selected among the 72 posters in the "Computational & Data Sciences" category</td>
