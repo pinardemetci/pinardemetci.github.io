@@ -402,7 +402,7 @@ Expression of motility genes is a potentially beneficial but costly process in b
    <tr>
   <td class='col-md-2'>2025</td>
   <td>
-  <a href="https://www.ericandwendyschmidtcenter.org/">Outstanding Poster Award, Broad Institute Scientific Retreat: <em> one of 10 selected among 302 </em>
+  <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">Outstanding Poster Award, Broad Institute Scientific Retreat</a>: <em> one of 10 selected among 302 </em>
     <!--  -->
   </td>
 </tr>
