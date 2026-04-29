@@ -57,6 +57,7 @@ div.interest-container>ul {
 .col2-item5 { grid-area: col2-item5; }
 .col2-item6 { grid-area: col2-item6; }
 .col2-item7 { grid-area: col2-item7; }
+.col2-item8 { grid-area: col2-item8; }
 </style>
 
 #### <i class="fa fa-chevron-right"></i> Research Interests
@@ -69,21 +70,23 @@ div.interest-container>ul {
 <div class="interest-container">
 <ul>
  
-  <li class="col1-item1">Diffusion and Flow-based Generative Models<\li> 
-  <li class="col1-item1">Representation learning</li>
-  <li class="col1-item2">Optimal transport</li>
-  <li class="col1-item3">Manifold learning</li>
-  <li class="col1-item6">LLMs and Foundation models (for bio)</li>
-  <li class="col1-item8">Graph algorithms</li>
-  <li class="col1-item5">Bayesian inference & Variable selection</li>
+  <li class="col1-item1">Diffusion & Flow-based Generative Models<\li> 
+  <li class="col1-item2">Representation learning</li>
+  <li class="col1-item3">Optimal transport</li>
+  <li class="col1-item4">Manifold learning</li>
+  <li class="col1-item5">LLMs & Foundation models (in bio, more recent)</li>
+  <li class="col1-item8">Optimal Control</li>
+  <li class="col1-item6">Graph algorithms</li>
+  <li class="col1-item7">Bayesian inference & Variable selection</li>
 
   <li class="col2-item1">Regulatory genomics</li>
   <li class="col2-item2">Functional genomics</li>
-  <li class="col2-item3">Single-cell sequencing & multi-omics</li>
+  <li class="col2-item3">Single-cell multi-omics</li>
   <li class="col2-item4">Spatial transcriptomics</li>
-  <li class="col2-item6">Precision medicine</li>
-  <li class="col2-item6">Cell reprogramming</li>
-  <li class="col2-item7">Structural biology</li>
+  <li class="col2-item5">Precision medicine</li>
+  <li class="col2-item6">Cell reprogramming & immunotherapy</li>
+  <li class="col2-item7">Regenerative medicine & aging</li>
+  <li class="col2-item8">Structural biology</li>
 </ul>
 </div>
 
