@@ -25,7 +25,7 @@ title: "Updates"
 <tr>
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
-  <td>Co-organized <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil. It was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
+  <td>Co-organized <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report, along with my co-organizers: <a href="https://www.linkedin.com/in/dongshunyili/">Dongshunyi "Dora" Li</a> (Broad), <a href="https://www.linkedin.com/in/maria-skoularidou-phd-1289b62a/"> Maria Skoularidou</a> (Broad), <a href="https://rsoatto.github.io/">Renzo Soatto</a> (Broad), <a href="https://tamarabroderick.com/">Tamara Broderick</a> (MIT), <a href="https://vdeborto.github.io/"> Valentin De Bortoli</a> (Google DeepMind), <a href="https://arnauddoucet.github.io/"> Arnaud Doucet </a>(Google DeepMind), <a href="https://scholar.google.com/citations?hl=en&user=8200InoAAAAJ&view_op=list_works"> Max Welling</a> (CuspAI & University of Amsterdam)</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 March 2026</strong></td>
@@ -53,7 +53,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>2 Dec 2025</strong></td>
-  <td>Our workshop proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>! I will be co-organizing this workshop along with Dongshunyi "Dora" Li (Broad), Maria Skoularidou (Broad), Renzo Soatto (Broad), Tamara Broderick (MIT), Valentin De Bortoli (Google DeepMind), Arnaud Doucet (Google DeepMind), Max Welling (CuspAI & University of Amsterdam). It will be held in April! </td>
+  <td>Our workshop proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>, in April! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>25 Nov 2025</strong></td>
