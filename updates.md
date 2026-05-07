@@ -3,20 +3,21 @@ layout: singlePage
 title: "Updates"
 ---
 
-# Updates
+<h1>Updates</h1>
 <br>
 <br>
 
-### Upcoming
+<h3>Upcoming</h3>
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'><strong>29 Apr 2026</strong></td>
-  <td>Our submission on “Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions” got accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, which will be held between 26-31 May.</td>
+  <td class='col-md-3'><strong>26-31 May 2026</strong></td>
+  <td>Our submission on “Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions” was accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
  </tr>
 </table>
 
-### Past
-<table class="table table-hover">  <tr style="border-top: 1px solid #ddd;">
+<h3>Past</h3>
+<table class="table table-hover"> 
+ <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
@@ -28,11 +29,11 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 March 2026</strong></td>
-  <td>My BSRP intern, <a href="https://www.broadinstitute.org/bios/erica-brown">Erica Brown</a>, accepted a PhD  admitted to the Statistics PhD Program at the University of Michigan! Super thrilled! </td>
+  <td>My BSRP intern, <a href="https://www.broadinstitute.org/bios/erica-brown">Erica Brown</a>, accepted her admissions offer to the Statistics PhD program at the University of Michigan! Super thrilled! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>18 March 2026</strong></td>
-  <td>Gave an invited talk at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on “Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”. </td>
+  <td>Gave an invited talk at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on <em>“Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”.</em> </td>
  </tr>
  <tr>
 </tr>
@@ -48,7 +49,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>15 Dec 2025</strong></td>
-  <td>Presented a poster on my ongoing work "Learning Tissue Remodelling Dynamics from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching" at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Institute 21st Annual Retreat</a></td>
+  <td>Presented a poster on my ongoing work <em>"Learning Tissue Remodelling Dynamics from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching"</em> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Institute 21st Annual Retreat</a></td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>2 Dec 2025</strong></td>
@@ -72,11 +73,11 @@ title: "Updates"
   </tr>
 <tr>
   <td class='col-md-3'><strong>26 Nov 2024</strong></td>
-  <td>Delivered an invited talk on “Identifying Regulatory Drivers of Cell State Transitions with Flow-Based Generative Models and Neural ODEs” at <a href="https://science.ai.cam.ac.uk/events/ai-for-science-summit-2024">the University of Cambridge AI for Science Summit</a>. Max Welling's talk was the highlight of the summit for me, bridging physics, materials science, machine learning, and generative modeling, which has a lot of parallels in biology. </td>
+  <td>Delivered an invited talk on <em>“Identifying Regulatory Drivers of Cell State Transitions with Flow-Based Generative Models and Neural ODEs”</em> at <a href="https://science.ai.cam.ac.uk/events/ai-for-science-summit-2024">the University of Cambridge AI for Science Summit</a>. Max Welling's talk was the highlight of the summit for me, bridging physics, materials science, machine learning, and generative modeling, which has a lot of parallels in biology. </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>20 Nov 2024</strong></td>
-  <td>Delivered an invited talk at the Flatiron Institute and Simons Foundation <a href="https://www.simonsfoundation.org/event/modeling-inferences-of-stochastic-processes-in-cells/">"Workshop on Modeling Stochastic Processes in Cells"</a> on my pas and recent work on optimal transport and neural ODEs for multi-modal single-cell data analysis and modeling the dynamics of cell state transitions.</td>
+  <td>Delivered an invited talk at the Flatiron Institute and Simons Foundation <a href="https://www.simonsfoundation.org/event/modeling-inferences-of-stochastic-processes-in-cells/">"Workshop on Modeling Stochastic Processes in Cells"</a> on my past and recent work on optimal transport and neural ODEs for multi-modal single-cell data analysis and modeling the dynamics of cell state transitions.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>13-16 Nov 2024</strong></td>
@@ -88,7 +89,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>2 Aug 2024</strong></td>
-  <td>A bittersweet day as Erica Brown concludes her internship with me as part of the Broad Summer Research Program (BSRP). You can read her description of our work <a href="https://www.broadinstitute.org/bios/erica-brown">here</a>. Erica is an incredibly smart, mature, and motivated researcher; her competence level was well beyond what one would expect from a rising junior. She’ll be applying for PhD programs in two years; keep an eye out for her application! We will miss her dearly but we will stay in touch. :)</td>
+  <td>A bittersweet day as Erica Brown concludes her internship with me as part of the Broad Summer Research Program (BSRP). You can read her description of our work <a href="https://www.broadinstitute.org/bios/erica-brown">here</a>. Erica is an incredibly smart, mature, and motivated undergraduate researcher; keep an eye out for her Ph.D. application next year! We will miss her dearly but we will stay in touch. :)</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 June 2024</strong></td>
@@ -100,7 +101,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 May 2024</strong></td>
-  <td>Presented our accepted paper <a href="https://proceedings.mlr.press/v238/demetci24a"> "Breaking isometric ties and introducing priors in Gromov-Wasserstein distance"</a> as a poster at <a href="https://aistats.org/aistats2022/">the International Conference on Artificial Intelligence and Statistics (AISTATS)</a> in beautiful Valencia, Spain, soaking in the sun. </td>
+  <td>Presented our accepted paper <a href="https://proceedings.mlr.press/v238/demetci24a"> <em> "Breaking isometric ties and introducing priors in Gromov-Wasserstein distance"</em></a> as a poster at <a href="https://aistats.org/aistats2022/">the International Conference on Artificial Intelligence and Statistics (AISTATS)</a> in beautiful Valencia, Spain, soaking in the sun. </td>
  </tr>
 <tr>
 </tr>
@@ -124,8 +125,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>6-7 Oct 2023</strong></td>
-  <td> Feeling incredibly inspired after attending <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers who made the HGP a success, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) in the ~20 years since its completion, and retold stories of this ambitious undertaking, with all its struggle, competition, and glory. <br>
-It was moving to learn more about Sorin’s journey as an immigrant from Romania, the hardships he overcame, contributions he made across multiple fields (e.g. ), the communities he established for computational biology (e.g. <a href="https://en.wikipedia.org/wiki/Research_in_Computational_Molecular_Biology">the RECOMB conference</a>), and the difference he's made in others' through his generosity of spirit. It is humbling to be co-advised by such a warm person and a capable scientist! 
+  <td> Feeling incredibly inspired after attending <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers who made the HGP a success, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) in the ~20 years since its completion, and retold stories of this ambitious undertaking. It was moving to learn more about Sorin’s inspiring journey as an immigrant from Romania, and the difference he's made in others' through his generosity of spirit. It is humbling to be co-advised by such a warm person and a capable scientist! 
 <!-- We also enjoyed videos of Sorin being overjoyed by hanging out with <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Paul Erdős</a>. I learned that I have an Erdős number of 3, via: Me &rarr; Sorin Istrail &rarr; <a href="https://en.wikipedia.org/wiki/Solomon_Marcus">Solomon Marcus</a> &rarr; Paul Erdős. <br> -->
 <!-- SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/team/">Derek Aguiar</a>, Sorin's "favorite" PhD advisee (and deservedly so! :)). It was a pleasure to reconnect with his lab members, including <a href="https://www.linkedin.com/in/marjhosseini/">Marjan Hosseini</a> and <a href="https://bayesomicslab.github.io/members/aaron-palmer.html"> Aaron Palmer</a>. -->
 
@@ -133,11 +133,11 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
  </tr>
 <tr>
   <td class='col-md-3'><strong>4 Sep 2023</strong></td>
-  <td>Joined the steering committee of the <a href="https://www.broadinstitute.org/talks/spring-2025/mia">Models, Inference and Algorithms (MIA) Initiative</a> at the Broad Institute, many thanks to the invitation by the current co-chair <a href="https://salilb1.github.io/">Salil Bhate</a>! MIA was an invaluable community and resource for me during my doctoral years, exposing me to branches of computational biology and biomedicine outside of the scope of my graduate department. I got to meet several brillian and kind scientists through MIA and even found opportunities through connections there. So, it feels wonderful to be contributing to this community as part of the steering committee now! </td>
+  <td>Joined the steering committee of the <a href="https://www.broadinstitute.org/talks/spring-2025/mia">Models, Inference and Algorithms (MIA) Initiative</a> at the Broad Institute, many thanks to the invitation by the current co-chair <a href="https://salilb1.github.io/">Salil Bhate</a>! MIA was an invaluable resource for me during my doctoral years, exposing me to branches of computational biology and biomedicine outside of the scope of my graduate department. It is wonderful to be contributing to this community as part of the steering committee now! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>17 July 2023</strong></td>
-  <td>Started my postdoctoral fellowship at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with and learning from some of the scientists I have long admired! Unsurprisingly, after multiple RECOMB conferences and workshops, I ran into <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> again, who is also starting her postdoc fellowship here! </td>
+  <td>Started my postdoctoral fellowship at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with and learning from some of the scientists I have long admired. </td>
  </tr>
  <tr>
   <td class='col-md-3'><strong>10 Apr 2023</strong></td>
@@ -145,7 +145,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
  </tr>
 <tr>
   <td class='col-md-3'><strong>12 Feb 2023</strong></td>
-  <td>Presented our on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">"Unbalanced CO-Optimal Transport"</a> at the <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a> in Washington, D.C. </td>
+  <td>Presented our on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193"> <em> "Unbalanced CO-Optimal Transport" </em></a> at the <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a> in Washington, D.C. </td>
  </tr>
  <tr>
 </tr>
@@ -157,11 +157,11 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
   </tr>
 <tr>
   <td class='col-md-3'><strong>9 Dec 2022</strong></td>
-  <td>Virtually presented our work-in-progress "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" at the <a href="https://neurips.cc/">NeurIPS</a> Workshop on <a href="https://www.lmrl.org/">Learning Meaningful Representations of Life (LMRL).</a> </td>
+  <td>Virtually presented our work-in-progress <em> "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" <em> at the <a href="https://neurips.cc/">NeurIPS</a> Workshop on <a href="https://www.lmrl.org/">Learning Meaningful Representations of Life (LMRL).</a> </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>21 Nov 2022</strong></td>
-  <td>Virtually presented our work-in-progress "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" at the <a href="https://www.mlcb.org/">Machine Learning in Computational Biology (MLCB) conference</a>, both as a spotlight talk and a poster. The recording for the full day of presentations is available online on the <a href="https://www.youtube.com/watch?v=p1c-Fa1Zqh8">MLCB YouTube channel</a></td>
+  <td>Virtually presented our work-in-progress <em> "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" </em> at the <a href="https://www.mlcb.org/">Machine Learning in Computational Biology (MLCB) conference</a>, both as a spotlight talk and a poster. The recording for the full day of presentations is available online on the <a href="https://www.youtube.com/watch?v=p1c-Fa1Zqh8">MLCB YouTube channel</a></td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>5 Nov 2022</strong></td>
@@ -169,28 +169,31 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
  </tr>
 <tr>
   <td class='col-md-3'><strong>10 Nov 2022</strong></td>
-  <td>Attended the <a href="https://meetings.cshl.edu/meetings.aspx?meet=DATA">CSHL Biological Data Science Meeting</a> and presented our poster on "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport." It was exciting meeting so many top researchers in person, whom I previoiusly only known through their publications! :)  </td>
+  <td>Attended the <a href="https://meetings.cshl.edu/meetings.aspx?meet=DATA">CSHL Biological Data Science Meeting</a> and presented our poster on <em> "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport." </em> It was exciting meeting so many top researchers in person, whom I previoiusly only known through their publications! :)  </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 Oct 2022</strong></td>
-  <td> I attended the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, such as <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from CMU, whom I quite frequently run into at conferences as our paths cross naturally!, and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from DFCI. Happy to have a good representation for computational biology at this EECS workshop! :)  </td>
+  <td> I attended the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from <a href="https://www.cmu.edu/compbio/">CMU</a> (whom I frequently run into at conferences!), and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from <a href="https://www.dana-farber.org/">DFCI</a>. Together, we represented computational biology at this EECS workshop! :)  </td>
 </tr>
-
+<tr>
+  <td class='col-md-3'><strong>3 Sep 2022</strong></td>
+  <td> Last day of my summer internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>, which was great fun! 
+</tr>
 <tr>
   <td class='col-md-3'><strong>7 June 2022</strong></td>
   <td> Honored to be selected to the 2022 cohort of <a href="https://risingstars.utexas.edu">Rising Stars in EECS</a> by the University of Texas at Austin. Feeling grateful to my Ph.D. advisor, <a href="https://rsinghlab.org/"> Ritambhara Singh</a>, for nominating me! </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>7 June 2022</strong></td>
-  <td> Delivered an invited virtual talk on  <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab, Stanford University</a>, by invitation from <a href="https://scholar.google.com/citations?user=vEiu33sAAAAJ&hl=en"> Gokcen Eraslan</a>. It was quite stimulating to discuss the technical difficulties we ran into as we tried to incorporate Bayesian variable selection into neural networks (lots of work to be done here, but there are many alternative approaches that I would rather use today), and brainstorm possible other applications of a similar approach Thank you, Gokcen! </td>
+  <td> Delivered an invited virtual talk on  <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab, Stanford University</a>, by invitation from <a href="https://scholar.google.com/citations?user=vEiu33sAAAAJ&hl=en"> Gokcen Eraslan</a>. It was stimulating to discuss the technical difficulties we ran into as we tried to incorporate Bayesian variable selection into neural networks (lots of work to be done here, but there are many alternative approaches that I would rather use today), and to brainstorm possible other applications of a similar approach. </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>6 June 2022</strong></td>
-  <td> Started a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>
+  <td> Started a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>, working with Grace Huynh, <a href="https://www.alexluresearch.com/">Alex Lu</a>, and <a href="https://dmelis.github.io/">David Alvarez-Melis</a> on a metric learning framework based on optimal transport for perturbation effect prediction. 
 </tr>
 <tr>
   <td class='col-md-3'><strong>22 May 2022</strong></td>
-  <td> Gave an oral presentation at the <a href="https://recomb2022.net"> RECOMB </a> conference on <a href="https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1">Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</a>. Some of the highlights for me were: </td>
+  <td> Gave an oral presentation at the <a href="https://recomb2022.net"> RECOMB </a> conference on <a href="https://www.biorxiv.org/content/10.1101/2021.11.09.467903v1"><em> Unsupervised integration of single-cell multi-omics datasets with disparities in cell-type representation</em></a>.</td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>12 Apr 2022</strong></td>
@@ -206,11 +209,11 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
   </tr>
 <tr>
   <td class='col-md-3'><strong>14 Dec 2021</strong></td>
-  <td>Delivered a keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS).</a>. I got to e-meet <a href="https://www.gpeyre.com/"> Gabriel Peyre</a> and <a href="https://marcocuturi.net/">Marco Cuturi</a>, whose book <a href="https://arxiv.org/abs/1803.00567">Computational Optimal Transport</a> gave me an introduction to this field.</td>
+  <td>Delivered a keynote talk at the <a href="https://otml2021.github.io/"> Optimal Transport in Machine Learning Workshop</a> at <a href="https://nips.cc">2021 Conference on Neural Information Processing Systems (NeurIPS)</a>. Very excited that I got to e-meet <a href="https://www.gpeyre.com/"> Gabriel Peyre</a> and <a href="https://marcocuturi.net/">Marco Cuturi</a>, whose book <a href="https://arxiv.org/abs/1803.00567">Computational Optimal Transport</a> gave me an introduction to this field.</td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>10 Dec 2021</strong></td>
-  <td> Delivered an invited talk on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at the Translational Bioinformatics Journal Club at Brown University.</td>
+  <td> Delivered an invited talk on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> <em> Biologically Annotated Neural Networks </em></a> at the Translational Bioinformatics Journal Club at Brown University.</td>
 </tr>
   <tr>
   <td class='col-md-3'><strong>21 Oct 2021</strong></td>
@@ -218,7 +221,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>29 Aug 2021</strong></td>
-  <td> Presented <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
+  <td> Presented <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"><em>Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</em></a> at the  <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
 </tr>
 <tr>
 </tr>
@@ -260,7 +263,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>24 Nov 2020</strong></td>
-  <td> Delivered a talk on our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> "Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> The recording for talks is available <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
+  <td> Delivered a talk on our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> <em>"Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</em></a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> The recording for talks is available <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
 </tr>
 <tr>
 </tr>
@@ -278,13 +281,13 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>23 Sept 2020</strong></td>
-  <td> My Ph.D. adviser, <a href="https://ritambharasingh.com/">Ritambhara Singh, Ph.D.</a> presented our work titled "<a href="https://dl.acm.org/doi/10.1145/3388440.3412410">Unsupervised manifold alignment for single-cell multi-omics data</a>" at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
+  <td> My Ph.D. adviser, <a href="https://ritambharasingh.com/">Ritambhara Singh, Ph.D.</a> presented our work titled <a href="https://dl.acm.org/doi/10.1145/3388440.3412410"><em>"Unsupervised manifold alignment for single-cell multi-omics data"</em></a>"at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>18 Sept 2020</strong></td>
-  <td> Last day of my internship at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research. Had a really nice time with the Genomics Team! </a></td>
+  <td> Last day of my internship at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a>, where I built a Bayesian variable selection pipeline on the cloud for biomarker discovery from genomic data. Had a really nice time with the Genomics Team! </td>
 </tr>
 <tr>
 </tr>
@@ -302,7 +305,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>15 July 2020</strong></td>
-  <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. <br> Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
+  <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true"><em>"Combinatorial and statistical prediction of gene expression from haplotype sequence"</em></a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. <br> Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
 </tr>
 <tr>
 </tr>
@@ -326,7 +329,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>13 Apr 2020</strong></td>
-  <td> Our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true">"Combinatorial and statistical prediction of gene expression from haplotype sequence"</a> got accepted for publication and presentation at the<a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a></td>
+  <td> Our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true"><em>"Combinatorial and statistical prediction of gene expression from haplotype sequence"</em></a> got accepted for publication and presentation at the<a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a></td>
 </tr>
 <tr>
 </tr>
@@ -344,11 +347,7 @@ It was moving to learn more about Sorin’s journey as an immigrant from Romania
 </tr>
 <tr>
   <td class='col-md-3'><strong>02 July 2019</strong></td>
-  <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19">"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
-</tr>
-<tr>
-  <td class='col-md-3'><strong>02 July 2019</strong></td>
-  <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19">"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
+  <td> Our paper on my work at MIT, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19"><em>"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</em></a> got accepted for publication at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
 </table>
 
