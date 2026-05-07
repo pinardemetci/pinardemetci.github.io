@@ -16,10 +16,11 @@ title: "Updates"
  </tr>
 </table>
 
+
 <h3>Past</h3>
 
-<table class="table table-hover"> 
- <tr style="border-top: 1px solid #ddd;">
+<table class="table table-hover">
+  <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
@@ -173,7 +174,7 @@ title: "Updates"
   </tr>
 <tr>
   <td class='col-md-3'><strong>9 Dec 2022</strong></td>
-  <td>Virtually presented a <strong>poster </strong> on our work-in-progress <em> "Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport" <em> at the <a href="https://neurips.cc/">NeurIPS</a> Workshop on <a href="https://www.lmrl.org/">Learning Meaningful Representations of Life (LMRL).</a> </td>
+  	<td>Virtually presented a <strong>poster</strong> on our work-in-progress <em>"Joint alignment of cells and genomic features of single-cell multi-omic datasets with co-optimal transport"</em> at the <a href="https://neurips.cc/">NeurIPS</a> Workshop on <a href="https://www.lmrl.org/">Learning Meaningful Representations of Life (LMRL)</a>.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>21 Nov 2022</strong></td>
