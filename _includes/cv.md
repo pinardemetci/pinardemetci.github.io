@@ -7,7 +7,7 @@ This year, I am co-organizing the [Generative AI in Genomics (Gen²): Barriers a
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
 <p align='justify'>
-Apart from research, I have had the opportunity to work on various fun projects that can be found [here](/projects/). [For fun](/fun/), I enjoy boardgames with friends, swimming, hiking, and playing with my cat. I occasionally pick up the ukulele or [a book](https://www.goodreads.com/user/show/11057817-pinar-demetci) <em>(the latter less often now that my academic "to-read" pile has, unfortunately, reached critical mass).</em><br>
+Apart from research, I have had the opportunity to work on various fun projects that can be found [here](/projects/). [For fun](/fun/), I enjoy boardgames with friends, swimming, hiking, and playing with my cat. I occasionally pick up the ukulele or [a book](https://www.goodreads.com/user/show/11057817-pinar-demetci) <em>(the latter less often now that my academic "to-read" pile has been growing fast).</em><br>
 <br>
 Feel free to [e-mail me](mailto:pinardemetci@gmail.com) if you'd like to chat! <br>
 </p>
@@ -170,6 +170,22 @@ div.interest-container>ul {
     
 <div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
 Understanding the molecular logic of cortical cell-type diversity can illuminate cortical circuit function and evolution. Here, we performed single-nucleus transcriptome and chromatin accessibility analyses to compare neurons across three- to six-layered cortical areas of adult mice and across tetrapod species. We found that, in contrast to the six-layered neocortex, glutamatergic neurons of the three-layered mouse olfactory (piriform) cortex displayed continuous rather than discrete variation in transcriptomic profiles. Subsets of piriform and neocortical glutamatergic cells with conserved transcriptomic profiles were distinguished by distinct, area-specific epigenetic states. Furthermore, we identified a prominent population of immature neurons in piriform cortex and observed that, in contrast to the neocortex, piriform cortex exhibited divergence between glutamatergic cells in laboratory versus wild-derived mice. Finally, we showed that piriform neurons displayed greater transcriptomic similarity to cortical neurons of turtles, lizards and salamanders than to those of the neocortex. In summary, despite over 200 million years of coevolution alongside the neocortex, olfactory cortex neurons retain molecular signatures of ancestral cortical identity.
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
+<td>
+    <strong>Learning Continuous-Time Molecular Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching</strong><br>
+    <strong> P. Demetci </strong>, G.M. Gonzalez<br>
+    <em>NeurIPS LXAI</em> <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'>paper</a>] [<a href='[https://github.com/scotplus/scotplus](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
+    
+<div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
+Understanding the molecular mechanisms of tissue regeneration requires reconstructing continuous spatiotemporal dynamics from sparse, irregularly sampled data. We introduce a computational framework that learns these dynamics using a multi-marginal flow matching approach. Our model explicitly accounts for cell proliferation and signaling, and constrains inferred trajectories to the data manifold to ensure biological plausibility. To capture the influence of the microenvironment, we condition the flows on cell-cell signaling representations. For efficient training, we use semi-balanced Fused Gromov-Wassertein couplings to pick multi-marginal samples for training and define conditional reference paths based on cubic Hermite splines. We then decompose the learned velocity field into spatial and gene expression components, disentangling the factors behind tissue migration from molecular state transitions. Applied to an axolotl brain regeneration and ulcerative colitis datasets, our method recovers cell type-specific signaling influences such as Wnt and TGF-\(\beta\) and immune signaling in inflammation. It successfully reconstructs tissue composition at unseen time points, particularly under irregular sampling. This work provides a scalable and interpretable framework for studying dynamic tissue remodeling from limited spatial transcriptomic observations.
 </div>
 </td>
 </tr>
