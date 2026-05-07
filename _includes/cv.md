@@ -191,7 +191,7 @@ Understanding the molecular mechanisms of tissue regeneration requires reconstru
 </tr>
 
 <tr>
-<td class="col-md-3"><a href='https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=' target='_blank'><img src=""/></a> </td>
+<td class="col-md-3"><a href='https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=' target='_blank'><img src="images/publications/scotplus.png"/></a> </td>
 <td>
     <strong>SCOT+: A comprehensive software suite for single-cell alignment using optimal transport</strong><br>
     C, Baker, T. Pham, <strong> P. Demetci </strong>, Q.H. Tran, I. Redko, B. Sandstede, R. Singh<br>
