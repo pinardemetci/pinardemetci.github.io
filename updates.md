@@ -132,7 +132,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>11 Oct 2023</strong></td>
-  <td>Delivered an <strong>invited "lightning whiteboard talk"</strong> (along with 3 other postdocs / scientists) at the Models, Inference and Algorithms (MIA) Seminar at the Broad, based on our latest <a href="https://proceedings.mlr.press/v238/demetci24a">"Augmented Gromov Wasserstein" work</a>. Here is the <a href="https://www.youtube.com/watch?v=Spx6BgmJB0k">recording</a>. </td>
+  <td>Delivered an <strong>invited lightning whiteboard talk</strong> (along with 3 other postdocs / scientists) at the Models, Inference and Algorithms (MIA) Seminar at the Broad, based on our latest <a href="https://proceedings.mlr.press/v238/demetci24a">"Augmented Gromov Wasserstein" work</a>. Here is the <a href="https://www.youtube.com/watch?v=Spx6BgmJB0k">recording</a>. </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>6-7 Oct 2023</strong></td>
@@ -173,7 +173,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>5 Nov 2022</strong></td>
-  <td>Delivered an <strong>invited talk</strong> at the <a href="ttps://www.experienceifore.org/home-2022"> SigmaXi iFoRE Conference</a>  "The Convergence of Data, Geometry, and Biology: Insights from the ‘shape’ of biological data" session, describing our efforts to leverage dataset geometry to integrate disparate single-cell multi-modal data with optimal transport. Many thanks to <a href="https://engineering.wisc.edu/directory/profile/dhananjay-bhaskar/">Dhananjay Bhaskar</a>, who organized this session, for the invitation! </td>
+  <td>Delivered an <strong>invited talk</strong> at the <a href="https://www.experienceifore.org/home-2022"> SigmaXi iFoRE Conference</a>  "The Convergence of Data, Geometry, and Biology: Insights from the ‘shape’ of biological data" session, describing our efforts to leverage dataset geometry to integrate disparate single-cell multi-modal data with optimal transport. Many thanks to <a href="https://engineering.wisc.edu/directory/profile/dhananjay-bhaskar/">Dhananjay Bhaskar</a>, who organized this session, for the invitation! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>10 Nov 2022</strong></td>
