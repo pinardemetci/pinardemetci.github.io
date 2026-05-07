@@ -151,7 +151,7 @@ title: "Updates"
  </tr>
  <tr>
   <td class='col-md-3'><strong>10 Apr 2023</strong></td>
-  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a></strong> I feel really grateful to my primary doctoral advisor, <a href="https://ritambharasingh.com/">Ritambhara Singh</a>, who has been the best mentor I could ask for, an empathetic leader and a great role model throughout my PhD. Also feeling grateful for the support I have received from my co-advisor, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail</a>, and my "unofficial co-advisor'', <a href="https://www.derekaguiar.com/">Derek Aguiar</a>, with whom I share an academic lineage :) 
+  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a></strong> I feel really grateful to my primary doctoral advisor, <a href="https://ritambharasingh.com/">Ritambhara Singh</a>, who has been the best mentor I could ask for, an empathetic leader and a great role model throughout my PhD. Also feeling grateful for the support I have received from my co-advisor, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail</a>, and my "unofficial co-advisor'', <a href="https://www.derekaguiar.com/">Derek Aguiar</a>, with whom I share an academic lineage :) Some photos from our celebration below:
       <div style="display: flex; justify-content: center; gap: 10px; margin-top: 12px; flex-wrap: wrap;">
       <img src="/images/defense1.png" alt="PhD defense photo 1" style="width: 40%; max-width: 180px; height: auto;">
       <img src="/images/defense2.jpg" alt="PhD defense photo 2" style="width: 40%; max-width: 180px; height: auto;">
