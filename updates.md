@@ -130,7 +130,7 @@ title: "Updates"
   </tr>
 <tr>
   <td class='col-md-3'><strong>21 Nov 2023</strong></td>
-  <td>Joined a <strong>panel</strong> on <em>"Opportunities and Challenges for Foundation Models in Biology"</em> at the <em>"<a href="https://ericandwendyschmidtcenter.org/">Schmidt Center </a>- <a href="https://www.helmholtz.de/en/about-us/structure-and-governance/helmholtz-institutes/">Helmhotz Institute</a>, ML in Genomics Collaboration Kick-off"</em> event. Points of convergence with others: current benchmarks are circular and simplistic, yet difficult to improve them; limited data availability for "scaling laws" compared to natural language and computer vision aplications. Nevertheless, lots of excitement and optimism for the future!</td>
+  <td>Joined a <strong>panel</strong> on <em>"Opportunities and Challenges for Foundation Models in Biology"</em> at the <em>"<a href="https://ericandwendyschmidtcenter.org/">Schmidt Center </a>- <a href="https://www.helmholtz.de/en/about-us/structure-and-governance/helmholtz-institutes/">Helmhotz Institute</a>, ML in Genomics Collaboration Kick-off"</em> event. Points of convergence with others: difficulty of improving circular/simplistic benchmarks, limited data for "scaling laws" compared to natural language and computer vision, yet optimism for the future!</td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>31 Oct 2023</strong></td>
