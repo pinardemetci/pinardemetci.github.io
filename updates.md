@@ -202,7 +202,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>6 June 2022</strong></td>
-  <td> Started a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a> </td>, working with Grace Huynh, <a href="https://www.alexluresearch.com/">Alex Lu</a>, and <a href="https://dmelis.github.io/">David Alvarez-Melis</a> on a metric learning framework based on optimal transport for perturbation effect prediction. 
+  <td> Started a summer research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures) </a>, working with Grace Huynh, <a href="https://www.alexluresearch.com/">Alex Lu</a>, and <a href="https://dmelis.github.io/">David Alvarez-Melis</a> on a metric learning framework based on optimal transport for perturbation effect prediction. </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>22 May 2022</strong></td>
