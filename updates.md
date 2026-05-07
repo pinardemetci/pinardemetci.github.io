@@ -135,7 +135,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>31 Oct 2023</strong></td>
-  <td>Delivered an <strong>invited talk</strong> at the Ohio State University, <a href="https://tgda.osu.edu/">Topology, Geometry, and Data Analysis (TGGA) Seminar </a>, presenting my doctoral work on optimal transport (OT)-based algorithms for multi-modal data integration. Many thanks for the invitation to <a href="https://scholar.google.com/citations?user=Lzc7hZEAAAAJ&hl=en">Aziz Burak Gulen</a>, a humble, and wickedly smart Ph.D. advisee of <a href="https://facundo-memoli.org/">Facundo Mémoli</a>, the pioneer of the Gromov-Wasserstein distance. It was surreal to discuss OT with them!</td>
+  <td>Delivered an <strong>invited talk</strong> at the Ohio State University, <a href="https://tgda.osu.edu/">Topology, Geometry, and Data Analysis (TGGA) Seminar</a>, presenting my doctoral work on optimal transport (OT)-based algorithms for multi-modal data integration. Many thanks for the invitation to <a href="https://scholar.google.com/citations?user=Lzc7hZEAAAAJ&hl=en">Aziz Burak Gulen</a>, a humble, and wickedly smart advisee of <a href="https://facundo-memoli.org/">Facundo Mémoli</a>, the pioneer of the Gromov-Wasserstein distance. It was surreal to discuss OT with them!</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>11 Oct 2023</strong></td>
@@ -158,7 +158,7 @@ title: "Updates"
  </tr>
  <tr>
   <td class='col-md-3'><strong>10 Apr 2023</strong></td>
-  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a></strong>I feel really grateful to my primary doctoral advisor, <a href="https://ritambharasingh.com/">Ritambhara Singh </a>, who has been the best mentor I could have asked for, a great role model and an empathetic leader throughout my doctoral journey. Also feeling grateful for the support I have received from my co-advisor, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail</a>, and my ``unofficial co-advisor'', <a href="https://www.derekaguiar.com/">Derek Aguiar</a>, with whom I share an academic lineage :) </td>
+  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a></strong> I feel really grateful to my primary doctoral advisor, <a href="https://ritambharasingh.com/">Ritambhara Singh</a>, who has been the best mentor I could ask for, an empathetic leader and a great role model throughout my PhD. Also feeling grateful for the support I have received from my co-advisor, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail</a>, and my "unofficial co-advisor'', <a href="https://www.derekaguiar.com/">Derek Aguiar</a>, with whom I share an academic lineage :) </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>12 Feb 2023</strong></td>
