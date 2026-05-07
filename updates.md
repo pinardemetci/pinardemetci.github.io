@@ -11,7 +11,7 @@ title: "Updates"
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'><strong>26-31 May 2026</strong></td>
-  <td>Our submission on “Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions” was accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
+  <td>Our submission on <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions”</em> was accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
  </tr>
 </table>
 
@@ -44,13 +44,23 @@ title: "Updates"
     </td>
   </tr>
 <tr>
+
   <td class='col-md-3'><strong>16 Dec 2025</strong></td>
-  <td>My poster presentation was selected for an "Outstanding poster presentation award" at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected among 302 in total, and one of 2 selected among the 72 posters in the "Computational & Data Sciences" category</td>
+  <td>My poster presentation was selected for an <strong>"Outstanding poster presentation award"</strong> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected from 302 in total, and one of only 2 selected from the 72 posters in the "Computational & Data Sciences" category.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>15 Dec 2025</strong></td>
   <td>Presented a poster on my ongoing work <em>"Learning Tissue Remodelling Dynamics from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching"</em> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Institute 21st Annual Retreat</a></td>
  </tr>
+  <tr>
+  <td class='col-md-3'><strong>6 Dec 2025</strong></td>
+  <td>Our collaborative paper, <a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=&login=false"><em> "SCOT+: A Comprehensive Software Suite for Single-Cell alignment Using Optimal Transport" </em></a> was published in <em>Bioinformatics Advances</em>. This paper introduced a novel optimal transport formulation, <em>unbalanced augmented Gromov-Wasserstein optimal transport</em>, with applications for single-cell multi-omic alignment tasks.</td>
+ </tr>
+ <tr>
+  <td class='col-md-3'><strong>3 Dec 2025</strong></td>
+  <td>We co-presented a poster on our work-in progress  <a href="https://openreview.net/pdf?id=RpgaMJ0ovu"><em> "Learning Continuous-Time Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching" </em></a> was accepted at the NeurIPS LXAI workshop with my advisee Gabriella Gonzalez.  </td>
+ </tr>
+<tr>
 <tr>
   <td class='col-md-3'><strong>2 Dec 2025</strong></td>
   <td>Our workshop proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>. I'll be co-organizing this along with my co-organizers: <a href="https://www.linkedin.com/in/dongshunyili/">Dongshunyi "Dora" Li</a> (Broad), <a href="https://www.linkedin.com/in/maria-skoularidou-phd-1289b62a/"> Maria Skoularidou</a> (Broad), <a href="https://rsoatto.github.io/">Renzo Soatto</a> (Broad), <a href="https://tamarabroderick.com/">Tamara Broderick</a> (MIT), <a href="https://vdeborto.github.io/"> Valentin De Bortoli</a> (Google DeepMind), <a href="https://arnauddoucet.github.io/"> Arnaud Doucet </a>(Google DeepMind), <a href="https://scholar.google.com/citations?hl=en&user=8200InoAAAAJ&view_op=list_works"> Max Welling</a> (CuspAI & University of Amsterdam) in April! </td>
@@ -63,9 +73,12 @@ title: "Updates"
   <td class='col-md-3'><strong>1 June 2025</strong></td>
   <td>Stepped down from my co-chair position in the <a href="http://broad.io/mia"> Models, Inference & Algorithms (MIA)</a> group to reduce (or rather, redirect) time dedicated to administrative work.</td>
  </tr>
-<tr>
+	  <tr>
+  <td class='col-md-3'><strong> 8 Apr 2025</strong></td>
+  <td>Our collaboration paper, <a href="https://www.nature.com/articles/s41593-025-01924-3"><em> "Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution" </em></a> got published in <em>Nature Neuroscience</em>.</td>
+ </tr>
+  <tr>
 </tr>
-  
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2024</strong></h4>
@@ -89,7 +102,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>2 Aug 2024</strong></td>
-  <td>A bittersweet day as Erica Brown concludes her internship with me as part of the Broad Summer Research Program (BSRP). You can read her description of our work <a href="https://www.broadinstitute.org/bios/erica-brown">here</a>. Erica is an incredibly smart, mature, and motivated undergraduate researcher; keep an eye out for her Ph.D. application next year! We will miss her dearly but we will stay in touch. :)</td>
+  <td>A bittersweet day as Erica Brown concludes her internship with me as part of <a href="https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp">the Broad Summer Research Program (BSRP)</a>. You can read her description of our work <a href="https://www.broadinstitute.org/bios/erica-brown">here</a>. Erica is an incredibly smart, mature, and motivated undergraduate researcher; keep an eye out for her Ph.D. application next year! We will miss her dearly but we will stay in touch. :)</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 June 2024</strong></td>
@@ -125,7 +138,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>6-7 Oct 2023</strong></td>
-  <td> Feeling incredibly inspired after attending <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers who made the HGP a success, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) in the ~20 years since its completion, and retold stories of this ambitious undertaking. It was moving to learn more about Sorin’s inspiring journey as an immigrant from Romania, and the difference he's made in others' through his generosity of spirit. It is humbling to be co-advised by such a warm person and a capable scientist! 
+  <td> Feeling inspired after attending <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> (HGP) at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers from HGP, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) in the ~20 years since its completion, and retold stories of this ambitious undertaking. It was moving to learn more about Sorin’s inspiring immigration journey, and the difference he's made for others through his generosity of spirit. It is humbling to be co-advised by such a warm person and a capable scientist! 
 <!-- We also enjoyed videos of Sorin being overjoyed by hanging out with <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Paul Erdős</a>. I learned that I have an Erdős number of 3, via: Me &rarr; Sorin Istrail &rarr; <a href="https://en.wikipedia.org/wiki/Solomon_Marcus">Solomon Marcus</a> &rarr; Paul Erdős. <br> -->
 <!-- SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/team/">Derek Aguiar</a>, Sorin's "favorite" PhD advisee (and deservedly so! :)). It was a pleasure to reconnect with his lab members, including <a href="https://www.linkedin.com/in/marjhosseini/">Marjan Hosseini</a> and <a href="https://bayesomicslab.github.io/members/aaron-palmer.html"> Aaron Palmer</a>. -->
 
