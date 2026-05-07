@@ -38,8 +38,6 @@ title: "Updates"
   <td class='col-md-3'><strong>18 Mar 2026</strong></td>
   <td>Gave an <strong>invited talk</strong> at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on <em>“Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”.</em> </td>
  </tr>
- <tr>
-</tr>
   
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
@@ -66,7 +64,6 @@ title: "Updates"
   <td>We co-presented a <strong>poster</strong> on our work-in progress  <a href="https://openreview.net/pdf?id=RpgaMJ0ovu"><em> "Learning Continuous-Time Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching" </em></a> was accepted at the NeurIPS LXAI workshop with my advisee Gabriella Gonzalez.  </td>
  </tr>
 <tr>
-<tr>
   <td class='col-md-3'><strong>2 Dec 2025</strong></td>
   <td>Our <strong>workshop</strong> proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>. I'll be <strong>co-organizing</strong> this along with my co-organizers: <a href="https://www.linkedin.com/in/dongshunyili/">Dongshunyi "Dora" Li</a> (Broad), <a href="https://www.linkedin.com/in/maria-skoularidou-phd-1289b62a/"> Maria Skoularidou</a> (Broad), <a href="https://rsoatto.github.io/">Renzo Soatto</a> (Broad), <a href="https://tamarabroderick.com/">Tamara Broderick</a> (MIT), <a href="https://vdeborto.github.io/"> Valentin De Bortoli</a> (Google DeepMind), <a href="https://arnauddoucet.github.io/"> Arnaud Doucet </a>(Google DeepMind), <a href="https://scholar.google.com/citations?hl=en&user=8200InoAAAAJ&view_op=list_works"> Max Welling</a> (CuspAI & University of Amsterdam) in April! </td>
  </tr>
@@ -82,8 +79,6 @@ title: "Updates"
   <td class='col-md-3'><strong> 8 Apr 2025</strong></td>
   <td>Our collaboration paper, <a href="https://www.nature.com/articles/s41593-025-01924-3"><em> "Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution" </em></a> got <strong>published</strong> in <em>Nature Neuroscience</em>.</td>
  </tr>
-  <tr>
-</tr>
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2024</strong></h4>
@@ -121,8 +116,6 @@ title: "Updates"
   <td class='col-md-3'><strong>3 May 2024</strong></td>
   <td>Presented our <strong>accepted paper</strong> <a href="https://proceedings.mlr.press/v238/demetci24a"> <em> "Breaking isometric ties and introducing priors in Gromov-Wasserstein distance"</em></a> as a <strong>poster</strong> at <a href="https://aistats.org/aistats2022/">the International Conference on Artificial Intelligence and Statistics (AISTATS)</a> in beautiful Valencia, Spain, soaking in the sun. </td>
  </tr>
-<tr>
-</tr>
 
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
@@ -164,8 +157,6 @@ title: "Updates"
   <td class='col-md-3'><strong>12 Feb 2023</strong></td>
   <td>Presented our <strong>poster </strong> on our collaboration paper,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193"> <em> "Unbalanced CO-Optimal Transport", </em></a> accepted at the <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a> in Washington, D.C. </td>
  </tr>
- <tr>
-</tr>
 
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
@@ -218,8 +209,6 @@ title: "Updates"
   <td class='col-md-3'><strong>12 Apr 2022</strong></td>
   <td>Received the <a href="https://recomb2022.net"> <strong>2022 RECOMB Travel Fellowship </strong></a></td>
 </tr>
-<tr>
-</tr>
 
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
@@ -242,33 +231,24 @@ title: "Updates"
   <td class='col-md-3'><strong>29 Aug 2021</strong></td>
   <td> Presented <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"><em>Gromov–Wasserstein Optimal Transport to Align Single-Cell Multi-Omics Data</em></a> as a <strong>as a talk </strong> at the  <a href="https://www.recomb2021.org/accepted-papers">25th Annual International Conference on Research in Computational Biology (RECOMB) </a>.</td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>11 Aug 2021</strong></td>
   <td> Our work on <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754">multi-scale genomic inference</a> has been <strong>accepted for publication </strong> at <a href="https://journals.plos.org/plosgenetics/">PLOS Genetics</a>!</td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>27 May 2021</strong></td>
   <td> <strong>Passed my qualifying exam</strong>, defended my dissertation proposal, and advanced to candidacy!</td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>2 Mar 2021</strong></td>
   <td> My Ph.D. co-adviser, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail.</a>, has been named <a href="https://www.iscb.org/iscb-news-items/4626-2021-march02-iscb-congratulates-introduces-2021-class-fellows">an International Society for Computational Biology (ISCB) fellow</a> for his foundational contributions to computational biology!</td>
 </tr>
 <tr>
-</tr>
-<tr>
   <td class='col-md-3'><strong>17 Feb 2021</strong></td>
   <td> Established <strong>my thesis committee</strong> with <a href="https://rsinghlab.org/"> Ritambhara Singh</a> (as my primary doctoral thesis advisor),   <a href="https://istrail-lab.github.io/sorin-istrail/">  Sorin Istrail</a> (as my secondary doctoral thesis advisor and concurrent masters advisor), <a href="https://vivo.brown.edu/display/elarscha">Erica Larschan</a> (as the chair of my thesis committee) and <a href="https://www.lorincrawford.com/"> Lorin Crawford</a>. We held an exploratory meeting to discuss my Ph.D. dissertation proposal.</td>
 </tr>
-<tr>
-</tr>
-
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2020</strong></h4>
@@ -279,79 +259,58 @@ title: "Updates"
   <td> <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2">Our work on single-cell multi-omic data integration</a> has been <strong>accepted</strong> at the <a href="https://www.recomb2021.org/accepted-papers"> 25th Annual International Conference on Research in Computational Biology (RECOMB)</a> </td>
 </tr>
 <tr>
-</tr>
-<tr>
   <td class='col-md-3'><strong>24 Nov 2020</strong></td>
   <td> Delivered a <strong>talk</strong> on our paper <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066787v2"> <em>"Gromov-Wasserstein optimal transport to align single-cell multi-omics data"</em></a> at the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/"> 2020 Machine Learning in Computational Biology (MLCB) conference. </a> The recording for talks is available <a href="https://youtu.be/BYanbnKpwok?t=11364"> here. </a> </td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>10 Nov 2020</strong></td>
   <td> Co-presented a <strong>poster</strong> with my co-first author and friend, <a href="https://scholar.google.com/citations?user=bMDdVUQAAAAJ&hl=en">Rebecca Santorella</a>, on applications of optimal transport to single-cell multi-omics at the <a href="https://www.ima.umn.edu/2020-2021.1/W11.9-13.20">Workshop on Optimal Control, Optimal Transport, and Data Science</a> hosted by <a href="https://www.ima.umn.edu/">University of Minnesota Institute for Mathematics and Its Applications (IMA).</a> </td>
 </tr>
 <tr>
-</tr>
-<tr>
   <td class='col-md-3'><strong>28 Oct 2020</strong></td>
   <td> Served as a reviewer for the <a href="https://sites.google.com/cs.washington.edu/mlcb2020/">Machine Learning in Computational Biology (MLCB) conference.</a> </td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>23 Sep 2020</strong></td>
   <td> My Ph.D. adviser, <a href="https://ritambharasingh.com/">Ritambhara Singh, Ph.D.</a> presented our work titled <a href="https://dl.acm.org/doi/10.1145/3388440.3412410"><em>"Unsupervised manifold alignment for single-cell multi-omics data"</em></a>"at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
 </tr>
 <tr>
-</tr>
-<tr>
   <td class='col-md-3'><strong>18 Sep 2020</strong></td>
   <td> Last day of my <strong>internship</strong> at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a>, where I built a Bayesian variable selection pipeline on the cloud for biomarker discovery from genomic data. Had a really nice time with the Genomics Team! </td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>17 Jul 2020</strong></td>
   <td> Received the <strong>2020 ICML WCB Fellowship award.</strong></td>
 </tr>
 <tr>
-</tr>
-<tr>
   <td class='col-md-3'><strong>17 Jul 2020</strong></td>
   <td> <strong>Spotlight talk</strong> (by me) and <strong>poster</strong> presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning (ICML) - Workshop on Computational Biology)</a>. Poster presentation received <strong>the Best Poster Award.</strong></td>
-</tr>
-<tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>15 Jul 2020</strong></td>
   <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true"><em>"Combinatorial and statistical prediction of gene expression from haplotype sequence"</em></a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. <br> Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>14 Jul 2020</strong></td>
   <td> Presented our work on single-cell multi-omics integration at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. Video for <strong>poster</strong> presentation (by me) is <a href="https://www.youtube.com/watch?v=urN7mwDEkhw">here</a> and the video for <strong>talk</strong> (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) is <a href="https://www.youtube.com/watch?v=zGDNe-rErJM">here</a></td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>29 June 2020</strong></td>
   <td> Delivered a <strong>talk</strong> on optimal transport theory applications on single-cell multi-omics integration at the <a href="https://unconference.brown.edu/"> 2020 Brown Unconference on Computational Intelligence and Applications. </a></td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>15 June 2020</strong></td>
   <td> Started my <strong>summer internship</strong> at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a> with the Genomics Team.</td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>13 Apr 2020</strong></td>
   <td> Our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true"><em>"Combinatorial and statistical prediction of gene expression from haplotype sequence"</em></a> got <strong>accepted for publication</strong> and presentation at the<a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a></td>
 </tr>
-<tr>
-</tr>
+
 
 <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
@@ -362,21 +321,9 @@ title: "Updates"
   <td class='col-md-3'><strong>30 Oct 2019</strong></td>
   <td> Delivered an <strong>invited talk</strong> on <a href="https://www.biorxiv.org/content/10.1101/2020.07.02.184465v3">Bayesian hierarchical models for multi-scale genomic association</a> at the<a href="https://datasci.brown.edu/ccvcon/"> 2019 CCV-Con.</a></td>
 </tr>
-<tr>
-</tr>
+
 <tr>
   <td class='col-md-3'><strong>02 Jul 2019</strong></td>
   <td> Our paper on my work at MIT as a research associate, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19"><em>"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</em></a> got <strong>accepted for publication</strong> at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
-</table>
-
-<table class="table table-hover">
-  {% for post in site.posts %}
-    {% unless post.draft %}
-    <tr>
-      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td class="col-md-3" style="text-align: right;">{{ post.date | date: "%B %e, %Y" }}</td>
-    </tr>
-    {% endunless %}
-  {% endfor %}
 </table>
