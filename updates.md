@@ -46,7 +46,7 @@ title: "Updates"
 <tr>
 
   <td class='col-md-3'><strong>16 Dec 2025</strong></td>
-  <td>My poster presentation was selected for an <strong>"Outstanding poster presentation award"</strong> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected from 302 in total, and one of only 2 selected from the 72 posters in the "Computational & Data Sciences" category.</td>
+  <td>My poster presentation was selected for an <strong>"Outstanding poster presentation award"</strong> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected from 302 in total, and one of only 2 selected from the 72 posters in the <em>"Computational & Data Sciences"</em> category.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>15 Dec 2025</strong></td>
@@ -186,7 +186,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 Oct 2022</strong></td>
-  <td> I attended the <a href="https://risingstars.utexas.edu"> Rising Stars in EECS Workshop </a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from <a href="https://www.cmu.edu/compbio/">CMU</a> (whom I frequently run into at conferences!), and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from <a href="https://www.dana-farber.org/">DFCI</a>. Together, we represented computational biology at this EECS workshop! :)  </td>
+  <td> I attended the <a href="https://risingstars.utexas.edu"> <strong>Rising Stars in EECS Workshop </strong></a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from <a href="https://www.cmu.edu/compbio/">CMU</a> (whom I frequently run into at conferences!), and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from <a href="https://www.dana-farber.org/">DFCI</a>. Together, we represented computational biology at this EECS workshop! :)  </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>3 Sep 2022</strong></td>
@@ -210,7 +210,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>12 Apr 2022</strong></td>
-  <td>Received the <a href="https://recomb2022.net"> 2022 RECOMB Travel Fellowship </a></td>
+  <td>Received the <a href="https://recomb2022.net"> <strong>2022 RECOMB Travel Fellowship </strong></a></td>
 </tr>
 <tr>
 </tr>
@@ -306,13 +306,13 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>17 July 2020</strong></td>
-  <td> Received the 2020 ICML WCB Fellowship award.</td>
+  <td> Received the <strong>2020 ICML WCB Fellowship award.</strong></td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'><strong>17 July 2020</strong></td>
-  <td> Spotlight talk (by me) and poster presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning (ICML) - Workshop on Computational Biology)</a>. Poster presentation received the Best Poster Award.</td>
+  <td> Spotlight talk (by me) and poster presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning (ICML) - Workshop on Computational Biology)</a>. Poster presentation received <strong>the Best Poster Award.</strong></td>
 </tr>
 <tr>
 </tr>
