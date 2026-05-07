@@ -14,7 +14,6 @@ title: "Updates"
   <td>Our submission on “Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions” got accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, which will be held between 26-31 May.</td>
  </tr>
 </table>
-<!--  -->
 
 ### Past
 <table class="table table-hover">  <tr style="border-top: 1px solid #ddd;">
