@@ -157,7 +157,7 @@ title: "Updates"
  </tr>
  <tr>
   <td class='col-md-3'><strong>10 Apr 2023</strong></td>
-  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a><strong> I feel really grateful to my primary doctoral advisor, Ritambhara Singh, who has been such a great role model and an empathetic leader throughout my doctoral journey.</td>
+  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a></strong>I feel really grateful to my primary doctoral advisor, <a href="https://ritambharasingh.com/">Ritambhara Singh </a>, who has been the best mentor I could have asked for, a great role model and an empathetic leader throughout my doctoral journey. Also feeling grateful for the support I have received from my co-advisor, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail</a>, and my ``unofficial co-advisor'', <a href="https://www.derekaguiar.com/">Derek Aguiar</a>, with whom I share an academic lineage :) </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>12 Feb 2023</strong></td>
