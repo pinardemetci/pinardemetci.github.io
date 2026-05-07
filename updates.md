@@ -195,7 +195,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>2 Sep 2022</strong></td>
-  <td> Last day of my <strong>summer internship</strong> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures). </a> I had a truly great team of mentors and even though we spent weeks to discover <a href="https://lincsproject.org/LINCS/data/overview"> LINCS dataset</a> had more noise than signal before switching to single-cell data (imagine finding single-cell data less noisy!), it was a really fun internship!</td>
+  <td> Last day of my <strong>summer internship</strong> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/"> Microsoft Research  (Health Futures). </a> I had a truly great team of mentors! Despite the weeks we spent to discover <a href="https://lincsproject.org/LINCS/data/overview"> LINCS dataset</a> had way more noise than signal before switching to single-cell data <em>(imagine finding single-cell data less noisy than bulk!)</em>, it was a really fun internship!</td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>7 June 2022</strong></td>
