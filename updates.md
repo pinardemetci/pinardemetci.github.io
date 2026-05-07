@@ -189,7 +189,9 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 Oct 2022</strong></td>
-  <td> I attended the <a href="https://risingstars.utexas.edu"> <strong>Rising Stars in EECS Workshop </strong></a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. I also got to meet other brilliant scientists from my field, <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from <a href="https://www.cmu.edu/compbio/">CMU</a> (whom I frequently run into at conferences!), and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from <a href="https://www.dana-farber.org/">DFCI</a>. Together, we represented computational biology at this EECS workshop! :)  </td>
+  <td> I attended the <a href="https://risingstars.utexas.edu"> <strong>Rising Stars in EECS Workshop </strong></a> at the University of Texas at Austin! This was quite an informative workshop to attend to learn more about academic job applications and the nature of a faculty position. 
+	  <!-- I also got to meet other brilliant scientists from my field, <a href="https://www.linkedin.com/in/dongshunyili/">Donghsunyi "Dora" Li</a> from <a href="https://www.cmu.edu/compbio/">CMU</a> (whom I frequently run into at conferences!), and <a href="https://yi-zhang-compbio-lab.github.io/">Yi Zhang</a> from <a href="https://www.dana-farber.org/">DFCI</a>. Together, we represented computational biology at this EECS workshop! :)   -->
+  </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>2 Sep 2022</strong></td>
@@ -201,7 +203,7 @@ title: "Updates"
 </tr>
 <tr>
   <td class='col-md-3'><strong>7 June 2022</strong></td>
-  <td> Delivered an <strong>invited virtual talk</strong> on  <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab, Stanford University</a>, by invitation from <a href="https://scholar.google.com/citations?user=vEiu33sAAAAJ&hl=en"> Gokcen Eraslan</a>. It was stimulating to discuss the technical difficulties we ran into as we tried to incorporate Bayesian variable selection into neural networks (lots of work to be done here, but there are many alternative approaches that I would rather use today), and to brainstorm possible other applications of a similar approach. </td>
+  <td> Delivered an <strong>invited virtual talk</strong> on  <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009754"> Biologically Annotated Neural Networks</a> at <a href="https://sites.google.com/site/anshulkundaje/"> Kundaje Lab, Stanford University</a>, by invitation from <a href="https://scholar.google.com/citations?user=vEiu33sAAAAJ&hl=en"> Gokcen Eraslan</a>. It was stimulating to discuss incorporating Bayesian variable selection into neural networks (many alternative approaches that I would rather use today), and to brainstorm possible applications. </td>
 </tr>
 <tr>
   <td class='col-md-3'><strong>6 June 2022</strong></td>
