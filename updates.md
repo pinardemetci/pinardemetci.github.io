@@ -8,24 +8,26 @@ title: "Updates"
 <br>
 
 <h3>Upcoming</h3>
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'><strong>26-31 May 2026</strong></td>
-  <td>Our submission on <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions”</em> was accepted for a poster presentation at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
+  <td>Our submission on <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions”</em> was accepted for a <strong>poster presentation</strong> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
  </tr>
 </table>
 
 <h3>Past</h3>
+
 <table class="table table-hover"> 
  <tr style="border-top: 1px solid #ddd;">
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
   </tr>
-<tr>
+
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
-  <td>Co-organized <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
+  <td><strong>Co-organized</strong> <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>27 March 2026</strong></td>
@@ -33,7 +35,7 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>18 March 2026</strong></td>
-  <td>Gave an invited talk at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on <em>“Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”.</em> </td>
+  <td>Gave an <strong>invited talk</strong> at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on <em>“Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”.</em> </td>
  </tr>
  <tr>
 </tr>
@@ -43,31 +45,33 @@ title: "Updates"
       <h4 style="margin: 0;"><strong>2025</strong></h4>
     </td>
   </tr>
-<tr>
 
+<tr>
   <td class='col-md-3'><strong>16 Dec 2025</strong></td>
   <td>My poster presentation was selected for an <strong>"Outstanding poster presentation award"</strong> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Retreat</a>! It was one of 10 posters selected from 302 in total, and one of only 2 selected from the 72 posters in the <em>"Computational & Data Sciences"</em> category.</td>
  </tr>
+
 <tr>
   <td class='col-md-3'><strong>15 Dec 2025</strong></td>
-  <td>Presented a poster on my ongoing work <em>"Learning Tissue Remodelling Dynamics from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching"</em> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Institute 21st Annual Retreat</a></td>
+  <td>Presented a <strong>poster</strong> on my ongoing work <em>"Learning Tissue Remodelling Dynamics from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching"</em> at <a href="https://conventioncalendar.com/us/ma/boston/boston-convention-and-exhibition-center/broad-institute-21st-annual-retreat-414864">the Broad Institute 21st Annual Retreat</a></td>
  </tr>
+
   <tr>
   <td class='col-md-3'><strong>6 Dec 2025</strong></td>
-  <td>Our collaborative paper, <a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=&login=false"><em> "SCOT+: A Comprehensive Software Suite for Single-Cell alignment Using Optimal Transport" </em></a> was published in <em>Bioinformatics Advances</em>. This paper introduced a novel optimal transport formulation, <em>unbalanced augmented Gromov-Wasserstein optimal transport</em>, with applications for single-cell multi-omic alignment tasks.</td>
+  <td>Our collaborative paper, <a href="https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=&login=false"><em> "SCOT+: A Comprehensive Software Suite for Single-Cell alignment Using Optimal Transport" </em></a> was <strong>published</strong> in <em>Bioinformatics Advances</em>. This paper introduced a novel optimal transport formulation, <em>unbalanced augmented Gromov-Wasserstein optimal transport</em>, with applications for single-cell multi-omic alignment tasks.</td>
  </tr>
  <tr>
   <td class='col-md-3'><strong>3 Dec 2025</strong></td>
-  <td>We co-presented a poster on our work-in progress  <a href="https://openreview.net/pdf?id=RpgaMJ0ovu"><em> "Learning Continuous-Time Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching" </em></a> was accepted at the NeurIPS LXAI workshop with my advisee Gabriella Gonzalez.  </td>
+  <td>We <strong>co-presented a poster</strong> on our work-in progress  <a href="https://openreview.net/pdf?id=RpgaMJ0ovu"><em> "Learning Continuous-Time Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching" </em></a> was accepted at the NeurIPS LXAI workshop with my advisee Gabriella Gonzalez.  </td>
  </tr>
 <tr>
 <tr>
   <td class='col-md-3'><strong>2 Dec 2025</strong></td>
-  <td>Our workshop proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>. I'll be co-organizing this along with my co-organizers: <a href="https://www.linkedin.com/in/dongshunyili/">Dongshunyi "Dora" Li</a> (Broad), <a href="https://www.linkedin.com/in/maria-skoularidou-phd-1289b62a/"> Maria Skoularidou</a> (Broad), <a href="https://rsoatto.github.io/">Renzo Soatto</a> (Broad), <a href="https://tamarabroderick.com/">Tamara Broderick</a> (MIT), <a href="https://vdeborto.github.io/"> Valentin De Bortoli</a> (Google DeepMind), <a href="https://arnauddoucet.github.io/"> Arnaud Doucet </a>(Google DeepMind), <a href="https://scholar.google.com/citations?hl=en&user=8200InoAAAAJ&view_op=list_works"> Max Welling</a> (CuspAI & University of Amsterdam) in April! </td>
+  <td>Our <strong>workshop</strong> proposal on <a href="https://genai-in-genomics.github.io/">"Generative AI in Genomics (Gen2): Barriers and Frontiers"</a> was accepted at <a href="https://iclr.cc/">ICLR 2026</a>. I'll be <strong>co-organizing</strong> this along with my co-organizers: <a href="https://www.linkedin.com/in/dongshunyili/">Dongshunyi "Dora" Li</a> (Broad), <a href="https://www.linkedin.com/in/maria-skoularidou-phd-1289b62a/"> Maria Skoularidou</a> (Broad), <a href="https://rsoatto.github.io/">Renzo Soatto</a> (Broad), <a href="https://tamarabroderick.com/">Tamara Broderick</a> (MIT), <a href="https://vdeborto.github.io/"> Valentin De Bortoli</a> (Google DeepMind), <a href="https://arnauddoucet.github.io/"> Arnaud Doucet </a>(Google DeepMind), <a href="https://scholar.google.com/citations?hl=en&user=8200InoAAAAJ&view_op=list_works"> Max Welling</a> (CuspAI & University of Amsterdam) in April! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>25 Nov 2025</strong></td>
-  <td>Delivered a guest lecture in <a href="https://dmelis.github.io/">David Alvarez-Melis'</a> COMPSCI2840 class on <a href="https://beta.my.harvard.edu/course/COMPSCI2840/2025-Fall/001">"Optimal Transport in "</a> at Harvard University, covering some applications of optimal transport in computational biology and in ML for biology. I really admire David as a scientist, mentor and a person, so being part of his class truly meant a lot! </td>
+  <td>Delivered a <strong>guest lecture</strong> in <a href="https://dmelis.github.io/">David Alvarez-Melis'</a> COMPSCI2840 class on <a href="https://beta.my.harvard.edu/course/COMPSCI2840/2025-Fall/001">"Optimal Transport in "</a> at Harvard University, covering some applications of optimal transport in computational biology and in ML for biology. I really admire David as a scientist, mentor and a person, so being part of his class truly meant a lot! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>1 June 2025</strong></td>
@@ -75,7 +79,7 @@ title: "Updates"
  </tr>
 	  <tr>
   <td class='col-md-3'><strong> 8 Apr 2025</strong></td>
-  <td>Our collaboration paper, <a href="https://www.nature.com/articles/s41593-025-01924-3"><em> "Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution" </em></a> got published in <em>Nature Neuroscience</em>.</td>
+  <td>Our collaboration paper, <a href="https://www.nature.com/articles/s41593-025-01924-3"><em> "Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution" </em></a> got <strong>published</strong> in <em>Nature Neuroscience</em>.</td>
  </tr>
   <tr>
 </tr>
@@ -86,11 +90,11 @@ title: "Updates"
   </tr>
 <tr>
   <td class='col-md-3'><strong>26 Nov 2024</strong></td>
-  <td>Delivered an invited talk on <em>“Identifying Regulatory Drivers of Cell State Transitions with Flow-Based Generative Models and Neural ODEs”</em> at <a href="https://science.ai.cam.ac.uk/events/ai-for-science-summit-2024">the University of Cambridge AI for Science Summit</a>. Max Welling's talk was the highlight of the summit for me, bridging physics, materials science, machine learning, and generative modeling, which has a lot of parallels in biology. </td>
+  <td>Delivered an <strong>invited talk</strong> on <em>“Identifying Regulatory Drivers of Cell State Transitions with Flow-Based Generative Models and Neural ODEs”</em> at <a href="https://science.ai.cam.ac.uk/events/ai-for-science-summit-2024">the University of Cambridge AI for Science Summit</a>. Max Welling's talk was the highlight of the summit for me, bridging physics, materials science, machine learning, and generative modeling, which has a lot of parallels in biology. </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>20 Nov 2024</strong></td>
-  <td>Delivered an invited talk at the Flatiron Institute and Simons Foundation <a href="https://www.simonsfoundation.org/event/modeling-inferences-of-stochastic-processes-in-cells/">"Workshop on Modeling Stochastic Processes in Cells"</a> on my past and recent work on optimal transport and neural ODEs for multi-modal single-cell data analysis and modeling the dynamics of cell state transitions.</td>
+  <td>Delivered an <strong>invited talk</strong> at the Flatiron Institute and Simons Foundation <a href="https://www.simonsfoundation.org/event/modeling-inferences-of-stochastic-processes-in-cells/">"Workshop on Modeling Stochastic Processes in Cells"</a> on my past and recent work on optimal transport and neural ODEs for multi-modal single-cell data analysis and modeling the dynamics of cell state transitions.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>13-16 Nov 2024</strong></td>
@@ -106,15 +110,15 @@ title: "Updates"
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 June 2024</strong></td>
-  <td>Serving as a research mentor for the <a href="https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp">“Broad Summer Research Program (BSRP)”</a> this year! Started working with <a href="https://www.linkedin.com/in/erica-brown-259484227/">Erica Brown</a>, who is an undergraduate student from my PhD granting institution, Brown University. Super excited!! :) </td>
+  <td><strong>Serving as a research mentor</strong> for the <a href="https://www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp">“Broad Summer Research Program (BSRP)”</a> this year! Started working with <a href="https://www.linkedin.com/in/erica-brown-259484227/">Erica Brown</a>, who is an undergraduate student from my PhD granting institution, Brown University. Super excited!! :) </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 Jan 2024</strong></td>
-  <td>Started serving as a co-chair at <a href="http://broad.io/mia"> Models, Inference and Algorithms Initiative (MIA) </a> at the Broad, along with <a href="https://www.broadinstitute.org/bios/orr-ashenberg">Orr Ashenberg</a>! :) </td>
+  <td>Started serving as a <strong>co-chair</strong> at <a href="http://broad.io/mia"> Models, Inference and Algorithms Initiative (MIA) </a> at the Broad, along with <a href="https://www.broadinstitute.org/bios/orr-ashenberg">Orr Ashenberg</a>! :) </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>3 May 2024</strong></td>
-  <td>Presented our accepted paper <a href="https://proceedings.mlr.press/v238/demetci24a"> <em> "Breaking isometric ties and introducing priors in Gromov-Wasserstein distance"</em></a> as a poster at <a href="https://aistats.org/aistats2022/">the International Conference on Artificial Intelligence and Statistics (AISTATS)</a> in beautiful Valencia, Spain, soaking in the sun. </td>
+  <td>Presented our <strong>accepted paper</strong> <a href="https://proceedings.mlr.press/v238/demetci24a"> <em> "Breaking isometric ties and introducing priors in Gromov-Wasserstein distance"</em></a> as a <strong>poster</strong> at <a href="https://aistats.org/aistats2022/">the International Conference on Artificial Intelligence and Statistics (AISTATS)</a> in beautiful Valencia, Spain, soaking in the sun. </td>
  </tr>
 <tr>
 </tr>
@@ -126,39 +130,38 @@ title: "Updates"
   </tr>
 <tr>
   <td class='col-md-3'><strong>21 Nov 2023</strong></td>
-  <td>Joined a panel on <em>"Opportunities and Challenges for Foundation Models in Biology"</em> at the <em>"<a href="https://ericandwendyschmidtcenter.org/">Schmidt Center </a>- <a href="https://www.helmholtz.de/en/about-us/structure-and-governance/helmholtz-institutes/">Helmhotz Institute</a>, ML in Genomics Collaboration Kick-off"</em> event. Some points of convergence with other panelists: current benchmarks are circular and simplistic, yet difficult to establish better ones; dataset availability is limited for "scaling laws" compared to natural language and computer vision aplications. Despite these, lots of excitement and optimism for the future!</td>
- </tr>
+  <td>Joined a <strong>panel</strong> on <em>"Opportunities and Challenges for Foundation Models in Biology"</em> at the <em>"<a href="https://ericandwendyschmidtcenter.org/">Schmidt Center </a>- <a href="https://www.helmholtz.de/en/about-us/structure-and-governance/helmholtz-institutes/">Helmhotz Institute</a>, ML in Genomics Collaboration Kick-off"</em> event. Points of convergence with others: current benchmarks are circular and simplistic, yet difficult to improve them; limited data availability for "scaling laws" compared to natural language and computer vision aplications. Nevertheless, lots of excitement and optimism for the future!</td>
+</tr>
 <tr>
   <td class='col-md-3'><strong>31 Oct 2023</strong></td>
-  <td>Delivered an invited talk at the Ohio State University, <a href="https://tgda.osu.edu/">Topology, Geometry, and Data Analysis (TGGA) Seminar </a>, presenting my doctoral work on optimal transport (OT)-based algorithms for multi-modal data integration. Many thanks for the invitation to <a href="https://scholar.google.com/citations?user=Lzc7hZEAAAAJ&hl=en">Aziz Burak Gulen</a>, a humble, and wickedly smart Ph.D. advisee of <a href="https://facundo-memoli.org/">Facundo Mémoli</a>, the pioneer of the Gromov-Wasserstein distance. It was surreal to discuss OT with them!</td>
+  <td>Delivered an <strong>invited talk</strong> at the Ohio State University, <a href="https://tgda.osu.edu/">Topology, Geometry, and Data Analysis (TGGA) Seminar </a>, presenting my doctoral work on optimal transport (OT)-based algorithms for multi-modal data integration. Many thanks for the invitation to <a href="https://scholar.google.com/citations?user=Lzc7hZEAAAAJ&hl=en">Aziz Burak Gulen</a>, a humble, and wickedly smart Ph.D. advisee of <a href="https://facundo-memoli.org/">Facundo Mémoli</a>, the pioneer of the Gromov-Wasserstein distance. It was surreal to discuss OT with them!</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>11 Oct 2023</strong></td>
-  <td>Delivered an invited "lightning whiteboard talk" (along with 3 other postdocs / scientists) at the Models, Inference and Algorithms (MIA) Seminar at the Broad, based on our latest <a href="https://proceedings.mlr.press/v238/demetci24a">"Augmented Gromov Wasserstein" work</a>. Here is the <a href="https://www.youtube.com/watch?v=Spx6BgmJB0k">recording</a>. </td>
+  <td>Delivered an <strong>invited "lightning whiteboard talk"</strong> (along with 3 other postdocs / scientists) at the Models, Inference and Algorithms (MIA) Seminar at the Broad, based on our latest <a href="https://proceedings.mlr.press/v238/demetci24a">"Augmented Gromov Wasserstein" work</a>. Here is the <a href="https://www.youtube.com/watch?v=Spx6BgmJB0k">recording</a>. </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>6-7 Oct 2023</strong></td>
-  <td> Feeling inspired after attending <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> (HGP) at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers from HGP, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) since its completion, and retold stories of this ambitious undertaking. It was moving to learn more about Sorin’s inspiring immigration journey, and the difference he's made for others through his generosity of spirit. It is humbling to be co-advised by such a warm person and a capable scientist! 
+  <td> Feeling inspired after the <a href="https://istrail-lab.github.io/sorinfest/">SorinFest!</a>, a celebration held to honor my doctoral co-advisor, <a href="">Sorin Istrail</a>, on his 70th birthday. We celebrated his legacy as a computer scientist, who led the development of the sequencing read assembly algorithms used for <a href="https://en.wikipedia.org/wiki/Human_Genome_Project">the Human Genome Project</a> (HGP) at <a href="https://en.wikipedia.org/wiki/Celera_Corporation">Celera</a>. Many of the pioneers from HGP, including <a href="https://en.wikipedia.org/wiki/Michael_Waterman">Michael Waterman</a> and <a href="https://en.wikipedia.org/wiki/Craig_Venter">Craig J. Venter</a>, reflected on the progress made (and the promises yet to be reached) since its completion, and retold stories of HGP and the difference Sorin has made. It is humbling to be co-advised by such a warm person and a capable scientist! 
 <!-- We also enjoyed videos of Sorin being overjoyed by hanging out with <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Paul Erdős</a>. I learned that I have an Erdős number of 3, via: Me &rarr; Sorin Istrail &rarr; <a href="https://en.wikipedia.org/wiki/Solomon_Marcus">Solomon Marcus</a> &rarr; Paul Erdős. <br> -->
 <!-- SorinFest was primarily organized by <a href="https://bayesomicslab.github.io/team/">Derek Aguiar</a>, Sorin's "favorite" PhD advisee (and deservedly so! :)). It was a pleasure to reconnect with his lab members, including <a href="https://www.linkedin.com/in/marjhosseini/">Marjan Hosseini</a> and <a href="https://bayesomicslab.github.io/members/aaron-palmer.html"> Aaron Palmer</a>. -->
-
   </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>4 Sep 2023</strong></td>
-  <td>Joined the steering committee of the <a href="https://www.broadinstitute.org/talks/spring-2025/mia">Models, Inference and Algorithms (MIA) Initiative</a> at the Broad Institute, many thanks to the invitation by the current co-chair <a href="https://salilb1.github.io/">Salil Bhate</a>! During my PhD, attending MIA exposed me to branches of computational bio(medicine) outside of the scope of my graduate department. It is wonderful to be contributing to this community now! </td>
+  <td>Joined the <strong>steering committee</strong> of the <a href="https://www.broadinstitute.org/talks/spring-2025/mia">Models, Inference and Algorithms (MIA) Initiative</a> at the Broad Institute, many thanks to the invitation by the current co-chair <a href="https://salilb1.github.io/">Salil Bhate</a>! During my PhD, attending MIA exposed me to branches of computational bio(medicine) outside of the scope of my graduate department. It is wonderful to be contributing to this community now! </td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>17 July 2023</strong></td>
-  <td>Started my postdoctoral fellowship at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with some of the scientists I have long admired. </td>
+  <td>Started my <strong>postdoctoral fellowship</strong> at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with some of the scientists I have long admired. </td>
  </tr>
  <tr>
   <td class='col-md-3'><strong>10 Apr 2023</strong></td>
-  <td>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a> I feel really grateful to my primary doctoral advisor, Ritambhara Singh, who has been such a great role model and an empathetic leader throughout my doctoral journey.</td>
+  <td><strong>Defended <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193">my PhD thesis!</a><strong> I feel really grateful to my primary doctoral advisor, Ritambhara Singh, who has been such a great role model and an empathetic leader throughout my doctoral journey.</td>
  </tr>
 <tr>
   <td class='col-md-3'><strong>12 Feb 2023</strong></td>
-  <td>Presented our on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193"> <em> "Unbalanced CO-Optimal Transport" </em></a> at the <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a> in Washington, D.C. </td>
+  <td>Presented our <strong>poster </strong> on our collaboration paper,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26193"> <em> "Unbalanced CO-Optimal Transport", </em></a> accepted at the <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence</a> in Washington, D.C. </td>
  </tr>
  <tr>
 </tr>
