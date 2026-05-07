@@ -30,11 +30,11 @@ title: "Updates"
   <td><strong>Co-organized</strong> <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
  </tr>
 <tr>
-  <td class='col-md-3'><strong>27 March 2026</strong></td>
+  <td class='col-md-3'><strong>27 Mar 2026</strong></td>
   <td>My BSRP intern, <a href="https://www.broadinstitute.org/bios/erica-brown">Erica Brown</a>, accepted her admissions offer to the Statistics PhD program at the University of Michigan! Super thrilled! </td>
  </tr>
 <tr>
-  <td class='col-md-3'><strong>18 March 2026</strong></td>
+  <td class='col-md-3'><strong>18 Mar 2026</strong></td>
   <td>Gave an <strong>invited talk</strong> at <a href="https://www.wias-berlin.de/workshops/OTNoise2026/">the Workshop on Optimal Transport and Noise: OT meets (S)PDEs</a> organized by <a href="https://www.wias-berlin.de/">the Weierstrass Institute for Applied Analysis and Stochastics (WIAS @ Berlin) </a> on <em>“Learning the drivers of continuous-time cell state and tissue-state dynamics via multi-marginal flow matching and OT”.</em> </td>
  </tr>
  <tr>
@@ -152,7 +152,7 @@ title: "Updates"
   <td>Joined the <strong>steering committee</strong> of the <a href="https://www.broadinstitute.org/talks/spring-2025/mia">Models, Inference and Algorithms (MIA) Initiative</a> at the Broad Institute, many thanks to the invitation by the current co-chair <a href="https://salilb1.github.io/">Salil Bhate</a>! During my PhD, attending MIA exposed me to branches of computational bio(medicine) outside of the scope of my graduate department. It is wonderful to be contributing to this community now! </td>
  </tr>
 <tr>
-  <td class='col-md-3'><strong>17 July 2023</strong></td>
+  <td class='col-md-3'><strong>17 Jul 2023</strong></td>
   <td>Started my <strong>postdoctoral fellowship</strong> at the <a href="https://ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at the <a href="https://broadinstitute.org/">Broad Institute of MIT and Harvard</a>. I’m looking forward to the next three years as I work to establish my independent research agenda, collaborating with some of the scientists I have long admired. </td>
  </tr>
  <tr>
@@ -256,7 +256,7 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>2 March 2021</strong></td>
+  <td class='col-md-3'><strong>2 Mar 2021</strong></td>
   <td> My Ph.D. co-adviser, <a href="https://istrail-lab.github.io/sorin-istrail/"> Sorin Istrail.</a>, has been named <a href="https://www.iscb.org/iscb-news-items/4626-2021-march02-iscb-congratulates-introduces-2021-class-fellows">an International Society for Computational Biology (ISCB) fellow</a> for his foundational contributions to computational biology!</td>
 </tr>
 <tr>
@@ -298,37 +298,37 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>23 Sept 2020</strong></td>
+  <td class='col-md-3'><strong>23 Sep 2020</strong></td>
   <td> My Ph.D. adviser, <a href="https://ritambharasingh.com/">Ritambhara Singh, Ph.D.</a> presented our work titled <a href="https://dl.acm.org/doi/10.1145/3388440.3412410"><em>"Unsupervised manifold alignment for single-cell multi-omics data"</em></a>"at the <a href="https://acm-bcb.org/2020/index.php?page=accepted_papers">2020 ACM-BCB conference.</a></td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>18 Sept 2020</strong></td>
+  <td class='col-md-3'><strong>18 Sep 2020</strong></td>
   <td> Last day of my <strong>internship</strong> at <a href="https://www.microsoft.com/en-us/research/research-area/medical-health-genomics/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13553&sort_by=most-recent">Microsoft Research</a>, where I built a Bayesian variable selection pipeline on the cloud for biomarker discovery from genomic data. Had a really nice time with the Genomics Team! </td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>17 July 2020</strong></td>
+  <td class='col-md-3'><strong>17 Jul 2020</strong></td>
   <td> Received the <strong>2020 ICML WCB Fellowship award.</strong></td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>17 July 2020</strong></td>
+  <td class='col-md-3'><strong>17 Jul 2020</strong></td>
   <td> <strong>Spotlight talk</strong> (by me) and <strong>poster</strong> presentation (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) on our work on single-cell multi-omics integration at the <a href="https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5721"> 2020 International Conference in Machine Learning (ICML) - Workshop on Computational Biology)</a>. Poster presentation received <strong>the Best Poster Award.</strong></td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>15 July 2020</strong></td>
+  <td class='col-md-3'><strong>15 Jul 2020</strong></td>
   <td> <a href="https://www.berkalpay.com/">Berk Alpay</a> presented our paper <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i194/5870481?login=true"><em>"Combinatorial and statistical prediction of gene expression from haplotype sequence"</em></a> at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. <br> Video <a href="https://www.youtube.com/watch?v=DOjjnfPGMEc">here.</a></td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>14 July 2020</strong></td>
+  <td class='col-md-3'><strong>14 Jul 2020</strong></td>
   <td> Presented our work on single-cell multi-omics integration at the <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi"> 28th Conference on Intelligent Systems in Molecular Biology (ISMB)</a>. Video for <strong>poster</strong> presentation (by me) is <a href="https://www.youtube.com/watch?v=urN7mwDEkhw">here</a> and the video for <strong>talk</strong> (by <a href="https://sites.google.com/brown.edu/rebecca-santorella/">Rebecca Santorella</a>) is <a href="https://www.youtube.com/watch?v=zGDNe-rErJM">here</a></td>
 </tr>
 <tr>
@@ -364,7 +364,7 @@ title: "Updates"
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'><strong>02 July 2019</strong></td>
+  <td class='col-md-3'><strong>02 Jul 2019</strong></td>
   <td> Our paper on my work at MIT as a research associate, <a href="https://journals.asm.org/doi/full/10.1128/JB.00259-19"><em>"Rapid Accumulation of Motility-Activating Mutations in Resting Liquid Culture of Escherichia coli"</em></a> got <strong>accepted for publication</strong> at the<a href="https://journals.asm.org/journal/jb"> Journal of Bacteriology</a></td>
 </tr>
 </table>
