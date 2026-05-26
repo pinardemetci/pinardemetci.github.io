@@ -19,11 +19,10 @@ title: "Updates"
   <td class='col-md-3'><strong>10-11 July 2026</strong></td>
   <td>Our submission on <em>“Multi-scale flow matching for continuous-time generative modeling of spatiotemporal tissue dynamics from spatial transcriptomics”</em> was accepted as a <strong>spotlight paper</strong> and will appear at the <a href="https://genbio-workshop.github.io/2026/">ICML Workshop on Generative and Agentic AI for Biology (GenBio)</a>.</td>
  </tr>
-	
-<tr>
+<!-- <tr>
   <td class='col-md-3'><strong>26-31 May 2026</strong></td>
   <td>Our submission on <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions”</em> was accepted for a <strong>poster presentation</strong> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
- </tr>
+ </tr> -->
 </table>
 
 
