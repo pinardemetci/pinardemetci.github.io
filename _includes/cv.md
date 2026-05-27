@@ -163,7 +163,7 @@ div.interest-container>ul {
     <strong>Multi-Scale Flow Matching for Continuous-time Generative Modeling of Spatiotemporal Tissue Dynamics from Spatial Transcriptomics</strong><br>
     <strong> P. Demetci </strong>, T. Guan, B. Xia, L. Atanackovic<br>
     <em>ICML GenBio</em> <br>
-    [9] 
+    [13] 
 [<a href='javascript:;'
     onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
 <div style="padding: 0.2em; background-color: #175783; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 120px;">
@@ -185,7 +185,7 @@ Understanding how tissue organization changes over time in response to signals f
     <strong>Single-cell genomics of the mouse olfactory cortex reveals contrasts with neocortex and ancestral signatures of cell type evolution</strong><br>
     S. Zeppilli, A. Ortega Gurrola, <strong>P. Demetci</strong>, DH. Brann, R. Attey, N. Zilkha, T. Kimchi, SR. Datta, R. Singh, MA. Tosches, A. Crombach, A. Fleischmann<br>
     <em>Nature Neuroscience</em> <br>
-    [9] 
+    [12] 
 [<a href='javascript:;'
     onclick='$("#abs_zeppilli").toggle()'>abstract</a>] [<a href='https://www.nature.com/articles/s41593-025-01924-3' target='_blank'>paper</a>] [<a href='https://gitlab.com/fleischmann-lab/papers/zeppilli-et-al-2023' target='_blank'>code</a>] <br>
     
@@ -201,7 +201,7 @@ Understanding the molecular logic of cortical cell-type diversity can illuminate
     <strong>SCOT+: A comprehensive software suite for single-cell alignment using optimal transport</strong><br>
     C, Baker, T. Pham, <strong> P. Demetci </strong>, Q.H. Tran, I. Redko, B. Sandstede, R. Singh<br>
     <em>Bioinformatics Advances</em> <br>
-    [9] 
+    [11] 
 [<a href='javascript:;'
     onclick='$("#abs_scotplus").toggle()'>abstract</a>] [<a href='https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf314/8373478?guestAccessKey=' target='_blank'>paper</a>] [<a href='https://github.com/scotplus/scotplus' target='_blank'>code</a>] <br>
     
@@ -222,7 +222,7 @@ New advances in single-cell multi-omics experiments have allowed biologists to e
     Proceedings of the 27th International Conference on Artificial Intelligence and Statistics <br>
     <em>(AISTATS 2024)</em><br>
     Proceedings of Machine Learning Research (PMLR)<br>
-    [11] 
+    [10] 
 [<a href='javascript:;'
     onclick='$("#abs_demetciagw").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2307.10093' target='_blank'>paper</a>] [<a href='https://github.com/pinardemetci/AGW-AISTATS24' target='_blank'>code</a>] <br>
     
@@ -241,7 +241,7 @@ Gromov-Wasserstein distance has many applications in machine learning due to its
     Q.H. Tran, H. Janati, N. Courty, R. Flamary, I. Redko, <strong>P. Demetci</strong>,  R Singh<br>
     Proceedings of the 37th AAAI Conference on Artificial Intelligence<br>
     <em>(AAAI 2023)</em><br>
-    [10] 
+    [9] 
 [<a href='javascript:;'
     onclick='$("#abs_ucoot").toggle()'>abstract</a>] [<a href='https://ojs.aaai.org/index.php/AAAI/article/view/26193/25965' target='_blank'>paper</a>] [<a href='https://github.com/6Ulm/UCOOT' target='_blank'>code</a>] <br>
     
