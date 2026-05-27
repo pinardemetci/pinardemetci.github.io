@@ -156,7 +156,7 @@ div.interest-container>ul {
 
 #### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
 <h4>2026</h4>
-
+<table class="table table-hover">
 <tr>
 <td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
 <td>
@@ -174,7 +174,7 @@ Understanding how tissue organization changes over time in response to signals f
 </div>
 </td>
 </tr>
-
+</table>
 
 <h4>2025</h4>
 <table class="table table-hover">
