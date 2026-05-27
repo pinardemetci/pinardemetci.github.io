@@ -166,7 +166,7 @@ div.interest-container>ul {
     [13] 
 [<a href='javascript:;'
     onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
-<div style="padding: 0.2em; background-color: #952C3D; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 225px;">
+<div style="padding: 0.2em; background-color: #952C3D; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 220px;">
          Accepted as a Spotlight Paper
       </div>  
 <div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
