@@ -144,14 +144,14 @@ div.interest-container>ul {
   <td class='col-md-3'>June 2017 - August 2018</td>
   <td><strong>Massachusetts Institute of Technology</strong>, Research Support Associate (Cambridge, MA)</td>
 </tr>
-<tr>
+<!-- <tr>
   <td class='col-md-3'>Jan 2016 - Oct 2016</td>
   <td><strong>Design That Matters</strong>, Student Engineer (Salem, MA)</td>
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2015 - Dec 2015</td>
   <td><strong>Daktari Diagnostics</strong>, Student Engineer (Cambridge, MA)</td>
-</tr>
+</tr> -->
 </table>
 
 #### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
