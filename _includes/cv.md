@@ -155,6 +155,26 @@ div.interest-container>ul {
 </table>
 
 #### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
+<h4>2026</h4>
+<tr>
+<td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
+<td>
+    <strong>Multi-Scale Flow Matching for Continuous-time Generative Modeling of Spatiotemporal Tissue Dynamics from Spatial Transcriptomics</strong><br>
+    <strong> P. Demetci </strong>, T. Guan, B. Xia, L. Atanackovic<br>
+    <em>ICML GenBio</em> <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>]  <br>
+<div style="padding: 0.2em; background-color: #175783; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 155px;">
+         Spotlight Paper
+      </div>  
+<div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
+Understanding how tissue organization changes over time in response to signals from the local cellular environment is a fundamental challenge in developmental biology, cancer biology, and regenerative medicine. Spatial transcriptomics enables the characterization of cell states within their native microenvironment. Yet tissue remodeling unfolds continuously, while spatial transcriptomics only captures fragments, yielding unmatched cross-sectional snapshots from a few time points due to its destructive nature. This necessitates computational approaches to reconstruct dynamics from sparse observations. Existing methods either do not model the temporal dynamics or ignore cell signaling effects. We introduce ChronoTILE, a multi-scale, multi-marginal flow matching framework that jointly models continuous-time spatiotemporal tissue dynamics. ChronoTILE accounts for cell-cell interactions, and models niche-mediated signaling effects, across the full course of a biological process. Applied to an axolotl telencephalon regeneration atlas, ChronoTILE outperforms existing methods in reconstructing held-out slices and reveals a temporal shift toward differentiation-driven cell signaling from injury-driven effects as the tissue recovers, enabling data-driven discovery of the multicellular programs governing tissue remodeling.</div>
+</td>
+</tr>
+
+
+
 <h4>2025</h4>
 <table class="table table-hover">
 
