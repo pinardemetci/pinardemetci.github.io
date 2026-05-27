@@ -19,10 +19,6 @@ title: "Updates"
   <td class='col-md-3'><strong>10-11 July 2026</strong></td>
   <td>Our submission on <em>“Multi-scale flow matching for continuous-time generative modeling of spatiotemporal tissue dynamics from spatial transcriptomics”</em> was accepted as a <strong>spotlight paper</strong> and will appear at the <a href="https://genbio-workshop.github.io/2026/">ICML Workshop on Generative and Agentic AI for Biology (GenBio)</a>.</td>
  </tr>
-<!-- <tr>
-  <td class='col-md-3'><strong>26-31 May 2026</strong></td>
-  <td>Our submission on <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions”</em> was accepted for a <strong>poster presentation</strong> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>.</td>
- </tr> -->
 </table>
 
 
@@ -34,11 +30,17 @@ title: "Updates"
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
   </tr>
-
+	
+<!-- <tr>
+  <td class='col-md-3'><strong>27 May 2026</strong></td>
+  <td>Presented our work modeling spatiotemporal tissue architecture remodeling with multi-scale flow matching as a <strong>virtual poster</strong> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, under the title <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions.”</em></td>
+ </tr> -->
+	
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
   <td><strong>Co-organized</strong> <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
  </tr>
+ 
 <tr>
   <td class='col-md-3'><strong>27 Mar 2026</strong></td>
   <td>My BSRP intern, <a href="https://www.broadinstitute.org/bios/erica-brown">Erica Brown</a>, accepted her admissions offer to the Statistics PhD program at the University of Michigan! Super thrilled! </td>
