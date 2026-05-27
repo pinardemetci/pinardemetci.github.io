@@ -166,8 +166,8 @@ div.interest-container>ul {
     [13] 
 [<a href='javascript:;'
     onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
-<div style="padding: 0.2em; background-color: #a64452; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 200px;">
-         Selected as Spotlight Paper
+<div style="padding: 0.2em; background-color: #8d2032; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 210px;">
+         Selected as a Spotlight Paper
       </div>  
 <div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
 Understanding how tissue organization changes over time in response to signals from the local cellular environment is a fundamental challenge in developmental biology, cancer biology, and regenerative medicine. Spatial transcriptomics enables the characterization of cell states within their native microenvironment. Yet tissue remodeling unfolds continuously, while spatial transcriptomics only captures fragments, yielding unmatched cross-sectional snapshots from a few time points due to its destructive nature. This necessitates computational approaches to reconstruct dynamics from sparse observations. Existing methods either do not model the temporal dynamics or ignore cell signaling effects. We introduce ChronoTILE , a multi-scale, multi-marginal flow matching framework that jointly odels continuous-time spatiotemporal tissue dynamics. ChronoTILE accounts for cell-cell interactions, and models niche-mediated signaling effects, across the full course of a biological process. Applied to an axolotl telencephalon regeneration atlas, ChronoTILE outperforms existing methods in reconstructing held-out slices and reveals a temporal shift toward differentiation-driven cell signaling from injury-driven effects as the tissue recovers, enabling data-driven discovery of the multicellular programs governing tissue remodeling.
@@ -304,7 +304,7 @@ Recent advances in sequencing technologies have allowed us to capture various as
     [6] 
 [<a href='javascript:;'
     onclick='$("#abs_demetcisantorella").toggle()'>abstract</a>] [<a href='https://www.biorxiv.org/content/10.1101/2020.04.28.066787v1' target='_blank'>paper</a>] [<a href='https://github.com/rsinghlab/SCOT' target='_blank'>code</a>] [<a href='https://rsinghlab.github.io/SCOT/' target='_blank'>tutorial</a>] <br>
-<div style="padding: 0.2em; background-color: #a64452; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 225px;">
+<div style="padding: 0.2em; background-color: #8d2032; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 225px;">
          ICML WCB Best Poster Award
       </div>  
 <div id="abs_demetcisantorella" style="text-align: justify; display: none" markdown="1">
