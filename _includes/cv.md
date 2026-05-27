@@ -2,7 +2,7 @@
 <!-- I am a **data scientist** and **ML/AI researcher**, focusing on **computational biology** and **biomedicine** applications. As such,  -->
 I am a postdoctoral researcher at the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) of the **Broad Institute of MIT and Harvard**. My research is at the intersection of **computer science**, **molecular biology**, and **statistics**. I develop algorithms and machine learning models to integrate multi-modal genomic data, with a goal of understanding cellular dynamics in health and disease and assisting cell state engineering. I received my Ph.D. in computer science and computational biology from **Brown University**, under the advisement of [Ritambhara Singh, Ph.D.](http://rsinghlab.org/) (primary advisor) and [Sorin Istrail, Ph.D.](https://www.brown.edu/Research/Istrail_Lab/sorin.php) My [doctoral dissertation](https://repository.library.brown.edu/studio/item/bdr:er5vz2ca/) was on optimal transport algorithms for integrated analysis of single-cell multi-omics data. </p> 
 <p align='justify'>
-This year, I am co-organizing the [Generative AI in Genomics (Gen²): Barriers and Frontiers Workshop](https://genai-in-genomics.github.io/) at [ICLR 2026](https://iclr.cc/). If you are in the field, consider joining us this April! Since September 2023, I've also been involved in organizing the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host talks by computational scientists in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  </p>
+This year, I co-organized the [Generative AI in Genomics (Gen²): Barriers and Frontiers Workshop](https://genai-in-genomics.github.io/) at [ICLR 2026](https://iclr.cc/). Since September 2023, I've also been involved in organizing the [Models, Inference, and Algorithms (MIA)](https://www.broadinstitute.org/talks/fall-2023/mia) seminar series at the Broad, where we host talks by computational scientists in bio(medicine). You can check out our [upcoming schedule](https://www.broadinstitute.org/talks/fall-2023/mia) and [past talks](https://www.youtube.com/watch?v=zE_G9rjIhEQ&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).  </p>
 <!-- I am honored to be recognized as part of the [Rising Stars in EECS 2022 cohort](https://risingstars.utexas.edu/#:~:text=Rising%20Stars%20is%20an%20intensive,artificial%20intelligence%20and%20decision%2Dmaking.) by The University of Texas at Austin.<br>
  --><!-- 
 Before joining Brown, I received my bachelor’s degree in **bioengineering** from **Olin College of Engineering**. There, I worked with [Jean J. Huang, Ph.D.](http://www.olin.edu/faculty/profile/jean-j-huang/) and [John Geddes, Ph.D.](http://www.olin.edu/faculty/profile/john-b-geddes) on bioinformatic analyses and dynamical modeling of microbial communities under various perturbations. Later, I worked in the [Quantitative Biology Lab](http://gwli.scripts.mit.edu/group/?p=737), led by [Gene-Wei Li, Ph.D.](https://biology.mit.edu/profile/gene-wei-li/) at the **Massachusetts Institute of Technology (MIT)**, as a research support associate and lab manager, exploring gene regulatory network rewiring in bacteria. In the summers of 2020 and 2022, I interned with two [Health Futures groups](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) at **Microsoft Research.** <br> -->
@@ -157,6 +157,23 @@ div.interest-container>ul {
 #### <i class="fa fa-chevron-right"></i> Research Publications <a href="https://scholar.google.com/citations?user=0Tzd6eAAAAAJ&hl=en" class="btn btn-primary" style="padding: 0.3em;"><i class="ai ai-google-scholar"></i> Google Scholar </a>
 <h4>2026</h4>
 
+<tr>
+<td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
+<td>
+    <strong>Multi-Scale Flow Matching for Continuous-time Generative Modeling of Spatiotemporal Tissue Dynamics from Spatial Transcriptomics</strong><br>
+    <strong> P. Demetci </strong>, T. Guan, B. Xia, L. Atanackovic<br>
+    <em>ICML GenBio</em> <br>
+    [9] 
+[<a href='javascript:;'
+    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
+<div style="padding: 0.2em; background-color: #175783; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 120px;">
+         Spotlight Paper
+      </div>  
+<div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
+Understanding how tissue organization changes over time in response to signals from the local cellular environment is a fundamental challenge in developmental biology, cancer biology, and regenerative medicine. Spatial transcriptomics enables the characterization of cell states within their native microenvironment. Yet tissue remodeling unfolds continuously, while spatial transcriptomics only captures fragments, yielding unmatched cross-sectional snapshots from a few time points due to its destructive nature. This necessitates computational approaches to reconstruct dynamics from sparse observations. Existing methods either do not model the temporal dynamics or ignore cell signaling effects. We introduce ChronoTILE , a multi-scale, multi-marginal flow matching framework that jointly odels continuous-time spatiotemporal tissue dynamics. ChronoTILE accounts for cell-cell interactions, and models niche-mediated signaling effects, across the full course of a biological process. Applied to an axolotl telencephalon regeneration atlas, ChronoTILE outperforms existing methods in reconstructing held-out slices and reveals a temporal shift toward differentiation-driven cell signaling from injury-driven effects as the tissue recovers, enabling data-driven discovery of the multicellular programs governing tissue remodeling.
+</div>
+</td>
+</tr>
 
 
 <h4>2025</h4>
@@ -174,22 +191,6 @@ div.interest-container>ul {
     
 <div id="abs_zeppilli" style="text-align: justify; display: none" markdown="1">
 Understanding the molecular logic of cortical cell-type diversity can illuminate cortical circuit function and evolution. Here, we performed single-nucleus transcriptome and chromatin accessibility analyses to compare neurons across three- to six-layered cortical areas of adult mice and across tetrapod species. We found that, in contrast to the six-layered neocortex, glutamatergic neurons of the three-layered mouse olfactory (piriform) cortex displayed continuous rather than discrete variation in transcriptomic profiles. Subsets of piriform and neocortical glutamatergic cells with conserved transcriptomic profiles were distinguished by distinct, area-specific epigenetic states. Furthermore, we identified a prominent population of immature neurons in piriform cortex and observed that, in contrast to the neocortex, piriform cortex exhibited divergence between glutamatergic cells in laboratory versus wild-derived mice. Finally, we showed that piriform neurons displayed greater transcriptomic similarity to cortical neurons of turtles, lizards and salamanders than to those of the neocortex. In summary, despite over 200 million years of coevolution alongside the neocortex, olfactory cortex neurons retain molecular signatures of ancestral cortical identity.
-</div>
-</td>
-</tr>
-
-<tr>
-<td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
-<td>
-    <strong>Learning Continuous-Time Molecular Dynamics of Tissue Remodeling from Spatial Transcriptomic Snapshots with Biology-Aware Flow Matching</strong><br>
-    <strong> P. Demetci </strong>, G.M. Gonzalez<br>
-    <em>NeurIPS LXAI</em> <br>
-    [9] 
-[<a href='javascript:;'
-    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'>paper</a>] [<a href='[https://github.com/scotplus/scotplus](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
-    
-<div id="abs_spatial" style="text-align: justify; display: none" markdown="1">
-Understanding the molecular mechanisms of tissue regeneration requires reconstructing continuous spatiotemporal dynamics from sparse, irregularly sampled data. We introduce a computational framework that learns these dynamics using a multi-marginal flow matching approach. Our model explicitly accounts for cell proliferation and signaling, and constrains inferred trajectories to the data manifold to ensure biological plausibility. To capture the influence of the microenvironment, we condition the flows on cell-cell signaling representations. For efficient training, we use semi-balanced Fused Gromov-Wassertein couplings to pick multi-marginal samples for training and define conditional reference paths based on cubic Hermite splines. We then decompose the learned velocity field into spatial and gene expression components, disentangling the factors behind tissue migration from molecular state transitions. Applied to an axolotl brain regeneration and ulcerative colitis datasets, our method recovers cell type-specific signaling influences such as Wnt and TGF-\(\beta\) and immune signaling in inflammation. It successfully reconstructs tissue composition at unseen time points, particularly under irregular sampling. This work provides a scalable and interpretable framework for studying dynamic tissue remodeling from limited spatial transcriptomic observations.
 </div>
 </td>
 </tr>
