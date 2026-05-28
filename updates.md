@@ -19,6 +19,11 @@ title: "Updates"
   <td class='col-md-3'><strong>10-11 July 2026</strong></td>
   <td>Our submission on <em>“Multi-scale flow matching for continuous-time generative modeling of spatiotemporal tissue dynamics from spatial transcriptomics”</em> was accepted as a <strong>spotlight paper</strong> and will appear at the <a href="https://genbio-workshop.github.io/2026/">ICML Workshop on Generative and Agentic AI for Biology (GenBio)</a>.</td>
  </tr>
+  <tr>
+  <td class='col-md-3'><strong>26-30 May 2026</strong></td>
+  <td>Giving a <strong>poster presentation</strong> on our work <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching”</em> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, </td>
+ </tr>
+
 </table>
 
 
@@ -29,13 +34,7 @@ title: "Updates"
     <td colspan="2" style="text-align: center; padding: 20px 0 10px 0;">
       <h4 style="margin: 0;"><strong>2026</strong></h4>
     </td>
-  </tr>
-	
-<!-- <tr>
-  <td class='col-md-3'><strong>27 May 2026</strong></td>
-  <td>Presented our work modeling spatiotemporal tissue architecture remodeling with multi-scale flow matching as a <strong>virtual poster</strong> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, under the title <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching reveals niche-mediated drivers of cell state transitions.”</em></td>
- </tr> -->
-	
+  </tr>	
 <tr>
   <td class='col-md-3'><strong>27 Apr 2026</strong></td>
   <td><strong>Co-organized</strong> <a href="https://genai-in-genomics.github.io/">the 1st Workshop on Generative AI in Genomics (Gen2): Barriers and Frontiers</a> at <a href="https://iclr.cc">ICLR 2026</a> in Rio de Janeiro, Brazil, which was a success! We will reflect on the themes and take-aways from our workshop and follow-up with a report.</td>
