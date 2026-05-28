@@ -21,7 +21,7 @@ title: "Updates"
  </tr>
   <tr>
   <td class='col-md-3'><strong>26-30 May 2026</strong></td>
-  <td>Giving a <strong>poster presentation</strong> on our work <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching”</em> at <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">the 90th CSHL Symposium: AI in Biology</a>, </td>
+  <td>Giving a <strong>poster presentation</strong> on our work <em>“Generative modeling of multi-scale tissue remodeling dynamics with flow matching”</em> at the <a href="https://meetings.cshl.edu/meetings.aspx?meet=SYMP">90th CSHL Symposium: AI in Biology</a>. </td>
  </tr>
 
 </table>
