@@ -158,7 +158,7 @@ div.interest-container>ul {
 <h4>2026</h4>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://openreview.net/pdf?id=RpgaMJ0ovu' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
+<td class="col-md-3"><a href='https://openreview.net/pdf?id=enjO6tMfue' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
 <td>
     <strong>Multi-Scale Flow Matching for Continuous-time Generative Modeling of Spatiotemporal Tissue Dynamics from Spatial Transcriptomics</strong><br>
     <strong> P. Demetci </strong>, T. Guan, B. Xia, L. Atanackovic<br>
