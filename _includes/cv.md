@@ -158,14 +158,14 @@ div.interest-container>ul {
 <h4>2026</h4>
 <table class="table table-hover">
 <tr>
-<td class="col-md-3"><a href='https://openreview.net/pdf?id=enjO6tMfue' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
+<td class="col-md-3"><a href='https://openreview.net/forum?id=enjO6tMfue' target='_blank'><img src="images/publications/spatialFM.png"/></a> </td>
 <td>
     <strong>Multi-Scale Flow Matching for Continuous-time Generative Modeling of Spatiotemporal Tissue Dynamics from Spatial Transcriptomics</strong><br>
     <strong> P. Demetci </strong>, T. Guan, B. Xia, L. Atanackovic<br>
     <em>ICML GenBio</em> <br>
     [13] 
 [<a href='javascript:;'
-    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
+    onclick='$("#abs_spatial").toggle()'>abstract</a>] [<a href='https://openreview.net/pdf?id=enjO6tMfue' target='_blank'>paper</a>] [<a href='[https://github.com/pinardemetci/CHRONOTILE](https://github.com/pinardemetci/CHRONOTILE)' target='_blank'>code</a>] <br>
 <div style="padding: 0.2em; background-color: #952C3D; color: white; border-radius: 4px; font-size: 1.0em; height: 28px; width: 220px;">
          Accepted as a Spotlight Paper
       </div>  
